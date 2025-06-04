@@ -20,9 +20,9 @@ I'm a **Python developer** with a passion for **data science** and **machine lea
 
 ## 📫 Let’s Connect!
 - 📧 Email: [bruceamalemba007@gmail.com](mailto:bruceamalemba007@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- 💼 LinkedIn: [Brucewashika](https://www.linkedin.com/in/%20bruce-washika-1aaa56310)
 - 🐦 X: [@BruceWashika](https://x.com/BruceWashika?t=PP5hLZYfMSF5JDgGvZIxRA&s=09)
-- 🌐 Portfolio: [Your Portfolio Website](link-to-portfolio)
+- 🌐 Portfolio: [BruceAmalemba](https://brucesportfolio.vercel.app/)
 
 *Got an idea for a data science or ML project? Let’s collaborate and build something amazing!*
 

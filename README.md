@@ -60,7 +60,7 @@ Here are some of my standout projects. Dive into my repositories to explore more
 | **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=plastic) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=plastic) ![mglearn](https://img.shields.io/badge/-mglearn-6B7280?logo=python&logoColor=white&style=plastic) |
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=plastic) ![Seaborn](https://img.shields.io/badge/-Seaborn-0B6623?logo=python&logoColor=white&style=plastic) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=plastic) |
 | **Optimization**  | ![Linear Programming](https://img.shields.io/badge/-Linear%20Programming-00A1D6?logo=mathworks&logoColor=white&style=plastic) |
-| **Tools**         | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=plastic) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic) *(Add others as applicable)* |
+| **Tools**         | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=plastic) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic)  |
 
 ---
 
@@ -115,7 +115,7 @@ I’m always excited to collaborate on data science, ML, or optimization project
 ## 💖 Support My Work
 
 <p align="center">
-  <a href="https://paypal.me/your-paypal-username"><img src="https://img.shields.io/badge/-PayPal-0070BA?logo=paypal&logoColor=white&style=plastic" alt="Support via PayPal" height="32"/></a>
+  <a href="https://paypal.me/Bruce Amalemba"><img src="https://img.shields.io/badge/-PayPal-0070BA?logo=paypal&logoColor=white&style=plastic" alt="Support via PayPal" height="32"/></a>
   <a href="https://github.com/sponsors/BruceAmalemba"><img src="https://img.shields.io/badge/-Sponsor-FF69B4?logo=github-sponsors&logoColor=white&style=plastic" alt="Sponsor on GitHub" height="32"/></a>
 </p>
 

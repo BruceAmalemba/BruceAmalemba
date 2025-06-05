@@ -38,15 +38,15 @@ Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data 
 
 Here are some of my standout projects. Dive into my repositories to explore more!
 
-- **[Machine-Learning-Models](https://github.com/BruceAmalemba/Machine-Learning-Models)**: A collection of machine learning models built with Scikit-learn, TensorFlow, and visualized using Seaborn and Matplotlib. *(carried out several projects .)*
-- **[Ambururu-Waterfall-Resort](https://github.com/BruceAmalemba/web-2)**: A data-driven web application leveraging Tableau for visualizations and SQL for data processing. *(Update with specific project details.)*
+- **[Machine-Learning-Models](https://github.com/BruceAmalemba/Machine-Learning-Models)**: A comprehensive collection of machine learning projects, including classification, regression, and clustering models, built with Scikit-learn and TensorFlow, with visualizations created using Seaborn and Matplotlib.
+- **[Ambururu-Waterfall-Resort](https://github.com/BruceAmalemba/web-2)**: A web application for a resort, featuring data-driven insights with Tableau dashboards and SQL-powered data processing for customer analytics and booking trends.
 - **[Project Name 3](https://github.com/BruceAmalemba/project3)**: A project showcasing optimization with Linear Programming and data analysis with R. *(Update with specific project details.)*
 
 *Check out my pinned repositories below for more exciting work!*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Machine-Learning-Models&theme=dracula&hide_border=true" alt="Machine-Learning-Models" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=web-2&theme=dracula&hide_border=true" alt="Web-2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=web-2&theme=dracula&hide_border=true" alt="Ambururu-Waterfall-Resort" />
 </p>
 
 ---
@@ -61,6 +61,17 @@ Here are some of my standout projects. Dive into my repositories to explore more
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=plastic) ![Seaborn](https://img.shields.io/badge/-Seaborn-0B6623?logo=python&logoColor=white&style=plastic) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=plastic) |
 | **Optimization**  | ![Linear Programming](https://img.shields.io/badge/-Linear%20Programming-00A1D6?logo=mathworks&logoColor=white&style=plastic) |
 | **Tools**         | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=plastic) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic) *(Add others as applicable)* |
+
+---
+
+## 🌟 Skills Showcase
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=plastic&labelColor=FF6F00" alt="Machine Learning" height="32"/>
+  <img src="https://img.shields.io/badge/-Data%20Visualization-E97627?logo=tableau&logoColor=white&style=plastic&labelColor=E97627" alt="Data Visualization" height="32"/>
+  <img src="https://img.shields.io/badge/-Optimization-00A1D6?logo=mathworks&logoColor=white&style=plastic&labelColor=00A1D6" alt="Optimization" height="32"/>
+  <img src="https://img.shields.io/badge/-Web%20Development-FF5733?logo=web&logoColor=white&style=plastic&labelColor=FF5733" alt="Web Development" height="32"/>
+</p>
 
 ---
 
@@ -98,14 +109,14 @@ I’m always excited to collaborate on data science, ML, or optimization project
 <p align="center">
   <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" height="32"/></a>
   <a href="https://x.com/BruceWashika?t=PP5hLZYfMSF5JDgGvZIxRA&s=09"><img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=plastic" alt="X" height="32"/></a>
-  <a href="https://brucesportfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5733?logo=web&logoColor=white&style=plastic" alt="Portfolio elekt" height="32"/></a>
+  <a href="https://brucesportfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5733?logo=web&logoColor=white&style=plastic" alt="Portfolio" height="32"/></a>
 </p>
 
 ## 💖 Support My Work
 
 <p align="center">
-  <a href="https://buymeacoffee.com/your-username"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee Robinhood: [Support on Buy Me a Coffee](https://www.buymeacoffee.com/your-username) *(Replace with your Buy Me a Coffee link if you have one)*  
-  <a href="https://github.com/sponsors/BruceAmalemba"><img src="https://img.shields.io/badge/Sponsor-FF69B4?logo=github-sponsors&logoColor=white&style=plastic" alt="Sponsor on GitHub" height="32"/></a>
+  <a href="https://paypal.me/your-paypal-username"><img src="https://img.shields.io/badge/-PayPal-0070BA?logo=paypal&logoColor=white&style=plastic" alt="Support via PayPal" height="32"/></a>
+  <a href="https://github.com/sponsors/BruceAmalemba"><img src="https://img.shields.io/badge/-Sponsor-FF69B4?logo=github-sponsors&logoColor=white&style=plastic" alt="Sponsor on GitHub" height="32"/></a>
 </p>
 
 ---

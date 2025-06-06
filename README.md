@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data 
 ## 🕒 Dynamic Clock
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Time-10%3A48%20AM%20EAT-FF6F61?style=plastic&logo=clock&logoColor=white" alt="Dynamic Clock" height="32"/>
+  <img src="https://img.shields.io/badge/Time-11%3A01%20AM%20EAT-FF6F61?style=plastic&logo=clock&logoColor=white" alt="Dynamic Clock" height="32"/>
 </p>
 *(Static time as of June 06, 2025; GitHub doesn't support live updates.)*
 
@@ -199,10 +199,10 @@ Here are some of my standout projects. Dive into my repositories to explore more
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=plastic&logo=google&logoColor=white" alt="Google Data Analytics" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(66, 133, 244, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
   <img src="https://img.shields.io/badge/TensorFlow%20Developer-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow Developer" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 111, 0, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
-  <img src="https://img.shields.io/badge/Tableau%20Desktop%20Specialist-E97627?style=plastic&logo=tableau&logoColor=white" alt="Tableau Desktop Specialist" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(233, 118, 39, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <img src="https://img.shields.io/badge/Tableau%20Desktop%20Specialist-E97627?style=plastic&logo=tableau&logoColor=white" alt="Tableau Desktop Specialist" height="32" style="height" onmouseover="this.style.boxShadow='0 0 10px rgba(233, 66, 39, 0.7)'" onmouseout="this" />
 </p>
 
-*(Update with your actual certifications if available.)*
+*(Update with actual certifications if available.)*
 
 ---
 
@@ -223,7 +223,7 @@ Python 🌍 Web Dev
 
 ## 📜 Data Science Timeline
 
-<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
   <table align="center">
     <tr>
       <th>Year</th>
@@ -253,7 +253,7 @@ Python 🌍 Web Dev
 ## 📈 Data Science Journey Progress
 
 <p align="center">
-  <img src="https://progress-bar.dev/75/?title=2022-2025%20(75%25%20Complete)&color=FF6F61" alt="Data Science Journey Progress" />
+  <img src="https://progress-bar.dev/75/?title=2022-2027%20(75%25%20Complete)&color=FF6F61" alt="Data Science Progress" />
 </p>
 *(From 2022 to a 2027 goal, you're 75% through as of 2025.)*
 
@@ -261,7 +261,7 @@ Python 🌍 Web Dev
 
 ## 📚 Learning Path
 
-<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: 4px 0px 0 0 10px rgba(255, 111, 80, 0.5);">
   <p align="center">
     2022: Python Basics 🐍 ➡️ 2023: Machine Learning with Scikit-learn 🤖 ➡️ 2024: Data Visualization with Tableau 📊 ➡️ 2025: Deep Learning with TensorFlow 🔥
   </p>
@@ -271,138 +271,43 @@ Python 🌍 Web Dev
 
 ## 🗺️ My Data Science Roadmap
 
-I started my data science roadmap on June 3, 2025, and I'm currently on **Day 4**! Here's my plan to become a proficient data scientist, with daily tasks and resources to keep me on track.
+I started this data science roadmap on June 3, 2025, and I'm currently on **Day 5**! Click the progress bar to learn more about my journey.
 
-<p align="center">
-  <img src="https://progress-bar.dev/3/?title=Overall%20Progress%20(3%25%20of%20120%20Days)&color=FF6F61" alt="Roadmap Progress" />
-</p>
-
-<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
-  <table align="center">
-    <tr>
-      <th>Phase</th>
-      <th>Days</th>
-      <th>Goals</th>
-      <th>Resources</th>
-      <th>Progress</th>
-    </tr>
-    <tr>
-      <td><b>Phase 1: Python Fundamentals</b></td>
-      <td>Days 1-10</td>
-      <td>Learn Python basics (variables, loops, functions). Build a small project (e.g., a calculator).</td>
-      <td><a href="https://www.w3schools.com/python/">W3Schools Python</a>, <a href="https://www.codecademy.com/learn/learn-python-3">Codecademy</a></td>
-      <td><img src="https://progress-bar.dev/40/?title=40%25&color=3776AB" alt="Phase 1 Progress" /></td>
-    </tr>
-    <tr>
-      <td><b>Phase 2: Data Analysis Foundations</b></td>
-      <td>Days 11-30</td>
-      <td>Master Pandas, NumPy, and Matplotlib. Analyze a dataset (e.g., sales data).</td>
-      <td><a href="https://pandas.pydata.org/docs/">Pandas Docs</a>, <a href="https://www.kaggle.com/learn/pandas">Kaggle Pandas</a></td>
-      <td><img src="https://progress-bar.dev/0/?title=0%25&color=E97627" alt="Phase 2 Progress" /></td>
-    </tr>
-    <tr>
-      <td><b>Phase 3: Machine Learning Basics</b></td>
-      <td>Days 31-60</td>
-      <td>Learn Scikit-learn for classification and regression. Build a simple ML model (e.g., predict house prices).</td>
-      <td><a href="https://scikit-learn.org/stable/tutorial/index.html">Scikit-learn Tutorials</a>, <a href="https://www.kaggle.com/learn/intro-to-machine-learning">Kaggle ML</a></td>
-      <td><img src="https://progress-bar.dev/0/?title=0%25&color=FF6F00" alt="Phase 3 Progress" /></td>
-    </tr>
-    <tr>
-      <td><b>Phase 4: Deep Learning Exploration</b></td>
-      <td>Days 61-90</td>
-      <td>Dive into TensorFlow for neural networks. Create a deep learning project (e.g., image classification).</td>
-      <td><a href="https://www.tensorflow.org/tutorials">TensorFlow Tutorials</a>, <a href="https://www.coursera.org/learn/deep-learning-ai">DeepLearning.AI</a></td>
-      <td><img src="https://progress-bar.dev/0/?title=0%25&color=4B0082" alt="Phase 4 Progress" /></td>
-    </tr>
-    <tr>
-      <td><b>Phase 5: Deployment & Advanced Topics</b></td>
-      <td>Days 91-120</td>
-      <td>Deploy a model using Flask or Vercel. Explore optimization and AI deployment strategies.</td>
-      <td><a href="https://vercel.com/docs">Vercel Docs</a>, <a href="https://flask.palletsprojects.com/en/3.0.x/">Flask Docs</a></td>
-      <td><img src="https://progress-bar.dev/0/?title=0%25&color=00A1D6" alt="Phase 5 Progress" /></td>
-    </tr>
-  </table>
-</div>
-
-### Phase 1: Daily Tasks (Python Fundamentals)
-
-<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
-  <table align="center">
-    <tr>
-      <th>Day</th>
-      <th>Task</th>
-      <th>Status</th>
-    </tr>
-    <tr>
-      <td>Day 1 (June 3)</td>
-      <td>Learn variables and data types.</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td>Day 2 (June 4)</td>
-      <td>Practice conditionals (if-else).</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td>Day 3 (June 5)</td>
-      <td>Explore loops (for, while).</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td>Day 4 (June 6)</td>
-      <td>Write functions and handle errors.</td>
-      <td>🟡 In Progress</td>
-    </tr>
-    <tr>
-      <td>Day 5 (June 7)</td>
-      <td>Work with lists and dictionaries.</td>
-      <td>⬜ Pending</td>
-    </tr>
-    <tr>
-      <td>Day 6 (June 8)</td>
-      <td>Learn file handling (read/write).</td>
-      <td>⬜ Pending</td>
-    </tr>
-    <tr>
-      <td>Day 7 (June 9)</td>
-      <td>Build a small project: To-Do List.</td>
-      <td>⬜ Pending</td>
-    </tr>
-    <tr>
-      <td>Day 8 (June 10)</td>
-      <td>Build a small project: Calculator.</td>
-      <td>⬜ Pending</td>
-    </tr>
-    <tr>
-      <td>Day 9 (June 11)</td>
-      <td>Review Python basics.</td>
-      <td>⬜ Pending</td>
-    </tr>
-    <tr>
-      <td>Day 10 (June 12)</td>
-      <td>Complete a Python quiz online.</td>
-      <td>⬜ Pending</td>
-    </tr>
-  </table>
+<div style="border: 2px solid transparent; border-radius: 15px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.6);">
+  <p align="center">
+    <a href="https://brucesportfolio.vercel.app">
+      <img src="https://progress-bar.dev/3/?title=Data%20Roadmap%20Progress%20-%203%25%20Complete&color=FF6F61" alt="Roadmap Progress" style="transition: transform 0.3s; box-shadow: 0 0 5px rgba(255, 111, 97, 0.5" onmouseover="this.style.transform='scale(1.1)'" altmouseout="this.style.transform='scale(1)'" />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Current%20Day-Day%205-3776AB?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Day" height="30" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(55, 118, 171, 0.7)'" onmouseout="this.style.boxShadow='none'" />
+  </p>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=FF6F61&center=true&vCenter=true&width=440&lines=Phase+1:+Python+Fundamentals;Today’s+Task:+Lists+and+Dictionaries;Next:+Data+Analysis+with+Pandas" alt="Current Phase" />
+  </p>
+  <p align="center">
+    <span style="font-size: 14px;">
+      🟢 Start (June 3) ➡️ 🟡 Day 5 ➡️ ⚡ Day 120 (End)
+    </p>
 </div>
 
 ---
 
-## 📅 Daily Focus
+## 🔴 Daily Tasks
 
-**Today’s Task (Day 4, June 6, 2025)**: Write functions and handle errors in Python.  
-- **Goal**: Create a function to calculate the area of a rectangle, with error handling for invalid inputs.  
-- **Resource**: [W3Schools Python Functions](https://www.w3schools.com/python/python_functions.asp).
+**Today’s Task (Day 5, June 6, 2025)**: Learn to work with lists and dictionaries in Python.  
+- **Goal**: Create a program to store and manipulate student grades using lists and dictionaries.  
+- **Resource**: [W3Schools Python Lists](https://www.w3schools.com/python/python_lists.html).
 
 ---
 
 ## 🔧 Featured Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://skillicons.dev/icons?=i=tensorflow" alt="TensorFlow" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://skillicons.dev/icons??i=tableau" alt="Tableau" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://skillicons.dev/icons??i=sql" alt="SQL" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </p>
 
 ---
@@ -412,7 +317,7 @@ I started my data science roadmap on June 3, 2025, and I'm currently on **Day 4*
 <p align="center">
   <img src="https://img.shields.io/github/followers/BruceAmalemba?label=Followers&style=plastic&color=FF6F61" alt="Followers" height="32"/>
   <img src="https://img.shields.io/github/stars/BruceAmalemba?label=Stars&style=plastic&color=FF6F61" alt="Stars" height="32"/>
-  <img src="https://img.shields.io/github/commit-activity/y/BruceAmalemba?label=Commits&style=plastic&color=FF6F61" alt="Commits" height="32"/>
+  <img src="https://img.shields.io/github/commit-activity/y/BruceAmalemba?label=Alt&style=plastic&style=Commits&color=FF6F61" alt="Badge Commits" height="32" />
 </p>
 
 ---
@@ -420,14 +325,14 @@ I started my data science roadmap on June 3, 2025, and I'm currently on **Day 4*
 ## 💻 Code Snippet Spotlight
 
 <div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
-  <p>A simple Python snippet for a Random Forest Classifier:</p>
+  <p style=>A simple Python snippet for a Random Forest Classifier:</p>
   ```python
   from sklearn.ensemble import RandomForestClassifier
   from sklearn.datasets import make_classification
   from sklearn.model_selection import train_test_split
 
   # Generate sample data
-  X, y = make_classification(n_samples=1000, n_features=20, random_state=42)
+  X, y = make_classification(n_samples=1000 n_features=20, random_state=42)
   X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
   # Train the model
@@ -438,7 +343,6 @@ I started my data science roadmap on June 3, 2025, and I'm currently on **Day 4*
   accuracy = clf.score(X_test, y_test)
   print(f"Accuracy: {accuracy:.2f}")
 </div>
-
 ## 🏆 Contributions & Achievements
 
 <div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">

@@ -24,14 +24,6 @@ Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data 
 
 ---
 
-## 🕒 Dynamic Clock
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Time-11%3A01%20AM%20EAT-FF6F61?style=plastic&logo=clock&logoColor=white" alt="Dynamic Clock" height="32"/>
-</p>
-
----
-
 ## 🔍 About Me
 
 - 💻 **Tech Stack**: Python 🐍, R 📊, SQL 🗄️, Pandas 🐼, NumPy 🔢, Scikit-learn 🤖, TensorFlow 🔥, Matplotlib 📈, Seaborn 🌊, mglearn 📚, Tableau 📊, Linear Programming 📉, statistics 📏, and more.

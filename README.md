@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/1F2A44/FFFFFF?text=Bruce+Amalemba+-+Data+Scientist+and+ML+Engineer" alt="Banner" width="100%"/>
-</p>
+<div align="center" style="background: linear-gradient(90deg, #1F2A44, #3B4A6B); padding: 10px; border-radius: 10px;">
+  <img src="https://placehold.co/800x200/1F2A44/FFFFFF?text=Bruce+Amalemba+-+Data+Scientist+and+ML+Engineer&font=montserrat" alt="Banner" width="100%" style="border-radius: 8px;"/>
+</div>
 
 # 👋 Hey there, I'm Bruce Amalemba! 🚀
 
@@ -13,16 +13,6 @@ Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data 
   <img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=plastic&logo=tensorflow&logoColor=white" alt="Machine Learning" height="32"/>
 </p>
 
----
-
-## 🔍 About Me
-
-- 💻 **Tech Stack**: Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, mglearn, Tableau, Linear Programming, statistics, and more.
-- 🌱 **Currently Exploring**: Advanced machine learning, deep learning, AI deployment strategies, and optimization techniques.
-- 🎯 **Mission**: To architect data-driven solutions that tackle complex problems and drive meaningful change.
-- 🤝 **Open to Collaboration**: Exciting data science projects, open-source contributions, or cutting-edge ML applications.
-- ⚡ **Fun Fact**: I believe data tells captivating stories, and I love uncovering them through code!
-
 <p align="center">
   <a href="https://github.com/BruceAmalemba/profile-views">
     <img src="https://komarev.com/ghpvc/?username=BruceAmalemba&color=brightgreen&style=plastic&label=Profile+Views" alt="Profile Views" height="32"/>
@@ -34,13 +24,22 @@ Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data 
 
 ---
 
+## 🔍 About Me
+
+- 💻 **Tech Stack**: Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, mglearn, Tableau, Linear Programming, statistics, and more.
+- 🌱 **Currently Exploring**: Advanced machine learning, deep learning, AI deployment strategies, and optimization techniques.
+- 🎯 **Mission**: To architect data-driven solutions that tackle complex problems and drive meaningful change.
+- 🤝 **Open to Collaboration**: Exciting data science projects, open-source contributions, or cutting-edge ML applications.
+- ⚡ **Fun Fact**: I believe data tells captivating stories, and I love uncovering them through code!
+
+---
+
 ## 🚀 Featured Projects
 
 Here are some of my standout projects. Dive into my repositories to explore more!
 
 - **[Machine-Learning-Models](https://github.com/BruceAmalemba/Machine-Learning-Models)**: A comprehensive collection of machine learning projects, including classification, regression, and clustering models, built with Scikit-learn and TensorFlow, with visualizations created using Seaborn and Matplotlib.
-- **[Ambururu-Waterfall-Resort](https://github.com/BruceAmalemba/web-2)**: A web application for a resort, featuring data-driven insights with Tableau dashboards and SQL-powered data processing for customer analytics and booking trends.
-- **[Project Name 3](https://github.com/BruceAmalemba/project3)**: A project showcasing optimization with Linear Programming and data analysis with R. *(Update with specific project details.)*
+- **[Official-Ambururu-Website](https://github.com/BruceAmalemba/web-2)**: A web application for a Waterfall resort in Siaya,kenya.
 
 *Check out my pinned repositories below for more exciting work!*
 
@@ -60,11 +59,15 @@ Here are some of my standout projects. Dive into my repositories to explore more
 | **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=plastic) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=plastic) ![mglearn](https://img.shields.io/badge/-mglearn-6B7280?logo=python&logoColor=white&style=plastic) |
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=plastic) ![Seaborn](https://img.shields.io/badge/-Seaborn-0B6623?logo=python&logoColor=white&style=plastic) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=plastic) |
 | **Optimization**  | ![Linear Programming](https://img.shields.io/badge/-Linear%20Programming-00A1D6?logo=mathworks&logoColor=white&style=plastic) |
-| **Tools**         | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=plastic) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic)  |
+| **Tools**         | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=plastic) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic) |
 
 ---
 
 ## 🌟 Skills Showcase
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6F61&center=true&vCenter=true&width=440&lines=Machine+Learning+Expert;Data+Visualization+Pro;Optimization+Specialist;Web+Development+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=plastic&labelColor=FF6F00" alt="Machine Learning" height="32"/>
@@ -97,6 +100,12 @@ Here are some of my standout projects. Dive into my repositories to explore more
 
 ---
 
+## 📝 Latest Blog Posts
+
+- *Coming soon! Check out my [portfolio](https://brucesportfolio.vercel.app/) for updates on data science and ML insights.* *(Link to your blog on Medium, portfolio, or another platform if available.)*
+
+---
+
 ## 📫 Let’s Connect!
 
 I’m always excited to collaborate on data science, ML, or optimization projects. Got an idea? Let’s build something extraordinary!
@@ -107,6 +116,10 @@ I’m always excited to collaborate on data science, ML, or optimization project
 - 🌐 **Portfolio**: [BruceAmalemba](https://brucesportfolio.vercel.app/)
 
 <p align="center">
+  <img src="https://github-readme-social-cards.vercel.app/api/cards?username=BruceAmalemba&theme=dracula&show_email=true&show_linkedin=true&show_twitter=true" alt="Social Media Card" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" height="32"/></a>
   <a href="https://x.com/BruceWashika?t=PP5hLZYfMSF5JDgGvZIxRA&s=09"><img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=plastic" alt="X" height="32"/></a>
   <a href="https://brucesportfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5733?logo=web&logoColor=white&style=plastic" alt="Portfolio" height="32"/></a>
@@ -115,7 +128,7 @@ I’m always excited to collaborate on data science, ML, or optimization project
 ## 💖 Support My Work
 
 <p align="center">
-  <a href="https://paypal.me/Bruce Amalemba"><img src="https://img.shields.io/badge/-PayPal-0070BA?logo=paypal&logoColor=white&style=plastic" alt="Support via PayPal" height="32"/></a>
+  <a href="https://paypal.me/BruceAmalemba"><img src="https://img.shields.io/badge/-PayPal-0070BA?logo=paypal&logoColor=white&style=plastic" alt="Support via PayPal" height="32"/></a>
   <a href="https://github.com/sponsors/BruceAmalemba"><img src="https://img.shields.io/badge/-Sponsor-FF69B4?logo=github-sponsors&logoColor=white&style=plastic" alt="Sponsor on GitHub" height="32"/></a>
 </p>
 

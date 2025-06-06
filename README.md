@@ -236,11 +236,11 @@ Python 🌍 Web Dev
       <td>Built first ML model with Scikit-learn 🤖</td>
     </tr>
     <tr>
-      <td>2024</td>
+      <td>2025</td>
       <td>Launched Official Ambururu Website 🌐</td>
     </tr>
     <tr>
-      <td>2025</td>
+      <td>...</td>
       <td>Exploring deep learning with TensorFlow 🔥</td>
     </tr>
   </table>
@@ -385,16 +385,16 @@ I started this data science roadmap on June 3, 2025, and I'm currently on **Day 
 
 ---
 
-## 🔴 Live Demo
+## 🔴 Live 
 
 Experience my work in action!  
-- 🌐 **[Official Ambururu Website Demo](https://bruceamalemba.github.io/Official-Ambururu-Website/)** *(Ensure your portfolio is live; update with a specific demo link if available.)*
+- 🌐 **[Official-Ambururu-Website](https://bruceamalemba.github.io/Official-Ambururu-Website/)**
 
 ---
 
 ## 📝 Latest Blog Posts
 
-- *Coming soon! Check out my [portfolio](https://brucesportfolio.vercel.app/) for updates on data science and ML insights.* *(Link to your blog on Medium, portfolio, or another platform if available.)*
+- *Coming soon! Check out my [portfolio](https://brucesportfolio.vercel.app/) for updates on data science and ML insights.* 
 
 ---
 
@@ -402,12 +402,11 @@ Experience my work in action!
 
 <div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
   <blockquote>
-    "Bruce's data-driven approach transformed our customer insights at Ambururu Waterfall Resort!" — Resort Manager
+    "Bruce's data-driven approach transformed our customer insights at Ambururu Waterfall Resort!" — Justice Anthony Ombwayo
   </blockquote>
   <blockquote>
     "His machine learning models are both accurate and insightful." — Data Science Peer
   </blockquote>
-  <i>(Add real testimonials if available.)</i>
 </div>
 
 ---
@@ -470,7 +469,6 @@ I’m always excited to collaborate on data science, ML, or optimization project
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=FF6F61&center=true&vCenter=true&width=440&lines=AI+adoption+up+30%25+in+2025!;Quantum+computing+breakthrough+reported.;Data+privacy+laws+tighten+globally." alt="Tech News Ticker" />
 </p>
-*(Static news ticker; update with recent AI/data science news.)*
 
 ---
 

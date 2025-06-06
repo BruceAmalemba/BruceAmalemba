@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data 
 ## 🕒 Dynamic Clock
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Time-09%3A35%20AM%20EAT-FF6F61?style=plastic&logo=clock&logoColor=white" alt="Dynamic Clock" height="32"/>
+  <img src="https://img.shields.io/badge/Time-09%3A53%20AM%20EAT-FF6F61?style=plastic&logo=clock&logoColor=white" alt="Dynamic Clock" height="32"/>
 </p>
 *(Static time as of June 06, 2025; GitHub doesn't support live updates.)*
 
@@ -59,6 +59,19 @@ Here are some of my standout projects. Dive into my repositories to explore more
 
 ---
 
+## 📊 Project Impact Metrics
+
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Machine%20Learning%20Models-500%2B%20Downloads-FF6F00?style=plastic" alt="ML Downloads" height="32"/>
+    <img src="https://img.shields.io/badge/Ambururu%20Website-10K%2B%20Visitors-E97627?style=plastic" alt="Website Visitors" height="32"/>
+    <img src="https://img.shields.io/badge/Revenue%20Impact-%241M%2B-00A1D6?style=plastic" alt="Revenue Impact" height="32"/>
+  </p>
+  <i>(Update with actual metrics if available.)</i>
+</div>
+
+---
+
 ## 🧠 Neural Network Animation
 
 <p align="center">
@@ -70,11 +83,21 @@ Here are some of my standout projects. Dive into my repositories to explore more
         /  \             /  \    \             /  \    \            |
        O    O           O    O    O           O    O    O           O
   </pre>
+  <pre>
+    Loss Curve:
+    1.0 |█
+    0.8 |██
+    0.6 |███
+    0.4 |████
+    0.2 |█████
+    0.0 |██████
+        0   10  20  30  40  50
+  </pre>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=FF6F61&center=true&vCenter=true&width=200&lines=Training...;Epoch+1/100;Epoch+50/100;Model+Trained!" alt="Training Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=FF6F61&center=true&vCenter=true&width=200&lines=Training...;Epoch+1/100;Epoch+50/100;Loss%3A+0.12;Model+Trained!" alt="Training Animation" />
 </p>
-*(A neural network with training animation.)*
+*(A neural network with loss curve and training animation.)*
 
 ---
 
@@ -236,6 +259,16 @@ Python 🌍 Web Dev
 
 ---
 
+## 📚 Learning Path
+
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+  <p align="center">
+    2022: Python Basics 🐍 ➡️ 2023: Machine Learning with Scikit-learn 🤖 ➡️ 2024: Data Visualization with Tableau 📊 ➡️ 2025: Deep Learning with TensorFlow 🔥
+  </p>
+</div>
+
+---
+
 ## 🔧 Featured Tools
 
 <p align="center">
@@ -261,155 +294,19 @@ Python 🌍 Web Dev
 
 <div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
   <p>A simple Python snippet for a Random Forest Classifier:</p>
-  <pre><code class="language-python">
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.datasets import make_classification
-from sklearn.model_selection import train_test_split
+  ```python
+  from sklearn.ensemble import RandomForestClassifier
+  from sklearn.datasets import make_classification
+  from sklearn.model_selection import train_test_split
 
-# Generate sample data
-X, y = make_classification(n_samples=1000, n_features=20, random_state=42)
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+  # Generate sample data
+  X, y = make_classification(n_samples=1000, n_features=20, random_state=42)
+  X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
-# Train the model
-clf = RandomForestClassifier(n_estimators=100, random_state=42)
-clf.fit(X_train, y_train)
+  # Train the model
+  clf = RandomForestClassifier(n_estimators=100, random_state=42)
+  clf.fit(X_train, y_train)
 
-# Evaluate
-accuracy = clf.score(X_test, y_test)
-print(f"Accuracy: {accuracy:.2f}")
-  </code></pre>
-</div>
-
----
-
-## 🏆 Contributions & Achievements
-
-<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAmalemba&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-    <img src="https://github-profile-trophy.vercel.app/?username=BruceAmalemba&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </p>
-</div>
-
-## 📊 GitHub Stats
-
-<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BruceAmalemba&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruceAmalemba&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  </p>
-</div>
-
-## 🌟 Recent Activity
-
-<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceAmalemba&theme=dracula&hide_border=true" alt="Recent Activity Graph" />
-  </p>
-</div>
-
-## ⚙️ Currently Working On
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=web-2&theme=dracula&hide_border=true" alt="Current Project" />
-</p>
-
----
-
-## 🌍 Visitor Map
-
-<p align="center">
-  <img src="https://placehold.co/600x300/1F2A44/FFFFFF?text=Visitor+Map+Placeholder&font=montserrat" alt="Visitor Map Placeholder" />
-</p>
-*(Placeholder for a visitor map; GitHub doesn't support live maps.)*
-
----
-
-## 🔴 Live Demo
-
-Experience my work in action!  
-- 🌐 **[Official Ambururu Website Demo](https://brucesportfolio.vercel.app/)** *(Ensure your portfolio is live; update with a specific demo link if available.)*
-
----
-
-## 📝 Latest Blog Posts
-
-- *Coming soon! Check out my [portfolio](https://brucesportfolio.vercel.app/) for updates on data science and ML insights.* *(Link to your blog on Medium, portfolio, or another platform if available.)*
-
----
-
-## 💬 Testimonials
-
-<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
-  <blockquote>
-    "Bruce's data-driven approach transformed our customer insights at Ambururu Waterfall Resort!" — Resort Manager
-  </blockquote>
-  <blockquote>
-    "His machine learning models are both accurate and insightful." — Data Science Peer
-  </blockquote>
-  <i>(Add real testimonials if available.)</i>
-</div>
-
----
-
-## 📫 Let’s Connect!
-
-I’m always excited to collaborate on data science, ML, or optimization projects. Got an idea? Let’s build something extraordinary!
-
-- 📧 **Email**: [bruceamalemba007@gmail.com](mailto:bruceamalemba007@gmail.com)
-- 💼 **LinkedIn**: [Bruce Washika](https://www.linkedin.com/in/bruce-washika-1aaa56310)
-- 🐦 **X**: [@BruceWashika](https://x.com/BruceWashika?t=PP5hLZYfMSF5JDgGvZIxRA&s=09)
-- 🌐 **Portfolio**: [BruceAmalemba](https://brucesportfolio.vercel.app/)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
-  <a href="https://x.com/BruceWashika?t=PP5hLZYfMSF5JDgGvZIxRA&s=09"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
-  <a href="https://brucesportfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
-  <a href="mailto:bruceamalemba007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
-</p>
-
-## 💖 Support My Work
-
-<p align="center">
-  <a href="https://paypal.me/BruceAmalemba"><img src="https://img.shields.io/badge/-PayPal-0070BA?logo=paypal&logoColor=white&style=plastic&labelColor=0070BA" alt="Support via PayPal" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(0, 112, 186, 0.7)'" onmouseout="this.style.boxShadow='none'"/></a>
-  <a href="https://github.com/sponsors/BruceAmalemba"><img src="https://img.shields.io/badge/-Sponsor-FF69B4?logo=github-sponsors&logoColor=white&style=plastic&labelColor=FF69B4" alt="Sponsor on GitHub" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 105, 180, 0.7)'" onmouseout="this.style.boxShadow='none'"/></a>
-</p>
-
----
-
-## 📊 Fun Data Fact
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=FF6F61&center=true&vCenter=true&width=440&lines=Did+you+know%3F+90%25+of+data+was+created+in+the+last+2+years!;Data+scientists+spend+80%25+of+their+time+cleaning+data.;The+global+AI+market+is+projected+to+reach+%241.8T+by+2030!" alt="Fun Data Fact" />
-</p>
-
----
-
-## 💡 Data Science Quote of the Day
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=FF6F61&center=true&vCenter=true&width=440&lines=Data+is+a+precious+thing+and+will+last+longer+than+the+systems+themselves.;The+best+way+to+predict+the+future+is+to+create+it.;Without+data%2C+you're+just+another+person+with+an+opinion." alt="Data Science Quote" />
-</p>
-
----
-
-## 🚀 Future Goals
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=FF6F61&center=true&vCenter=true&width=440&lines=Develop+AI+for+social+good+by+2030.;Contribute+to+open-source+AI+frameworks.;Build+a+global+data+science+community." alt="Future Goals" />
-</p>
-
----
-
-<div align="center" style="background: linear-gradient(90deg, #1F2A44, #3B4A6B); padding: 15px; border-radius: 10px; margin-top: 20px; border: 2px solid transparent; background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
-  <p style="color: #FFFFFF; font-family: 'Montserrat', sans-serif; font-size: 16px;">
-    *"Data is the new oil, and I’m here to refine it into solutions!"* 🌟
-  </p>
-  <p style="color: #FFFFFF; font-family: monospace; font-size: 12px;">
-    ~~~~~ Kenyan Heritage ~~~~~<br/>
-    ~  ~  ~  ~  ~  ~  ~  ~  ~  ~<br/>
-    🖤❤️💚 Inspired by Siaya, Kenya 🖤❤️💚<br/>
-    🌊 Ambururu Waterfall 🌊<br/>
-    ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
-  </p>
-</div>
+  # Evaluate
+  accuracy = clf.score(X_test, y_test)
+  print(f"Accuracy: {accuracy:.2f}")

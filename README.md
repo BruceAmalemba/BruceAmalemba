@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data 
 </p>
 
 <p align="center">
-  <a href="https://github.com/BruceAmalemba/BruceAmalemba">
+  <a href="https://github.com/BruceAmalemba/profile-views">
     <img src="https://komarev.com/ghpvc/?username=BruceAmalemba&color=brightgreen&style=plastic&label=Profile+Views" alt="Profile Views" height="32" style="transition: transform 0.3s;"/>
   </a>
   <a href="https://vercel.com/brucesportfolio">
@@ -84,9 +84,12 @@ Here are some of my standout projects. Dive into my repositories to explore more
 
 ## 🏅 Certifications
 
-- **Google Data Analytics Professional Certificate** (Coursera, 2024)
-- **TensorFlow Developer Certificate** (TensorFlow, 2024)
-- **Tableau Desktop Specialist** (Tableau, 2025)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=plastic&logo=google&logoColor=white" alt="Google Data Analytics" height="32"/>
+  <img src="https://img.shields.io/badge/TensorFlow%20Developer-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow Developer" height="32"/>
+  <img src="https://img.shields.io/badge/Tableau%20Desktop%20Specialist-E97627?style=plastic&logo=tableau&logoColor=white" alt="Tableau Desktop Specialist" height="32"/>
+</p>
+
 *(Update with your actual certifications if available.)*
 
 ---
@@ -103,6 +106,17 @@ Here are some of my standout projects. Dive into my repositories to explore more
 Python 🌍 Web Dev
   </pre>
 </p>
+
+---
+
+## 📜 Data Science Timeline
+
+| Year  | Milestone                                    |
+|-------|----------------------------------------------|
+| 2022  | Started learning Python and data science 🐍 |
+| 2023  | Built first ML model with Scikit-learn 🤖   |
+| 2024  | Launched Official Ambururu Website 🌐       |
+| 2025  | Exploring deep learning with TensorFlow 🔥  |
 
 ---
 
@@ -134,9 +148,24 @@ Python 🌍 Web Dev
 
 ---
 
+## 🔴 Live Demo
+
+Experience my work in action!  
+- 🌐 **[Official Ambururu Website Demo](https://brucesportfolio.vercel.app/)** *(Ensure your portfolio is live; update with a specific demo link if available.)*
+
+---
+
 ## 📝 Latest Blog Posts
 
 - *Coming soon! Check out my [portfolio](https://brucesportfolio.vercel.app/) for updates on data science and ML insights.* *(Link to your blog on Medium, portfolio, or another platform if available.)*
+
+---
+
+## 💬 Testimonials
+
+> "Bruce's data-driven approach transformed our customer insights at Ambururu Waterfall Resort!" — Resort Manager  
+> "His machine learning models are both accurate and insightful." — Data Science Peer  
+*(Add real testimonials if available.)*
 
 ---
 
@@ -150,7 +179,7 @@ I’m always excited to collaborate on data science, ML, or optimization project
 - 🌐 **Portfolio**: [BruceAmalemba](https://brucesportfolio.vercel.app/)
 
 <p align="center">
-  <img src="https://github-readme-social-cards.vercel.app/api/cards?username=BruceAmalemba&theme=dracula&show_email=true&show_linkedin=true&show_twitter=true" alt="Social Media Card" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);"/>
+  <img src="https://github-readme-social-cards.vercel.app/api/cards?username=BruceAmalemba&theme=dracula&show_email=true&show_linkedin=true&show_x=true" alt="Social Media Card" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);"/>
 </p>
 
 <p align="center">
@@ -168,12 +197,22 @@ I’m always excited to collaborate on data science, ML, or optimization project
 
 ---
 
+## 📊 Fun Data Fact
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=FF6F61&center=true&vCenter=true&width=440&lines=Did+you+know%3F+90%25+of+data+was+created+in+the+last+2+years!;Data+scientists+spend+80%25+of+their+time+cleaning+data.;The+global+AI+market+is+projected+to+reach+%241.8T+by+2030!" alt="Fun Data Fact" />
+</p>
+
+---
+
 <div align="center" style="background: linear-gradient(90deg, #1F2A44, #3B4A6B); padding: 15px; border-radius: 10px; margin-top: 20px;">
   <p style="color: #FFFFFF; font-family: 'Montserrat', sans-serif; font-size: 16px;">
     *"Data is the new oil, and I’m here to refine it into solutions!"* 🌟
   </p>
   <p style="color: #FFFFFF; font-family: monospace; font-size: 12px;">
-    ~~~~~ Data Wave ~~~~~<br/>
-    ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+    ~~~~~ Kenyan Waterfall ~~~~~<br/>
+    ~  ~  ~  ~  ~  ~  ~  ~  ~  ~<br/>
+    🌊 Ambururu Waterfall 🌊<br/>
+    ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
   </p>
 </div>

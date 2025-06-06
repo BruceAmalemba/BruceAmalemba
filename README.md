@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&labelColor=3776AB" alt="Python" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(55, 118, 171, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white&labelColor=276DC3" alt="R" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(39, 109, 195, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
-  <img src="https://img.shields.io/badge/Data%20Science-FF6F61?style=plastic&logo=datascience&logoColor=white&labelColor=FF6F61" alt="Data Science" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 111, 97, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <img src="https://img.shields.io/badge/Data%20Science-FF6F61?style=plastic&logo=datacamp&logoColor=white&labelColor=FF6F61" alt="Data Science" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 111, 97, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=plastic&logo=tensorflow&logoColor=white&labelColor=4B0082" alt="Machine Learning" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(75, 0, 130, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
 </p>
 
@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data 
 ## 🕒 Dynamic Clock
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Time-09%3A29%20AM%20EAT-FF6F61?style=plastic&logo=clock&logoColor=white" alt="Dynamic Clock" height="32"/>
+  <img src="https://img.shields.io/badge/Time-09%3A35%20AM%20EAT-FF6F61?style=plastic&logo=clock&logoColor=white" alt="Dynamic Clock" height="32"/>
 </p>
 *(Static time as of June 06, 2025; GitHub doesn't support live updates.)*
 
@@ -63,15 +63,18 @@ Here are some of my standout projects. Dive into my repositories to explore more
 
 <p align="center">
   <pre>
-    [Input Layer] --> [Hidden Layer] --> [Output Layer]
-       O    O           O    O            O
-        \  /             \  /             |
-         O               O               O
-        /  \             /  \            |
-       O    O           O    O           O
+    [Input Layer] --> [Hidden Layer 1] --> [Hidden Layer 2] --> [Output Layer]
+       O    O           O    O    O           O    O    O            O
+        \  /             \  /    /             \  /    /             |
+         O               O    O                 O    O               O
+        /  \             /  \    \             /  \    \            |
+       O    O           O    O    O           O    O    O           O
   </pre>
 </p>
-*(A simplified neural network representation.)*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=FF6F61&center=true&vCenter=true&width=200&lines=Training...;Epoch+1/100;Epoch+50/100;Model+Trained!" alt="Training Animation" />
+</p>
+*(A neural network with training animation.)*
 
 ---
 
@@ -149,6 +152,25 @@ Here are some of my standout projects. Dive into my repositories to explore more
 
 ---
 
+## 📊 Skill Progress
+
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+  <p>
+    <b>Python:</b> <img src="https://progress-bar.dev/90/?title=90%25&color=3776AB" alt="Python Progress" />
+  </p>
+  <p>
+    <b>Machine Learning:</b> <img src="https://progress-bar.dev/85/?title=85%25&color=FF6F00" alt="ML Progress" />
+  </p>
+  <p>
+    <b>Data Visualization:</b> <img src="https://progress-bar.dev/80/?title=80%25&color=E97627" alt="Data Viz Progress" />
+  </p>
+  <p>
+    <b>SQL:</b> <img src="https://progress-bar.dev/75/?title=75%25&color=4479A1" alt="SQL Progress" />
+  </p>
+</div>
+
+---
+
 ## 🏅 Certifications
 
 <p align="center">
@@ -205,6 +227,15 @@ Python 🌍 Web Dev
 
 ---
 
+## 📈 Data Science Journey Progress
+
+<p align="center">
+  <img src="https://progress-bar.dev/75/?title=2022-2025%20(75%25%20Complete)&color=FF6F61" alt="Data Science Journey Progress" />
+</p>
+*(From 2022 to a 2027 goal, you're 75% through as of 2025.)*
+
+---
+
 ## 🔧 Featured Tools
 
 <p align="center">
@@ -223,6 +254,31 @@ Python 🌍 Web Dev
   <img src="https://img.shields.io/github/stars/BruceAmalemba?label=Stars&style=plastic&color=FF6F61" alt="Stars" height="32"/>
   <img src="https://img.shields.io/github/commit-activity/y/BruceAmalemba?label=Commits&style=plastic&color=FF6F61" alt="Commits" height="32"/>
 </p>
+
+---
+
+## 💻 Code Snippet Spotlight
+
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+  <p>A simple Python snippet for a Random Forest Classifier:</p>
+  <pre><code class="language-python">
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.datasets import make_classification
+from sklearn.model_selection import train_test_split
+
+# Generate sample data
+X, y = make_classification(n_samples=1000, n_features=20, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+# Train the model
+clf = RandomForestClassifier(n_estimators=100, random_state=42)
+clf.fit(X_train, y_train)
+
+# Evaluate
+accuracy = clf.score(X_test, y_test)
+print(f"Accuracy: {accuracy:.2f}")
+  </code></pre>
+</div>
 
 ---
 
@@ -257,6 +313,15 @@ Python 🌍 Web Dev
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=web-2&theme=dracula&hide_border=true" alt="Current Project" />
 </p>
+
+---
+
+## 🌍 Visitor Map
+
+<p align="center">
+  <img src="https://placehold.co/600x300/1F2A44/FFFFFF?text=Visitor+Map+Placeholder&font=montserrat" alt="Visitor Map Placeholder" />
+</p>
+*(Placeholder for a visitor map; GitHub doesn't support live maps.)*
 
 ---
 
@@ -344,6 +409,7 @@ I’m always excited to collaborate on data science, ML, or optimization project
     ~~~~~ Kenyan Heritage ~~~~~<br/>
     ~  ~  ~  ~  ~  ~  ~  ~  ~  ~<br/>
     🖤❤️💚 Inspired by Siaya, Kenya 🖤❤️💚<br/>
+    🌊 Ambururu Waterfall 🌊<br/>
     ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
   </p>
 </div>

@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(90deg, #1F2A44, #3B4A6B); padding: 10px; border-radius: 10px;">
-  <img src="https://placehold.co/800x200/1F2A44/FFFFFF?text=Bruce+Amalemba+-+Data+Scientist+and+ML+Engineer&font=montserrat" alt="Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);"/>
+  <img src="https://placehold.co/800x200/1F2A44/FFFFFF?text=Bruce+Amalemba+-+Data+Scientist+and+ML+Engineer&font=montserrat" alt="Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 15px rgba(255, 111, 97, 0.7)'" onmouseout="this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.3)'"/>
 </div>
 
 # 👋 Hey there, I'm Bruce Amalemba! 🚀
@@ -7,30 +7,26 @@
 Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data science** and **machine learning**, dedicated to transforming raw data into actionable insights and crafting intelligent solutions for real-world challenges. My journey is fueled by curiosity, code, and a mission to create impactful, data-driven innovations that make a difference! 🌍
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&labelColor=3776AB" alt="Python" height="32"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white&labelColor=276DC3" alt="R" height="32"/>
-  <img src="https://img.shields.io/badge/Data%20Science-FF6F61?style=plastic&logo=datascience&logoColor=white&labelColor=FF6F61" alt="Data Science" height="32"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=plastic&logo=tensorflow&logoColor=white&labelColor=4B0082" alt="Machine Learning" height="32"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&labelColor=3776AB" alt="Python" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(55, 118, 171, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white&labelColor=276DC3" alt="R" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(39, 109, 195, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <img src="https://img.shields.io/badge/Data%20Science-FF6F61?style=plastic&logo=datascience&logoColor=white&labelColor=FF6F61" alt="Data Science" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 111, 97, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=plastic&logo=tensorflow&logoColor=white&labelColor=4B0082" alt="Machine Learning" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(75, 0, 130, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/BruceAmalemba/profile-views">
-    <img src="https://komarev.com/ghpvc/?username=BruceAmalemba&color=brightgreen&style=plastic&label=Profile+Views" alt="Profile Views" height="32" style="transition: transform 0.3s;"/>
+    <img src="https://komarev.com/ghpvc/?username=BruceAmalemba&color=brightgreen&style=plastic&label=Profile+Views" alt="Profile Views" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(0, 255, 0, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
   </a>
   <a href="https://vercel.com/brucesportfolio">
-    <img src="https://vercelbadge.vercel.app/api/BruceAmalemba/brucesportfolio?style=plastic" alt="Portfolio Deployment Status" height="32" style="transition: transform 0.3s;"/>
+    <img src="https://vercelbadge.vercel.app/api/BruceAmalemba/brucesportfolio?style=plastic" alt="Portfolio Deployment Status" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 111, 97, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
   </a>
 </p>
-
-<style>
-  a:hover img { transform: scale(1.05); }
-</style>
 
 ---
 
 ## 🔍 About Me
 
-- 💻 **Tech Stack**: Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, mglearn, Tableau, Linear Programming, statistics, and more.
+- 💻 **Tech Stack**: Python 🐍, R 📊, SQL 🗄️, Pandas 🐼, NumPy 🔢, Scikit-learn 🤖, TensorFlow 🔥, Matplotlib 📈, Seaborn 🌊, mglearn 📚, Tableau 📊, Linear Programming 📉, statistics 📏, and more.
 - 🌱 **Currently Exploring**: Advanced machine learning, deep learning, AI deployment strategies, and optimization techniques.
 - 🎯 **Mission**: To architect data-driven solutions that tackle complex problems and drive meaningful change.
 - 🤝 **Open to Collaboration**: Exciting data science projects, open-source contributions, or cutting-edge ML applications.
@@ -74,10 +70,10 @@ Here are some of my standout projects. Dive into my repositories to explore more
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=plastic&labelColor=FF6F00" alt="Machine Learning" height="32"/>
-  <img src="https://img.shields.io/badge/-Data%20Visualization-E97627?logo=tableau&logoColor=white&style=plastic&labelColor=E97627" alt="Data Visualization" height="32"/>
-  <img src="https://img.shields.io/badge/-Optimization-00A1D6?logo=mathworks&logoColor=white&style=plastic&labelColor=00A1D6" alt="Optimization" height="32"/>
-  <img src="https://img.shields.io/badge/-Web%20Development-FF5733?logo=web&logoColor=white&style=plastic&labelColor=FF5733" alt="Web Development" height="32"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=plastic&labelColor=FF6F00" alt="Machine Learning" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 111, 0, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <img src="https://img.shields.io/badge/-Data%20Visualization-E97627?logo=tableau&logoColor=white&style=plastic&labelColor=E97627" alt="Data Visualization" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(233, 118, 39, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <img src="https://img.shields.io/badge/-Optimization-00A1D6?logo=mathworks&logoColor=white&style=plastic&labelColor=00A1D6" alt="Optimization" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(0, 161, 214, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <img src="https://img.shields.io/badge/-Web%20Development-FF5733?logo=web&logoColor=white&style=plastic&labelColor=FF5733" alt="Web Development" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 87, 51, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
 </p>
 
 ---
@@ -85,9 +81,9 @@ Here are some of my standout projects. Dive into my repositories to explore more
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=plastic&logo=google&logoColor=white" alt="Google Data Analytics" height="32"/>
-  <img src="https://img.shields.io/badge/TensorFlow%20Developer-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow Developer" height="32"/>
-  <img src="https://img.shields.io/badge/Tableau%20Desktop%20Specialist-E97627?style=plastic&logo=tableau&logoColor=white" alt="Tableau Desktop Specialist" height="32"/>
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=plastic&logo=google&logoColor=white" alt="Google Data Analytics" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(66, 133, 244, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <img src="https://img.shields.io/badge/TensorFlow%20Developer-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow Developer" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 111, 0, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <img src="https://img.shields.io/badge/Tableau%20Desktop%20Specialist-E97627?style=plastic&logo=tableau&logoColor=white" alt="Tableau Desktop Specialist" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(233, 118, 39, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
 </p>
 
 *(Update with your actual certifications if available.)*
@@ -117,6 +113,27 @@ Python 🌍 Web Dev
 | 2023  | Built first ML model with Scikit-learn 🤖   |
 | 2024  | Launched Official Ambururu Website 🌐       |
 | 2025  | Exploring deep learning with TensorFlow 🔥  |
+
+---
+
+## 🔧 Featured Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+</p>
+
+---
+
+## 📊 Quick Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/BruceAmalemba?label=Followers&style=plastic&color=FF6F61" alt="Followers" height="32"/>
+  <img src="https://img.shields.io/github/stars/BruceAmalemba?label=Stars&style=plastic&color=FF6F61" alt="Stars" height="32"/>
+  <img src="https://img.shields.io/github/commit-activity/y/BruceAmalemba?label=Commits&style=plastic&color=FF6F61" alt="Commits" height="32"/>
+</p>
 
 ---
 
@@ -183,16 +200,16 @@ I’m always excited to collaborate on data science, ML, or optimization project
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic&labelColor=0077B5" alt="LinkedIn" height="32"/></a>
-  <a href="https://x.com/BruceWashika?t=PP5hLZYfMSF5JDgGvZIxRA&s=09"><img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=plastic&labelColor=000000" alt="X" height="32"/></a>
-  <a href="https://brucesportfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5733?logo=web&logoColor=white&style=plastic&labelColor=FF5733" alt="Portfolio" height="32"/></a>
+  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic&labelColor=0077B5" alt="LinkedIn" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(0, 119, 181, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <a href="https://x.com/BruceWashika?t=PP5hLZYfMSF5JDgGvZIxRA&s=09"><img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=plastic&labelColor=000000" alt="X" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(0, 0, 0, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <a href="https://brucesportfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5733?logo=web&logoColor=white&style=plastic&labelColor=FF5733" alt="Portfolio" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 87, 51, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
 </p>
 
 ## 💖 Support My Work
 
 <p align="center">
-  <a href="https://paypal.me/BruceAmalemba"><img src="https://img.shields.io/badge/-PayPal-0070BA?logo=paypal&logoColor=white&style=plastic&labelColor=0070BA" alt="Support via PayPal" height="32"/></a>
-  <a href="https://github.com/sponsors/BruceAmalemba"><img src="https://img.shields.io/badge/-Sponsor-FF69B4?logo=github-sponsors&logoColor=white&style=plastic&labelColor=FF69B4" alt="Sponsor on GitHub" height="32"/></a>
+  <a href="https://paypal.me/BruceAmalemba"><img src="https://img.shields.io/badge/-PayPal-0070BA?logo=paypal&logoColor=white&style=plastic&labelColor=0070BA" alt="Support via PayPal" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(0, 112, 186, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  <a href="https://github.com/sponsors/BruceAmalemba"><img src="https://img.shields.io/badge/-Sponsor-FF69B4?logo=github-sponsors&logoColor=white&style=plastic&labelColor=FF69B4" alt="Sponsor on GitHub" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 105, 180, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
 </p>
 
 ---
@@ -205,14 +222,22 @@ I’m always excited to collaborate on data science, ML, or optimization project
 
 ---
 
+## 💡 Data Science Quote of the Day
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=FF6F61&center=true&vCenter=true&width=440&lines=Data+is+a+precious+thing+and+will+last+longer+than+the+systems+themselves.;The+best+way+to+predict+the+future+is+to+create+it.;Without+data%2C+you're+just+another+person+with+an+opinion." alt="Data Science Quote" />
+</p>
+
+---
+
 <div align="center" style="background: linear-gradient(90deg, #1F2A44, #3B4A6B); padding: 15px; border-radius: 10px; margin-top: 20px;">
   <p style="color: #FFFFFF; font-family: 'Montserrat', sans-serif; font-size: 16px;">
     *"Data is the new oil, and I’m here to refine it into solutions!"* 🌟
   </p>
   <p style="color: #FFFFFF; font-family: monospace; font-size: 12px;">
-    ~~~~~ Kenyan Waterfall ~~~~~<br/>
+    ~~~~~ Kenyan Heritage ~~~~~<br/>
     ~  ~  ~  ~  ~  ~  ~  ~  ~  ~<br/>
-    🌊 Ambururu Waterfall 🌊<br/>
+    🌍 Inspired by Siaya, Kenya 🌍<br/>
     ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
   </p>
 </div>

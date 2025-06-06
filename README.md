@@ -29,7 +29,6 @@ Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data 
 <p align="center">
   <img src="https://img.shields.io/badge/Time-11%3A01%20AM%20EAT-FF6F61?style=plastic&logo=clock&logoColor=white" alt="Dynamic Clock" height="32"/>
 </p>
-*(Static time as of June 06, 2025; GitHub doesn't support live updates.)*
 
 ---
 
@@ -67,10 +66,9 @@ Here are some of my standout projects. Dive into my repositories to explore more
     <img src="https://img.shields.io/badge/Ambururu%20Website-10K%2B%20Visitors-E97627?style=plastic" alt="Website Visitors" height="32"/>
     <img src="https://img.shields.io/badge/Revenue%20Impact-%241M%2B-00A1D6?style=plastic" alt="Revenue Impact" height="32"/>
   </p>
-  <i>(Update with actual metrics if available.)</i>
+  <i></i>
 </div>
 
----
 
 ## 🧠 Neural Network Animation
 
@@ -202,7 +200,7 @@ Here are some of my standout projects. Dive into my repositories to explore more
   <img src="https://img.shields.io/badge/Tableau%20Desktop%20Specialist-E97627?style=plastic&logo=tableau&logoColor=white" alt="Tableau Desktop Specialist" height="32" style="height" onmouseover="this.style.boxShadow='0 0 10px rgba(233, 66, 39, 0.7)'" onmouseout="this" />
 </p>
 
-*(Update with actual certifications if available.)*
+
 
 ---
 
@@ -275,7 +273,7 @@ I started this data science roadmap on June 3, 2025, and I'm currently on **Day 
 
 <div style="border: 2px solid transparent; border-radius: 15px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.6);">
   <p align="center">
-    <a href="https://brucesportfolio.vercel.app">
+    <a href="http://bosanalytics.vercel.app">
       <img src="https://progress-bar.dev/3/?title=Data%20Roadmap%20Progress%20-%203%25%20Complete&color=FF6F61" alt="Roadmap Progress" style="transition: transform 0.3s; box-shadow: 0 0 5px rgba(255, 111, 97, 0.5" onmouseover="this.style.transform='scale(1.1)'" altmouseout="this.style.transform='scale(1)'" />
     </a>
   </p>
@@ -378,24 +376,19 @@ I started this data science roadmap on June 3, 2025, and I'm currently on **Day 
 ## ⚙️ Currently Working On
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=web-2&theme=dracula&hide_border=true" alt="Current Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=web-2&theme=dracula&hide_border=true" alt="Official-Ambururu-Website" />
 </p>
 
 ---
 
-## 🌍 Visitor Map
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300/1F2A44/FFFFFF?text=Visitor+Map+Placeholder" alt="Visitor Map Placeholder" />
-</p>
-*(Placeholder for a visitor map; GitHub doesn't support live maps.)*
 
 ---
 
 ## 🔴 Live Demo
 
 Experience my work in action!  
-- 🌐 **[Official Ambururu Website Demo](https://brucesportfolio.vercel.app/)** *(Ensure your portfolio is live; update with a specific demo link if available.)*
+- 🌐 **[Official Ambururu Website Demo](https://bruceamalemba.github.io/Official-Ambururu-Website/)** *(Ensure your portfolio is live; update with a specific demo link if available.)*
 
 ---
 
@@ -494,10 +487,10 @@ I’m always excited to collaborate on data science, ML, or optimization project
     *"Data is the new oil, and I’m here to refine it into solutions!"* 🌟
   </p>
   <p style="color: #FFFFFF; font-family: monospace; font-size: 12px;">
-    ~~~~~ Kenyan Heritage ~~~~~<br/>
+    ~~~~~ Underrated ~~~~~<br/>
     ~  ~  ~  ~  ~  ~  ~  ~  ~  ~<br/>
-    🖤❤️💚 Inspired by Siaya, Kenya 🖤❤️💚<br/>
-    🌊 Ambururu Waterfall 🌊<br/>
-    ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    <br/>
+    <br/>
+    
   </p>
 </div>

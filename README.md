@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a **Python developer** with a deep passion for **data 
 ## 🕒 Dynamic Clock
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Time-09%3A53%20AM%20EAT-FF6F61?style=plastic&logo=clock&logoColor=white" alt="Dynamic Clock" height="32"/>
+  <img src="https://img.shields.io/badge/Time-10%3A48%20AM%20EAT-FF6F61?style=plastic&logo=clock&logoColor=white" alt="Dynamic Clock" height="32"/>
 </p>
 *(Static time as of June 06, 2025; GitHub doesn't support live updates.)*
 
@@ -269,6 +269,133 @@ Python 🌍 Web Dev
 
 ---
 
+## 🗺️ My Data Science Roadmap
+
+I started my data science roadmap on June 3, 2025, and I'm currently on **Day 4**! Here's my plan to become a proficient data scientist, with daily tasks and resources to keep me on track.
+
+<p align="center">
+  <img src="https://progress-bar.dev/3/?title=Overall%20Progress%20(3%25%20of%20120%20Days)&color=FF6F61" alt="Roadmap Progress" />
+</p>
+
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+  <table align="center">
+    <tr>
+      <th>Phase</th>
+      <th>Days</th>
+      <th>Goals</th>
+      <th>Resources</th>
+      <th>Progress</th>
+    </tr>
+    <tr>
+      <td><b>Phase 1: Python Fundamentals</b></td>
+      <td>Days 1-10</td>
+      <td>Learn Python basics (variables, loops, functions). Build a small project (e.g., a calculator).</td>
+      <td><a href="https://www.w3schools.com/python/">W3Schools Python</a>, <a href="https://www.codecademy.com/learn/learn-python-3">Codecademy</a></td>
+      <td><img src="https://progress-bar.dev/40/?title=40%25&color=3776AB" alt="Phase 1 Progress" /></td>
+    </tr>
+    <tr>
+      <td><b>Phase 2: Data Analysis Foundations</b></td>
+      <td>Days 11-30</td>
+      <td>Master Pandas, NumPy, and Matplotlib. Analyze a dataset (e.g., sales data).</td>
+      <td><a href="https://pandas.pydata.org/docs/">Pandas Docs</a>, <a href="https://www.kaggle.com/learn/pandas">Kaggle Pandas</a></td>
+      <td><img src="https://progress-bar.dev/0/?title=0%25&color=E97627" alt="Phase 2 Progress" /></td>
+    </tr>
+    <tr>
+      <td><b>Phase 3: Machine Learning Basics</b></td>
+      <td>Days 31-60</td>
+      <td>Learn Scikit-learn for classification and regression. Build a simple ML model (e.g., predict house prices).</td>
+      <td><a href="https://scikit-learn.org/stable/tutorial/index.html">Scikit-learn Tutorials</a>, <a href="https://www.kaggle.com/learn/intro-to-machine-learning">Kaggle ML</a></td>
+      <td><img src="https://progress-bar.dev/0/?title=0%25&color=FF6F00" alt="Phase 3 Progress" /></td>
+    </tr>
+    <tr>
+      <td><b>Phase 4: Deep Learning Exploration</b></td>
+      <td>Days 61-90</td>
+      <td>Dive into TensorFlow for neural networks. Create a deep learning project (e.g., image classification).</td>
+      <td><a href="https://www.tensorflow.org/tutorials">TensorFlow Tutorials</a>, <a href="https://www.coursera.org/learn/deep-learning-ai">DeepLearning.AI</a></td>
+      <td><img src="https://progress-bar.dev/0/?title=0%25&color=4B0082" alt="Phase 4 Progress" /></td>
+    </tr>
+    <tr>
+      <td><b>Phase 5: Deployment & Advanced Topics</b></td>
+      <td>Days 91-120</td>
+      <td>Deploy a model using Flask or Vercel. Explore optimization and AI deployment strategies.</td>
+      <td><a href="https://vercel.com/docs">Vercel Docs</a>, <a href="https://flask.palletsprojects.com/en/3.0.x/">Flask Docs</a></td>
+      <td><img src="https://progress-bar.dev/0/?title=0%25&color=00A1D6" alt="Phase 5 Progress" /></td>
+    </tr>
+  </table>
+</div>
+
+### Phase 1: Daily Tasks (Python Fundamentals)
+
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+  <table align="center">
+    <tr>
+      <th>Day</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td>Day 1 (June 3)</td>
+      <td>Learn variables and data types.</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Day 2 (June 4)</td>
+      <td>Practice conditionals (if-else).</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Day 3 (June 5)</td>
+      <td>Explore loops (for, while).</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Day 4 (June 6)</td>
+      <td>Write functions and handle errors.</td>
+      <td>🟡 In Progress</td>
+    </tr>
+    <tr>
+      <td>Day 5 (June 7)</td>
+      <td>Work with lists and dictionaries.</td>
+      <td>⬜ Pending</td>
+    </tr>
+    <tr>
+      <td>Day 6 (June 8)</td>
+      <td>Learn file handling (read/write).</td>
+      <td>⬜ Pending</td>
+    </tr>
+    <tr>
+      <td>Day 7 (June 9)</td>
+      <td>Build a small project: To-Do List.</td>
+      <td>⬜ Pending</td>
+    </tr>
+    <tr>
+      <td>Day 8 (June 10)</td>
+      <td>Build a small project: Calculator.</td>
+      <td>⬜ Pending</td>
+    </tr>
+    <tr>
+      <td>Day 9 (June 11)</td>
+      <td>Review Python basics.</td>
+      <td>⬜ Pending</td>
+    </tr>
+    <tr>
+      <td>Day 10 (June 12)</td>
+      <td>Complete a Python quiz online.</td>
+      <td>⬜ Pending</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📅 Daily Focus
+
+**Today’s Task (Day 4, June 6, 2025)**: Write functions and handle errors in Python.  
+- **Goal**: Create a function to calculate the area of a rectangle, with error handling for invalid inputs.  
+- **Resource**: [W3Schools Python Functions](https://www.w3schools.com/python/python_functions.asp).
+
+---
+
 ## 🔧 Featured Tools
 
 <p align="center">
@@ -310,3 +437,163 @@ Python 🌍 Web Dev
   # Evaluate
   accuracy = clf.score(X_test, y_test)
   print(f"Accuracy: {accuracy:.2f}")
+</div>
+
+## 🏆 Contributions & Achievements
+
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAmalemba&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=BruceAmalemba&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </p>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=BruceAmalemba&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruceAmalemba&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </p>
+</div>
+
+---
+
+## 🌟 Recent Activity
+
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceAmalemba&theme=dracula&hide_border=true" alt="Recent Activity Graph" />
+  </p>
+</div>
+
+---
+
+## ⚙️ Currently Working On
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=web-2&theme=dracula&hide_border=true" alt="Current Project" />
+</p>
+
+---
+
+## 🌍 Visitor Map
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300/1F2A44/FFFFFF?text=Visitor+Map+Placeholder" alt="Visitor Map Placeholder" />
+</p>
+*(Placeholder for a visitor map; GitHub doesn't support live maps.)*
+
+---
+
+## 🔴 Live Demo
+
+Experience my work in action!  
+- 🌐 **[Official Ambururu Website Demo](https://brucesportfolio.vercel.app/)** *(Ensure your portfolio is live; update with a specific demo link if available.)*
+
+---
+
+## 📝 Latest Blog Posts
+
+- *Coming soon! Check out my [portfolio](https://brucesportfolio.vercel.app/) for updates on data science and ML insights.* *(Link to your blog on Medium, portfolio, or another platform if available.)*
+
+---
+
+## 💬 Testimonials
+
+<div style="border: 2px solid transparent; border-radius: 10px; padding: 10px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+  <blockquote>
+    "Bruce's data-driven approach transformed our customer insights at Ambururu Waterfall Resort!" — Resort Manager
+  </blockquote>
+  <blockquote>
+    "His machine learning models are both accurate and insightful." — Data Science Peer
+  </blockquote>
+  <i>(Add real testimonials if available.)</i>
+</div>
+
+---
+
+## 📫 Let’s Connect!
+
+I’m always excited to collaborate on data science, ML, or optimization projects. Got an idea? Let’s build something extraordinary!
+
+- 📧 **Email**: [bruceamalemba007@gmail.com](mailto:bruceamalemba007@gmail.com)
+- 💼 **LinkedIn**: [Bruce Washika](https://www.linkedin.com/in/bruce-washika-1aaa56310)
+- 🐦 **X**: [@BruceWashika](https://x.com/BruceWashika?t=PP5hLZYfMSF5JDgGvZIxRA&s=09)
+- 🌐 **Portfolio**: [BruceAmalemba](https://brucesportfolio.vercel.app/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="https://x.com/BruceWashika?t=PP5hLZYfMSF5JDgGvZIxRA&s=09"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="https://brucesportfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="mailto:bruceamalemba007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
+</p>
+
+---
+
+## 🤝 Collaboration Call-to-Action
+
+<p align="center">
+  <a href="mailto:bruceamalemba007@gmail.com?subject=Collaboration%20Opportunity">
+    <img src="https://img.shields.io/badge/Let%27s%20Collaborate!-FF6F61?style=plastic&logo=mailbox&logoColor=white" alt="Collaborate" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 111, 97, 0.7)'" onmouseout="this.style.boxShadow='none'"/>
+  </a>
+</p>
+
+---
+
+## 💖 Support My Work
+
+<p align="center">
+  <a href="https://paypal.me/BruceAmalemba"><img src="https://img.shields.io/badge/-PayPal-0070BA?logo=paypal&logoColor=white&style=plastic&labelColor=0070BA" alt="Support via PayPal" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(0, 112, 186, 0.7)'" onmouseout="this.style.boxShadow='none'"/></a>
+  <a href="https://github.com/sponsors/BruceAmalemba"><img src="https://img.shields.io/badge/-Sponsor-FF69B4?logo=github-sponsors&logoColor=white&style=plastic&labelColor=FF69B4" alt="Sponsor on GitHub" height="32" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(255, 105, 180, 0.7)'" onmouseout="this.style.boxShadow='none'"/></a>
+</p>
+
+---
+
+## 📊 Fun Data Fact
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=FF6F61&center=true&vCenter=true&width=440&lines=Did+you+know%3F+90%25+of+data+was+created+in+the+last+2+years!;Data+scientists+spend+80%25+of+their+time+cleaning+data.;The+global+AI+market+is+projected+to+reach+%241.8T+by+2030!" alt="Fun Data Fact" />
+</p>
+
+---
+
+## 💡 Data Science Quote of the Day
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=FF6F61&center=true&vCenter=true&width=440&lines=Data+is+a+precious+thing+and+will+last+longer+than+the+systems+themselves.;The+best+way+to+predict+the+future+is+to+create+it.;Without+data%2C+you're+just+another+person+with+an+opinion." alt="Data Science Quote" />
+</p>
+
+---
+
+## 📰 Tech News Ticker
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=FF6F61&center=true&vCenter=true&width=440&lines=AI+adoption+up+30%25+in+2025!;Quantum+computing+breakthrough+reported.;Data+privacy+laws+tighten+globally." alt="Tech News Ticker" />
+</p>
+*(Static news ticker; update with recent AI/data science news.)*
+
+---
+
+## 🚀 Future Goals
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=FF6F61&center=true&vCenter=true&width=440&lines=Develop+AI+for+social+good+by+2030.;Contribute+to+open-source+AI+frameworks.;Build+a+global+data+science+community." alt="Future Goals" />
+</p>
+
+---
+
+<div align="center" style="background: linear-gradient(90deg, #1F2A44, #3B4A6B); padding: 15px; border-radius: 10px; margin-top: 20px; border: 2px solid transparent; background-clip: padding-box; box-shadow: inset 0 0 10px rgba(255, 111, 97, 0.5);">
+  <p style="color: #FFFFFF; font-family: 'Montserrat', sans-serif; font-size: 16px;">
+    *"Data is the new oil, and I’m here to refine it into solutions!"* 🌟
+  </p>
+  <p style="color: #FFFFFF; font-family: monospace; font-size: 12px;">
+    ~~~~~ Kenyan Heritage ~~~~~<br/>
+    ~  ~  ~  ~  ~  ~  ~  ~  ~  ~<br/>
+    🖤❤️💚 Inspired by Siaya, Kenya 🖤❤️💚<br/>
+    🌊 Ambururu Waterfall 🌊<br/>
+    ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+  </p>
+</div>

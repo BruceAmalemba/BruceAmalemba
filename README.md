@@ -160,8 +160,8 @@ Custom solutions to elevate your business:
   <p>✅ <b>E-Commerce Client</b>: Boosted retention by 15% with sentiment analysis.</p>
 </div>
 
-> "Bruce’s ML models transformed our retention strategy, slashing costs dramatically." – *Jane Doe, Tech Startup CEO* *(Update with real name)*
-> "The Ambururu dashboards drove growth beyond our expectations." – *John Smith, Resort Manager* *(Update with real name)*
+> "Bruce’s ML models transformed our retention strategy, slashing costs dramatically." – *Ernest Charles Omusula, Tech Startup CEO* 
+> "The Ambururu dashboards drove growth beyond our expectations." – *Justice Anthony Ombwayo, Ambururu Waterfall Resort Owner* 
 
 ---
 
@@ -252,82 +252,35 @@ Launched June 3, 2025—currently **Day 5** of a 120-day plan to master advanced
 Here’s a robust, real-world example of my ML skills—a **Customer Churn Prediction Model** using XGBoost, complete with data handling and evaluation:
 
 <div style="border: 2px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 15px rgba(255, 111, 97, 0.6); margin: 20px 0;">
-  ```python
-  import pandas as pd
-  import numpy as np
-  import xgboost as xgb
-  from sklearn.model_selection import train_test_split, GridSearchCV
-  from sklearn.metrics import accuracy_score, classification_report
-  from sklearn.preprocessing import StandardScaler
 
-  # Generate sample data if no CSV is available
-  def create_sample_data():
-      np.random.seed(42)
-      return pd.DataFrame({
-          'age': np.random.randint(18, 70, 1000),
-          'tenure': np.random.randint(1, 60, 1000),
-          'monthly_spend': np.random.uniform(10, 200, 1000),
-          'support_calls': np.random.randint(0, 10, 1000),
-          'churn': np.random.randint(0, 2, 1000)  # 0 = stay, 1 = churn
-      })
-
-  # Load or create data
-  try:
-      data = pd.read_csv("customer_data.csv")  # Replace with your dataset
-  except FileNotFoundError:
-      print("No customer_data.csv found. Using sample data.")
-      data = create_sample_data()
-
-  # Prepare features and target
-  X = data.drop("churn", axis=1)
-  y = data["churn"]
-
-  # Split into training and testing sets
-  X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-  # Scale features
-  scaler = StandardScaler()
-  X_train_scaled = scaler.fit_transform(X_train)
-  X_test_scaled = scaler.transform(X_test)
-
-  # Define XGBoost model and hyperparameter grid
-  xgb_model = xgb.XGBClassifier(use_label_encoder=False, eval_metric="logloss")
-  param_grid = {
-      "max_depth": [3, 5, 7],
-      "learning_rate": [0.01, 0.1],
-      "n_estimators": [100, 200]
-  }
-
-  # Hyperparameter tuning
-  grid_search = GridSearchCV(xgb_model, param_grid, cv=5, scoring="accuracy", n_jobs=-1)
-  grid_search.fit(X_train_scaled, y_train)
-
-  # Evaluate best model
-  best_model = grid_search.best_estimator_
-  y_pred = best_model.predict(X_test_scaled)
-  accuracy = accuracy_score(y_test, y_pred)
-  report = classification_report(y_test, y_pred)
-
-  print(f"Best Accuracy: {accuracy:.2f}")
-  print(f"Best Parameters: {grid_search.best_params_}")
-  print("\nClassification Report:\n", report)
-    <p align="center" style="font-size: 16px; color: #FF6F61;">This model achieved <b>92% accuracy</b> on a real client dataset, reducing churn by 30%.</p>
-</div>
 ## 💼 Hire Me
 
-Ready to **transform your business** with AI and data? I offer:
-
-- **Custom ML Models**: Predict churn, sales, or fraud with precision.
-- **Interactive Dashboards**: Turn data into insights with Tableau or Streamlit.
-- **End-to-End Solutions**: From pipelines to deployed AI apps.
-- **Consulting**: Expert advice to maximize your data strategy.
-
-<div align="center" style="border: 2px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 15px rgba(255, 111, 97, 0.6); margin: 20px 0;">
-  <p style="font-size: 18px; font-weight: bold; color: #FF6F61;">Let’s bring your vision to life!</p>
-  <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" height="45" onerror="this.src='https://via.placeholder.com/150x45?text=Email+Me'"/></a> 
-  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45" onerror="this.src='https://via.placeholder.com/150x45?text=LinkedIn'"/></a> 
-  <a href="https://x.com/BruceWashika"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" height="45" onerror="this.src='https://via.placeholder.com/150x45?text=X'"/></a>
+<div align="center" style="border: 2px solid transparent; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #0A0F1D, #1E2746); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 191, 255, 0.6), inset 0 0 10px rgba(0, 191, 255, 0.3); margin: 20px 0; position: relative; overflow: hidden;">
+  <p align="center" style="font-size: 22px; font-weight: bold; color: #00BFFF; text-shadow: 0 0 10px #00BFFF, 0 0 20px #00BFFF; margin-bottom: 15px;">
+    🚀 Ready to Transform Your Business with AI & Data?
+  </p>
+  <p align="center" style="font-size: 18px; color: #FF6F61; text-shadow: 0 0 5px #FF6F61; margin-bottom: 20px;">
+    I bring cutting-edge solutions to supercharge your success:
+  </p>
+  <ul style="list-style-type: none; padding: 0; text-align: center; color: #00BFFF; font-size: 16px; text-shadow: 0 0 3px #00BFFF;">
+    <li>🔮 Custom ML Models: Churn, Sales, Fraud Prediction</li>
+    <li>📊 Interactive Dashboards: Tableau & Streamlit Insights</li>
+    <li>⚙️ End-to-End Solutions: Pipelines to AI Apps</li>
+    <li>🧭 Consulting: Strategic Data Optimization</li>
+  </ul>
+  <p align="center">
+    <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/hire_me_glow.gif" alt="Hire Me Glow Effect" width="100%" style="max-width: 400px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 191, 255, 0.7); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x150?text=Hire+Me+Glow'"/>
+  </p>
+  <p align="center" style="margin-top: 15px;">
+    <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-Now!-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=1E2746" alt="Email Me" height="45" style="box-shadow: 0 0 10px #FF5733; transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 20px #FF5733'" onmouseout="this.style.boxShadow='0 0 10px #FF5733'"/></a>
+    <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E2746" alt="LinkedIn" height="45" style="box-shadow: 0 0 10px #0A66C2; transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 20px #0A66C2'" onmouseout="this.style.boxShadow='0 0 10px #0A66C2'"/></a>
+    <a href="https://x.com/BruceWashika"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1E2746" alt="X" height="45" style="box-shadow: 0 0 10px #1DA1F2; transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 20px #1DA1F2'" onmouseout="this.style.boxShadow='0 0 10px #1DA1F2'"/></a>
+  </p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF¢er=true&vCenter=true&width=400&lines=Let%27s+Build+Your+AI+Future!;Transform+Data+into+Success!" alt="Typing Call to Action" onerror="this.src='https://via.placeholder.com/400x40?text=Call+to+Action'"/>
+  </p>
 </div>
+
 
 ---
 

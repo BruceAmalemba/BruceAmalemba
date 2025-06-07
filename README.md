@@ -240,29 +240,29 @@ Launched June 3, 2025—currently **Day 5** of a 120-day plan to master advanced
 <div style="border: 2px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 15px rgba(255, 111, 97, 0.6); margin: 20px 0;">
 ## 💼 Hire Me
 
-<div align="center" style="border: 2px solid transparent; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #0A0F1D, #1E2746); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 255, 255, 0.8), inset 0 0 15px rgba(0, 255, 255, 0.4); margin: 20px 0; position: relative; overflow: hidden; animation: pulseGlow 3s infinite alternate;">
-  <p align="center" style="font-size: 24px; font-weight: bold; color: #00FFFF; text-shadow: 0 0 15px #00FFFF, 0 0 25px #00FFFF; margin-bottom: 15px; opacity: 0; animation: fadeIn 1s ease-in forwards;">
+<div align="center" style="border: 2px solid transparent; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #0A0F1D, #1E2746); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 255, 255, 0.8), inset 0 0 15px rgba(0, 255, 255, 0.4); margin: 20px 0; position: relative; overflow: hidden;">
+  <p align="center" style="font-size: 24px; font-weight: bold; color: #00FFFF; text-shadow: 0 0 15px #00FFFF, 0 0 25px #00FFFF; margin-bottom: 15px; opacity: 1; animation: fadeIn 1s ease-in;">
     🌌 Ready to Revolutionize Your Business with Next-Gen AI?
   </p>
-  <p align="center" style="font-size: 18px; color: #FF69B4; text-shadow: 0 0 8px #FF69B4; margin-bottom: 20px; opacity: 0; animation: fadeIn 1.5s ease-in forwards 0.5s;">
+  <p align="center" style="font-size: 18px; color: #FF69B4; text-shadow: 0 0 8px #FF69B4; margin-bottom: 20px; opacity: 1; animation: fadeIn 1.5s ease-in 0.5s;">
     I deliver futuristic solutions to redefine your success:
   </p>
   <ul style="list-style-type: none; padding: 0; text-align: center; color: #00FFFF; font-size: 16px; text-shadow: 0 0 5px #00FFFF;">
-    <li style="opacity: 0; animation: fadeInUp 1s ease-in forwards 1s;">🧬 **Quantum-Inspired AI Models**: Real-time optimization, anomaly detection</li>
-    <li style="opacity: 0; animation: fadeInUp 1s ease-in forwards 1.2s;">🌐 **Dynamic Dashboards**: AI-powered 3D visuals with real-time streaming</li>
-    <li style="opacity: 0; animation: fadeInUp 1s ease-in forwards 1.4s;">🔋 **End-to-End Ecosystems**: Neural pipelines, edge AI deployment</li>
-    <li style="opacity: 0; animation: fadeInUp 1s ease-in forwards 1.6s;">💡 **Strategic Consulting**: Quantum data strategies, AI scalability</li>
+    <li style="opacity: 1; animation: fadeInUp 1s ease-in 1s;">🧬 **Quantum-Inspired AI Models**: Real-time optimization, anomaly detection</li>
+    <li style="opacity: 1; animation: fadeInUp 1s ease-in 1.2s;">🌐 **Dynamic Dashboards**: AI-powered 3D visuals with real-time streaming</li>
+    <li style="opacity: 1; animation: fadeInUp 1s ease-in 1.4s;">🔋 **End-to-End Ecosystems**: Neural pipelines, edge AI deployment</li>
+    <li style="opacity: 1; animation: fadeInUp 1s ease-in 1.6s;">💡 **Strategic Consulting**: Quantum data strategies, AI scalability</li>
   </ul>
   <p align="center">
-    <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/hire_me_glow.gif" alt="Hire Me Glow Effect" width="100%" style="max-width: 400px; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.9); transition: transform 0.3s, filter 0.3s; opacity: 0; animation: fadeIn 1s ease-in forwards 1.8s;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)'" onerror="this.src='https://via.placeholder.com/400x150?text=Hire+Me+Glow'"/>
+    <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/hire_me_glow.gif" alt="Hire Me Glow Effect" width="100%" style="max-width: 400px; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.9); transition: transform 0.3s; opacity: 1; animation: fadeIn 1s ease-in 1.8s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x150?text=Hire+Me+Glow'"/>
   </p>
   <p align="center" style="margin-top: 15px;">
-    <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-Now!-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=1E2746" alt="Email Me" height="45" style="box-shadow: 0 0 12px #FF5733; transition: transform 0.3s, box-shadow 0.3s; opacity: 0; animation: fadeIn 1s ease-in forwards 2s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 25px #FF5733';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 12px #FF5733'"/></a>
-    <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E2746" alt="LinkedIn" height="45" style="box-shadow: 0 0 12px #0A66C2; transition: transform 0.3s, box-shadow 0.3s; opacity: 0; animation: fadeIn 1s ease-in forwards 2.2s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 25px #0A66C2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 12px #0A66C2'"/></a>
-    <a href="https://x.com/BruceWashika"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1E2746" alt="X" height="45" style="box-shadow: 0 0 12px #1DA1F2; transition: transform 0.3s, box-shadow 0.3s; opacity: 0; animation: fadeIn 1s ease-in forwards 2.4s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 25px #1DA1F2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 12px #1DA1F2'"/></a>
+    <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-Now!-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=1E2746" alt="Email Me" height="45" style="box-shadow: 0 0 12px #FF5733; transition: transform 0.3s; opacity: 1; animation: fadeIn 1s ease-in 2s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 25px #FF5733';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 12px #FF5733'"/></a>
+    <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E2746" alt="LinkedIn" height="45" style="box-shadow: 0 0 12px #0A66C2; transition: transform 0.3s; opacity: 1; animation: fadeIn 1s ease-in 2.2s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 25px #0A66C2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 12px #0A66C2'"/></a>
+    <a href="https://x.com/BruceWashika"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1E2746" alt="X" height="45" style="box-shadow: 0 0 12px #1DA1F2; transition: transform 0.3s; opacity: 1; animation: fadeIn 1s ease-in 2.4s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 25px #1DA1F2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 12px #1DA1F2'"/></a>
   </p>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF¢er=true&vCenter=true&width=450&lines=Let%27s+Forge+Your+AI+Empire!;Unleash+Data-Driven+Innovation!" alt="Typing Call to Action" style="opacity: 0; animation: fadeIn 1s ease-in forwards 2.6s, pulseText 2s infinite alternate;" onerror="this.src='https://via.placeholder.com/450x50?text=Call+to+Action'"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF¢er=true&vCenter=true&width=450&lines=Let%27s+Forge+Your+AI+Empire!;Unleash+Data-Driven+Innovation!" alt="Typing Call to Action" style="opacity: 1; animation: fadeIn 1s ease-in 2.6s, pulseText 2s infinite alternate;" onerror="this.src='https://via.placeholder.com/450x50?text=Call+to+Action'"/>
   </p>
   <style>
     @keyframes pulseGlow {
@@ -283,8 +283,6 @@ Launched June 3, 2025—currently **Day 5** of a 120-day plan to master advanced
     }
   </style>
 </div>
----
-
 ## 📊 Quick Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">

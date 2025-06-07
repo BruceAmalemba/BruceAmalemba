@@ -261,8 +261,10 @@ Launched June 3, 2025—currently **Day 5** of a 120-day plan to master advanced
     <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E2746" alt="LinkedIn" height="45" style="box-shadow: 0 0 10px #0A66C2;"/></a>
     <a href="https://x.com/BruceWashika"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1E2746" alt="X" height="45" style="box-shadow: 0 0 10px #1DA1F2;"/></a>
   </p>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF¢er=true&vCenter=true&width=450&lines=Let%27s+Forge+Your+AI+Empire!;Unleash+Data-Driven+Innovation!" alt="Typing Call to Action" onerror="this.src='https://via.placeholder.com/450x50?text=Call+to+Action'"/>
+  <p align="center" style="margin-top: 15px;">
+    <a href="mailto:bruceamalemba007@gmail.com">
+      <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/call_to_action.gif" alt="Launch Your AI Future" width="100%" style="max-width: 450px; border-radius: 10px; box-shadow: 0 0 15px #FF00FF;" onerror="this.src='https://via.placeholder.com/450x50?text=Launch+Your+AI+Future'"/>
+    </a>
   </p>
 </div>
 ## 📊 Quick Stats
@@ -312,14 +314,14 @@ Real-world impact from my work:
   - **Solution**: Random Forest model with 90% accuracy.
   - **Result**: Reduced churn by 30%, saving $500K in 2025.
   - **Tech**: Python, Scikit-learn, Pandas
-  - [Read More](https://brucesportfolio.vercel.app/case-studies/churn-prediction)
+  - [Read More](https://brucesportfolio.vercel.app/)
 
 - **Revenue Forecasting for Ambururu Resort**:
   - **Challenge**: Increase bookings and revenue.
   - **Solution**: Tableau dashboards for analytics.
   - **Result**: 10K+ visitors, $1M+ revenue in 2025.
   - **Tech**: Python, SQL, Tableau
-  - [Read More](https://brucesportfolio.vercel.app/case-studies/ambururu)
+  - [Read More](https://brucesportfolio.vercel.app/)
 
 <div style="border: 2px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 15px rgba(255, 111, 97, 0.6); margin: 20px 0;">
   <p align="center">

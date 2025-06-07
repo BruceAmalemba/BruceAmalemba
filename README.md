@@ -46,31 +46,28 @@ I'm a **Data Scientist** and **Machine Learning Engineer** passionate about tran
 ## 🌟 What I Bring
 
 <div align="center" style="border: 2px solid transparent; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #0A0F1D, #1E2746); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 191, 255, 0.6), inset 0 0 10px rgba(0, 191, 255, 0.3); margin: 20px 0; position: relative;">
-  <p align="center" style="font-size: 22px; font-weight: bold; color: #00BFFF; text-shadow: 0 0 10px #00BFFF, 0 0 20px #00BFFF; margin-bottom: 15px;">
+  <p align="center" style="font-size: 24px; font-weight: bold; color: #00BFFF; text-shadow: 0 0 15px #00BFFF, 0 0 25px #00BFFF; margin-bottom: 20px;">
     I Craft Data-Driven Solutions to Ignite Business Growth! 🚀
   </p>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00BFFF¢er=true&vCenter=true&width=400&lines=Data+Cleaning+with+Python;Data+Entry+Expertise;Data+Analysis+Mastery;Database+Creation+&+Manipulation;Predictive+Models;Stunning+Dashboards;AI+Optimization;Web+Integration" alt="Typing Skills Animation" onerror="this.src='https://via.placeholder.com/400x150?text=Skills+Animation'"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&multiline=true&lines=Mastering+Data+Cleaning+with+Python;Excelling+in+Data+Entry+Expertise;Unleashing+Data+Analysis+Mastery;Creating+Robust+Databases;Manipulating+Databases+with+Precision;Building+Predictive+Models;Crafting+Stunning+Dashboards;Optimizing+with+AI+&+Linear+Programming;Seamlessly+Integrating+Web+Apps" alt="Typing Skills Animation" onerror="this.src='https://via.placeholder.com/500x250?text=Skills+Animation'"/>
   </p>
-  <p align="center" style="font-size: 16px; color: #FF6F61; text-shadow: 0 0 5px #FF6F61; margin: 15px 0;">
-    From precision-crafted predictive models to seamless web integrations, I blend creativity and technical excellence to deliver tangible results.
+  <p align="center" style="font-size: 17px; color: #FF6F61; text-shadow: 0 0 7px #FF6F61; margin: 20px 0;">
+    From precision-crafted predictive models to seamless web integrations, I blend creativity and technical excellence to deliver measurable impact.
   </p>
-  <ul style="list-style-type: none; padding: 0; text-align: center; color: #00BFFF; font-size: 16px; text-shadow: 0 0 3px #00BFFF;">
-    <li>🧠 **Machine Learning**: Classification, regression, clustering models</li>
-    <li>🧹 **Data Cleaning**: Efficient data preprocessing with Python</li>
-    <li>📋 **Data Entry**: Accurate data management using Python</li>
+  <ul style="list-style-type: none; padding: 0; text-align: center; color: #00BFFF; font-size: 16px; text-shadow: 0 0 5px #00BFFF;">
+    <li>🧠 **Machine Learning**: Classification, regression, clustering</li>
+    <li>🧹 **Data Cleaning**: Efficient preprocessing with Python</li>
+    <li>📋 **Data Entry**: Accurate data management</li>
     <li>📊 **Data Analysis**: Deep insights with Python & tools</li>
-    <li>💾 **Database Creation**: Building robust databases</li>
-    <li>🔧 **Database Manipulation**: Optimizing and querying data</li>
-    <li>🎨 **Data Visualization**: Stunning dashboards with Tableau & Seaborn</li>
-    <li>⚙️ **Optimization**: AI & linear programming for efficiency</li>
-    <li>🌐 **Web Integration**: Data science meets web apps</li>
+    <li>💾 **Database Creation**: Building robust systems</li>
+    <li>🔧 **Database Manipulation**: Optimization & querying</li>
+    <li>🎨 **Data Visualization**: Dashboards with Tableau & Seaborn</li>
+    <li>⚙️ **Optimization**: AI & linear programming</li>
+    <li>🌐 **Web Integration**: Data science in web apps</li>
   </ul>
-  <p align="center">
-    <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/what_i_bring_animated.gif" alt="What I Bring Animation" width="100%" style="max-width: 450px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 191, 255, 0.7); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/450x200?text=What+I+Bring'"/>
-  </p>
-  <p align="center" style="font-size: 18px; color: #00BFFF; text-shadow: 0 0 5px #00BFFF; margin-top: 15px;">
-    **Why Choose Me?** I deliver technical excellence with a client-centric focus, boosting revenue, efficiency, and insights. Let’s supercharge your data! 💡
+  <p align="center" style="font-size: 19px; color: #00BFFF; text-shadow: 0 0 7px #00BFFF; margin-top: 20px;">
+    **Why Choose Me?** I deliver technical excellence with a client-centric focus, driving revenue, efficiency, and insights. Let’s supercharge your data! 💡
   </p>
 </div>
 

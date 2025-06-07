@@ -507,3 +507,147 @@ Everything’s preconfigured, but if something’s off track, here’s how to en
 </div>
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+## 💼 Hire Me
+Ready to **revolutionize your business** with AI and data? I offer:
+
+- **Custom ML Models**: Predictive analytics for churn, sales, or fraud.
+- **Interactive Dashboards**: Visualize insights with Tableau or Streamlit.
+- **End-to-End Solutions**: From pipelines to deployed AI apps.
+- **Consulting**: Strategic data optimization for maximum impact.
+
+<div align="center" style="border: 3px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A1F3A, #2C3E50); background-clip: padding-box; box-shadow: inset 0 0 12px rgba(255, 111, 97, 0.6);">
+  <p style="font-size: 18px; color: #FF6F61;"><b>Let’s bring your vision to life!</b></p>
+  <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white&glow=1" alt="Email" height="42" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x42?text=Email+Me'"/></a>
+  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&glow=1" alt="LinkedIn" height="42" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x42?text=LinkedIn'"/></a>
+  <a href="https://x.com/BruceWashika"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&glow=1" alt="X" height="42" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x42?text=X'"/></a>
+  <a href="https://www.instagram.com/brucewashika"><img src="https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&glow=1" alt="Instagram" height="42" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x42?text=Instagram'"/></a>
+</div>
+
+---
+
+## 📊 Quick Stats
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=BruceAmalemba&show_icons=true&theme=dracula&hide_border=true&bg_color=1A1F3A&text_color=FF6F61&icon_color=FF6F61" alt="GitHub Stats" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x200?text=GitHub+Stats'"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAmalemba&layout=compact&theme=dracula&hide_border=true&bg_color=1A1F3A&text_color=FF6F61&icon_color=FF6F61" alt="Top Languages" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x200?text=Top+Languages'"/>
+</div>
+
+---
+
+## 🏅 Certifications
+<div style="border: 3px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A1F3A, #2C3E50); background-clip: padding-box; box-shadow: inset 0 0 12px rgba(255, 111, 97, 0.6);">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white&glow=1" alt="Google Data Analytics" height="34" style="filter: drop-shadow(0 0 5px rgba(66, 133, 244, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x34?text=Google+Data+Analytics'"/>
+    <img src="https://img.shields.io/badge/TensorFlow%20Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&glow=1" alt="TensorFlow Developer" height="34" style="filter: drop-shadow(0 0 5px rgba(255, 111, 0, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x34?text=TensorFlow+Developer'"/>
+    <img src="https://img.shields.io/badge/Tableau%20Desktop%20Specialist-E97627?style=for-the-badge&logo=tableau&logoColor=white&glow=1" alt="Tableau Desktop Specialist" height="34" style="filter: drop-shadow(0 0 5px rgba(233, 118, 39, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x34?text=Tableau+Specialist'"/>
+  </p>
+</div>
+
+---
+
+## 🌍 Open Source Contributions
+I’m passionate about advancing the community through open-source work. Here’s a glimpse (update with your real contributions):
+
+- **Scikit-learn**: Enhanced SVM documentation for better usability ([PR #TBD](https://github.com/scikit-learn/scikit-learn)).
+- **Streamlit**: Developed a custom interactive chart component ([PR #TBD](https://github.com/streamlit/streamlit)).
+- **Pandas**: Fixed a data frame merge bug for improved performance ([PR #TBD](https://github.com/pandas-dev/pandas)).
+
+<div style="border: 3px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A1F3A, #2C3E50); background-clip: padding-box; box-shadow: inset 0 0 12px rgba(255, 111, 97, 0.6);">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-00A1D6?style=for-the-badge&logo=github&logoColor=white&glow=1" alt="Open Source Contributor" height="34" style="filter: drop-shadow(0 0 5px rgba(0, 161, 214, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x34?text=Open+Source'"/>
+  </p>
+  <p align="center" style="font-size: 16px; color: #FF6F61;">Eager to collaborate on open-source? Let’s connect!</p>
+</div>
+
+---
+
+## 📊 Case Studies
+Discover how I’ve transformed businesses with data science:
+
+- **Churn Prediction for Tech Startup**:
+  - **Challenge**: High churn costing $1M annually.
+  - **Solution**: Random Forest model with 90% accuracy using Scikit-learn.
+  - **Result**: Reduced churn by 30%, saving $500K in 2025.
+  - **Tech**: Python, Scikit-learn, Pandas
+  - [Read More](https://brucesportfolio.vercel.app/case-studies/churn-prediction)
+
+- **Revenue Forecasting for Ambururu Resort**:
+  - **Challenge**: Needed insights to boost bookings.
+  - **Solution**: Tableau dashboards for customer analytics and forecasting.
+  - **Result**: Drove 10K+ visitors and $1M+ in revenue in 2025.
+  - **Tech**: Python, SQL, Tableau
+  - [Read More](https://brucesportfolio.vercel.app/case-studies/ambururu-resort)
+
+<div style="border: 3px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A1F3A, #2C3E50); background-clip: padding-box; box-shadow: inset 0 0 12px rgba(255, 111, 97, 0.6);">
+  <p align="center">
+    <a href="https://brucesportfolio.vercel.app/case-studies">
+      <img src="https://img.shields.io/badge/View%20All%20Case%20Studies-FF6F61?Style=flat-square&logo=read-the-docs&logoColor=white&glow=1" alt="View Case Studies" height="34" style="filter: drop-shadow(0 0 5px rgba(255, 111, 97, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x34?text=Case+Studies'"/>
+    </a>
+  </p>
+</div>
+
+---
+
+## ✍️ Blog Posts & Talks
+I share my expertise to inspire and educate:
+
+- **Blog**: ["Scalable ML with Scikit-learn"](https://brucesportfolio.vercel.app/blog/scikit-learn) – Optimize your ML pipelines.
+- **Talk**: ["Data Visualization for Impact"](https://brucesportfolio.vercel.app/talks/data-viz-2025) – Presented at Data Science Kenya 2024.
+- **Blog**: ["AI Apps with Streamlit"](https://brucesportfolio.vercel.app/blog/ai-tools) – Build interactive AI tools.
+
+<div style="border: 3px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A1F3A, #2C3E50); background-clip: padding-box; box-shadow: inset 0 2px 12px rgba(255, 111, 97, 0.6);">
+  <p align="center">
+    <a href="https://brucesportfolio.vercel.app/blog">
+      <img src="https://img.shields.io/badge/Read%20Blog-FF5733?logo=text&logoColor=black&style=flat-square" alt="Read Blog" height="34" style="filter: drop-shadow(0 0 5px rgba(255, 87, 51, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x34?text=Read+Blog'"/>
+    </a>
+    <a href="https://brucesportfolio.vercel.app/talks">
+      <img src="https://img.shields.io/badge/Watch%20Talks-FF0000?logo=youtube&style=flat-square" alt="Watch Talks" height="34" style="filter: drop-shadow(0 0 5px rgba(255, 0, 0, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x34?text=Watch+Talks'"/>
+    </a>
+  </p>
+</div>
+
+---
+
+## 📈 Skill Progress
+My skills are constantly evolving. Here’s my current proficiency:
+
+<div style="border: 3px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A1F3A, #2C3E50); background-clip: padding-box; box-shadow: inset 0 0 12px rgba(255, 111, 97, 0.6);">
+  <p>Python: <img src="https://progress-bar.dev/90/?title=90%20%2525&color=3776F0&width=350&style=plastic" alt="Python Progress" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/350x20?text=Python+90%25'"/></p>
+  <p>Machine Learning: <img src="https://progress-bar.dev/85/?title=85%20%2525&color=FF6F00&width=350&style=plastic" alt="ML Progress" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/350x20?text=ML+85%25'"/></p>
+  <p>Data Visualization: <img src="https://progress-bar.dev/80/?title=80%20%2525&color=E97627&width=350&style=plastic" alt="Data Viz Progress" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/350x20?text=Data+Viz+80%25'"/></p>
+  <p>SQL: <img src="https://progress-bar.dev/75/?title=75%20%2525&color=4479A1&width=350&style=plastic" alt="SQL Progress" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/350x20?text=SQL+75%25'"/></p>
+</div>
+
+---
+
+## 🎉 Fun Data Science Fact
+Fun fact: A neural network with billions of parameters can generate art, code, or even predict market trends! My favorite project? Using TensorFlow to predict customer preferences with 85% accuracy. Let’s create something epic with your data!
+
+<div style="border: 3px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A1F3A, #2C3E50); background-clip: padding-box; box-shadow: inset 0 0 12px rgba(255, 111, 97, 0.6);">
+  <p align="center">
+    <lottie-player src="https://cdn.lottiefiles.com/animations/data-science-fun-2e5e7a1b-8c0e-9c3a-4f7b-8e0d-a2b9c7e6d1f5.json" background="transparent" speed="1" style="width: 100%; max-width: 400px; border-radius: 8px;" loop autoplay></lottie-player>
+    <img src="https://cdn.jsdelivr.net/gh/BruceAmalemba/BruceAmalemba@master/assets/fun_fact_fallback.png" alt="Fun Fact Fallback" width="100%" style="max-width: 400px; border-radius: 8px; display: none;" onerror="this.style.display='block'"/>
+  </p>
+  <p align="center" style="font-size: 16px; color: #FF6F61;">Data Science Magic in Motion! ✨</p>
+</div>
+
+---
+
+## 🔧 Setup Guide
+Everything’s preconfigured, but here’s how to keep it flawless:
+
+- **Animations**: Lottie animations are hosted on `cdn.lottiefiles.com` with fallback PNGs on `cdn.jsdelivr.net`. If they don’t load, check network or browser (Chrome/Firefox/Edge recommended).
+- **Badges & Stats**: `shields.io`, `progress-bar.dev`, and `github-readme-stats` are external. Fallbacks ensure visuals persist if they fail. Clear cache if needed.
+- **Links**: Update placeholder links (e.g., portfolio, blog, PRs) with your real URLs. Placeholders work if not hosted.
+- **Banner**: SVG banner is on `cdn.jsdelivr.net`. Fallback ensures a clean look if it fails.
+- **Instagram**: Update `https://www.instagram.com/brucewashika` with your actual handle.
+
+<div style="border: 3px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A1F3A, #2C3E50); background-clip: padding-box; box-shadow: inset 0 0 12px rgba(255, 111, 97, 0.6);">
+  <p align="center">
+    <a href="mailto:bruceamalemba007@gmail.com">
+      <img src="https://img.shields.io/badge/Need%20Help%3F-Contact%20Me-FF5733?style=flat-square&logo=minutemailer&logoColor=white&glow=1" alt="Contact for Help" height="34" style="filter: drop-shadow(0 0 5px rgba(255, 87, 51, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/150x34?text=Contact+Me'"/>
+    </a>
+  </p>
+</div>
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>

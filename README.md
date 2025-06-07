@@ -429,10 +429,38 @@ My skills are constantly evolving:
 
 ## 🎉 Fun Data Science Fact
 
-Did you know? A neural network with millions of parameters can recognize faces, predict stocks, or even compose music! 🎶 My favorite project: Predicting customer preferences with 85% accuracy using TensorFlow. Let’s create something extraordinary with your data!
-
-<div align="center" style="border: 2px solid transparent; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 15px rgba(255, 111, 97, 0.6); margin: 20px 0;">
+<div style="border: 2px solid transparent; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0A0F1D, #1E2746); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 255, 255, 0.5), inset 0 0 10px rgba(0, 255, 255, 0.2); margin: 20px 0; position: relative; overflow: hidden; animation: neonPulse 2s ease-in-out infinite;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/particle-bg.png') repeat; opacity: 0.2; pointer-events: none; animation: particleDrift 10s linear infinite;"></div>
+  <p align="center" style="font-size: 18px; font-weight: bold; color: #00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF; animation: glitchText 1.5s infinite;">
+    Did you know? A neural network with millions of parameters can recognize faces, predict stocks, or even compose music! 🎶
+  </p>
+  <p align="center" style="font-size: 16px; color: #FF6F61; text-shadow: 0 0 5px #FF6F61; margin: 10px 0;">
+    My favorite project: Predicting customer preferences with <b>85% accuracy</b> using TensorFlow. Let’s create something extraordinary with your data!
+  </p>
   <p align="center">
-    <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/fun_fact.gif" alt="Fun Data Visualization" width="100%" style="max-width: 450px; border-radius: 10px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/450x200?text=Fun+Fact'"/>
+    <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/fun_fact.gif" alt="Fun Data Visualization" width="100%" style="max-width: 450px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.7); transition: transform 0.3s; animation: floatImage 3s ease-in-out infinite;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/450x200?text=Fun+Fact'"/>
   </p>
 </div>
+
+<style>
+@keyframes neonPulse {
+  0%, 100% { box-shadow: 0 0 20px rgba(0, 255, 255, 0.5), inset 0 0 10px rgba(0, 255, 255, 0.2); }
+  50% { box-shadow: 0 0 30px rgba(0, 255, 255, 0.8), inset 0 0 15px rgba(0, 255, 255, 0.4); }
+}
+@keyframes particleDrift {
+  0% { background-position: 0 0; }
+  100% { background-position: 100px 100px; }
+}
+@keyframes glitchText {
+  0% { transform: translate(0); }
+  20% { transform: translate(-2px, 2px); text-shadow: 0 0 10px #FF6F61, 2px -2px 0 #00FFFF; }
+  40% { transform: translate(2px, -2px); text-shadow: 0 0 10px #00FFFF, -2px 2px 0 #FF6F61; }
+  60%, 100% { transform: translate(0); text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF; }
+}
+@keyframes floatImage {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+</style>
+</div>
+

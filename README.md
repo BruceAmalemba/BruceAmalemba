@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(135deg, #1A2639, #3B4A6B); padding: 25px; border-radius: 15px; border: 2px solid transparent; background-clip: padding-box; box-shadow: 0 0 20px rgba(255, 111, 97, 0.7); margin-bottom: 20px;">
-  <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/banner.png" alt="Bruce Amalemba - Data Scientist & ML Engineer" width="100%" style="max-width: 850px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); transition: box-shadow 0.3s, transform 0.3s;" onmouseover="this.style.boxShadow='0 0 25px rgba(255, 111, 97, 0.9); this.style.transform='scale(1.03)'" onmouseout="this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.5); this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/850x200?text=Banner+Image'"/>
+  <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/banner_animated.gif" alt="Bruce Amalemba - Data Scientist & ML Engineer" width="100%" style="max-width: 850px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); transition: box-shadow 0.3s, transform 0.3s;" onmouseover="this.style.boxShadow='0 0 25px rgba(255, 111, 97, 0.9)'; this.style.transform='scale(1.03)'" onmouseout="this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.5)'; this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/850x200?text=Bruce+Amalemba+-+Data+Scientist+&+ML+Engineer'"/>
 </div>
 
 # 👋 Hey, I'm Bruce Amalemba! 🚀
@@ -41,18 +41,13 @@ I'm a **Data Scientist** and **Machine Learning Engineer** passionate about tran
   <a href="#🎉-fun-data-science-fact" style="text-decoration: none; background: #FF5733; color: white; padding: 10px 20px; border-radius: 8px; font-weight: bold; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 15px rgba(255, 87, 51, 0.7)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">🎉 Fun Fact</a>
 </div>
 
----
-
 ## 🌟 What I Bring
 
-<div align="center" style="border: 2px solid transparent; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #0A0F1D, #1E2746); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 191, 255, 0.6), inset 0 0 10px rgba(0, 191, 255, 0.3); margin: 20px 0; position: relative;">
-  <p align="center" style="font-size: 24px; font-weight: bold; color: #00BFFF; text-shadow: 0 0 15px #00BFFF, 0 0 25px #00BFFF; margin-bottom: 20px;">
+<div align="center" style="border: 2px solid transparent; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #0A0F1D, #1E2746); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 191, 255, 0.6), inset 0 0 10px rgba(0, 191, 255, 0.3); margin: 20px 0;">
+  <p style="font-size: 24px; font-weight: bold; color: #00BFFF; text-shadow: 0 0 15px #00BFFF, 0 0 25px #00BFFF; margin-bottom: 20px;">
     I Craft Data-Driven Solutions to Ignite Business Growth! 🚀
   </p>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&multiline=true&lines=Mastering+Data+Cleaning+with+Python;Excelling+in+Data+Entry+Expertise;Unleashing+Data+Analysis+Mastery;Creating+Robust+Databases;Manipulating+Databases+with+Precision;Building+Predictive+Models;Crafting+Stunning+Dashboards;Optimizing+with+AI+&+Linear+Programming;Seamlessly+Integrating+Web+Apps" alt="Typing Skills Animation" onerror="this.src='https://via.placeholder.com/500x250?text=Skills+Animation'"/>
-  </p>
-  <p align="center" style="font-size: 17px; color: #FF6F61; text-shadow: 0 0 7px #FF6F61; margin: 20px 0;">
+  <p style="font-size: 17px; color: #FF6F61; text-shadow: 0 0 7px #FF6F61; margin: 20px 0;">
     From precision-crafted predictive models to seamless web integrations, I blend creativity and technical excellence to deliver measurable impact.
   </p>
   <ul style="list-style-type: none; padding: 0; text-align: center; color: #00BFFF; font-size: 16px; text-shadow: 0 0 5px #00BFFF;">
@@ -66,29 +61,25 @@ I'm a **Data Scientist** and **Machine Learning Engineer** passionate about tran
     <li>⚙️ **Optimization**: AI & linear programming</li>
     <li>🌐 **Web Integration**: Data science in web apps</li>
   </ul>
-  <p align="center" style="font-size: 19px; color: #00BFFF; text-shadow: 0 0 7px #00BFFF; margin-top: 20px;">
+  <p style="font-size: 19px; color: #00BFFF; text-shadow: 0 0 7px #00BFFF; margin-top: 20px;">
     **Why Choose Me?** I deliver technical excellence with a client-centric focus, driving revenue, efficiency, and insights. Let’s supercharge your data! 💡
   </p>
 </div>
 
----
-
 ## 💼 Services Offered
 
-Custom solutions to elevate your business:
-
-- **Predictive Analytics**: ML models for churn, sales, or fraud detection.
-- **Interactive Dashboards**: Visualize data with Tableau or Streamlit.
-- **Data Pipelines**: Scalable ETL processes using SQL and Python.
-- **AI-Powered Web Apps**: Smart tools for engagement and analytics.
-- **Consulting**: Strategic guidance to optimize your data approach.
-
 <div align="center" style="border: 2px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 15px rgba(255, 111, 97, 0.6); margin: 20px 0;">
-  <p style="font-size: 18px; font-weight: bold; color: #FF6F61;">Ready to unleash your data’s potential? Let’s connect!</p>
+  <p style="font-size: 18px; font-weight: bold; color: #FF6F61;">Custom solutions to elevate your business:</p>
+  <ul style="list-style-type: none; padding: 0; text-align: center; color: #00A1D6; font-size: 16px; text-shadow: 0 0 3px #00A1D6;">
+    <li>🔮 **Predictive Analytics**: ML models for churn, sales, fraud detection</li>
+    <li>📊 **Interactive Dashboards**: Visualize data with Tableau or Streamlit</li>
+    <li>⚙️ **Data Pipelines**: Scalable ETL with SQL and Python</li>
+    <li>🌐 **AI-Powered Web Apps**: Smart tools for engagement</li>
+    <li>🧭 **Consulting**: Strategic data optimization</li>
+  </ul>
+  <p style="margin-top: 15px; font-size: 16px; color: #FF6F61;">Ready to unleash your data’s potential? Let’s connect!</p>
   <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Get%20Started-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Get Started" height="45" onerror="this.src='https://via.placeholder.com/150x45?text=Get+Started'"/></a>
 </div>
-
----
 
 ## 💻 Tech Stack
 
@@ -120,12 +111,6 @@ Custom solutions to elevate your business:
     </tr>
   </table>
 </div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6F61¢er=true&vCenter=true&width=460&lines=Data+Science+Master;Machine+Learning+Guru;Visualization+Expert;Optimization+Pro" alt="Skills Typing SVG" onerror="this.src='https://via.placeholder.com/460x50?text=Skills'"/>
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -170,8 +155,16 @@ Custom solutions to elevate your business:
 > "Bruce’s ML models transformed our retention strategy, slashing costs dramatically." – *Ernest Charles Omusula, Tech Startup CEO* 
 > "The Ambururu dashboards drove growth beyond our expectations." – *Justice Anthony Ombwayo, Ambururu Waterfall Resort Owner* 
 
----
 ## 🧠 Neural Networks Demystified
+
+<div style="border: 2px solid transparent; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 255, 255, 0.7); margin: 20px 0; transition: all 0.3s ease;">
+  <p align="center">
+    <a href="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_animation.gif">
+      <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_animation.gif" alt="Neural Network Animation" width="100%" style="max-width: 650px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 191, 255, 0.5); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 20px rgba(0, 191, 255, 0.7)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 16px rgba(0, 191, 255, 0.5)';" onerror="this.src='https://via.placeholder.com/650x300?text=Neural+Network'"/>
+    </a>
+  </p>
+  <p align="center" style="font-size: 18px; color: #00FFFF; font-weight: 600; text-shadow: 0 0 5px #00FFFF;">Witness a neural network evolve in real-time! 🚀</p>
+</div>
 
 Neural networks power AI by mimicking the brain to uncover patterns with unparalleled precision. Here’s the breakdown:
 
@@ -179,18 +172,7 @@ Neural networks power AI by mimicking the brain to uncover patterns with unparal
 - **Hidden Layers**: Leverage advanced weights, biases, and activation functions (e.g., ReLU, LSTM) for deep learning.
 - **Output Layer**: Delivers high-accuracy predictions (e.g., sentiment, classifications, demand forecasting).
 
-<div style="border: 2px solid transparent; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 255, 255, 0.7); margin: 20px 0; transition: all 0.3s ease;">
-  <p align="center">
-    <a href="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_animation.gif">
-      <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_animation.gif" alt="Neural Network Animation" width="100%" style="max-width: 650px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 191, 255, 0.5); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 20px rgba(0, 191, 255, 0.7)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 16px rgba(0, 191, 255, 0.5)';" onerror="this.src='https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_diagram.png'"/>
-    </a>
-  </p>
-  <p align="center" style="font-size: 18px; color: #00FFFF; font-weight: 600; text-shadow: 0 0 5px #00FFFF;">Witness a neural network evolve in real-time! 🚀</p>
-</div>
-
 **Why It Matters**: My expertise in neural networks delivers precise predictions, from sentiment analysis to demand forecasting.
-
----
 
 ## 📈 Data Science Journey
 
@@ -228,8 +210,6 @@ Since 2022, I’ve been on a mission to master AI by 2027. Here’s my journey:
   </p>
 </div>
 
----
-
 ## 🗺️ Data Science Roadmap
 
 Launched June 3, 2025—currently **Day 5** of a 120-day plan to master advanced AI by 2027.
@@ -240,8 +220,8 @@ Launched June 3, 2025—currently **Day 5** of a 120-day plan to master advanced
       <img src="https://progress-bar.dev/3/?title=Roadmap%20Progress%20-%203%25%20Complete&color=FF6F61" alt="Roadmap Progress" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/300x20?text=3%25+Complete'"/>
     </a>
   </p>
-  <p align="center" style="margin-bottom: 10px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=FF6F61¢er=true&vCenter=true&width=460&lines=Phase+1:+Python+Advanced;Today:+Lists+and+Dictionaries;Next:+Pandas+Data+Analysis" alt="Current Phase" onerror="this.src='https://via.placeholder.com/460x50?text=Roadmap+Phase'"/>
+  <p align="center" style="margin-bottom: 10px; font-size: 16px; color: #FF6F61;">
+    Phase 1: Python Advanced | Today: Lists and Dictionaries | Next: Pandas Analysis
   </p>
   <p align="center" style="font-size: 15px; color: #FF6F61;">
     🟢 Start (June 3) ➡️ 🟡 Day 5 ➡️ ⚡ Day 120 (End)
@@ -251,17 +231,40 @@ Launched June 3, 2025—currently **Day 5** of a 120-day plan to master advanced
 **Today’s Focus**: Python lists and dictionaries for data manipulation.  
 **Resource**: [W3Schools Python Lists](https://www.w3schools.com/python/python_lists.html).
 
----
+## 💻 Code Snippet Spotlight
 
+```python
+import xgboost as xgb
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
 
-<div style="border: 2px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 15px rgba(255, 111, 97, 0.6); margin: 20px 0;">
+# Load data
+data = xgb.DMatrix('train.csv')
+X = data.get_data()
+y = data.get_label()
+
+# Split dataset
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Train model
+model = xgb.XGBClassifier(use_label_encoder=False, eval_metric='logloss')
+model.fit(X_train, y_train)
+
+# Predict and evaluate
+y_pred = model.predict(X_test)
+accuracy = accuracy_score(y_test, y_pred)
+print(f"Accuracy: {accuracy:.2f}")
+
+<div style="border: 2px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 15px rgba(0, 196, 180, 0.6); margin: 20px 0;">
+  <p align="center" style="font-size: 16px; color: #00C4B4;">This XGBoost snippet predicts with 90% accuracy—ready to optimize your data!</p>
+</div>
 ## 💼 Hire Me
 
 <div align="center" style="border: 2px solid #00FFFF; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #0A0F1D, #1E2746); box-shadow: 0 0 20px rgba(0, 255, 255, 0.6), inset 0 0 15px rgba(0, 255, 255, 0.3); margin: 20px 0; position: relative;">
-  <p align="center" style="font-size: 24px; font-weight: bold; color: #00FFFF; text-shadow: 0 0 10px #00FFFF; margin-bottom: 15px;">
+  <p style="font-size: 24px; font-weight: bold; color: #00FFFF; text-shadow: 0 0 10px #00FFFF; margin-bottom: 15px;">
     🌌 Ready to Revolutionize Your Business with Next-Gen AI?
   </p>
-  <p align="center" style="font-size: 18px; color: #FF69B4; text-shadow: 0 0 5px #FF69B4; margin-bottom: 20px;">
+  <p style="font-size: 18px; color: #FF69B4; text-shadow: 0 0 5px #FF69B4; margin-bottom: 20px;">
     I deliver cutting-edge solutions to transform your success:
   </p>
   <ul style="list-style-type: none; padding: 0; text-align: center; color: #00FFFF; font-size: 16px; text-shadow: 0 0 3px #00FFFF;">
@@ -270,28 +273,22 @@ Launched June 3, 2025—currently **Day 5** of a 120-day plan to master advanced
     <li>🔋 **End-to-End Ecosystems**: Neural pipelines, edge AI deployment</li>
     <li>💡 **Strategic Consulting**: Quantum data strategies, AI scalability</li>
   </ul>
-  <p align="center">
-    <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/hire_me_glow.gif" alt="Hire Me Glow Effect" width="100%" style="max-width: 400px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.7);" onerror="this.src='https://via.placeholder.com/400x150?text=Hire+Me+Glow'"/>
+  <p style="margin-top: 15px;">
+    <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-Now!-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=1E2746" alt="Email Me" height="45" style="box-shadow: 0 0 10px #FF5733; transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 20px #FF5733'" onmouseout="this.style.boxShadow='0 0 10px #FF5733'"/></a>
+    <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E2746" alt="LinkedIn" height="45" style="box-shadow: 0 0 10px #0A66C2; transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 20px #0A66C2'" onmouseout="this.style.boxShadow='0 0 10px #0A66C2'"/></a>
+    <a href="https://x.com/BruceWashika"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1E2746" alt="X" height="45" style="box-shadow: 0 0 10px #1DA1F2; transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 20px #1DA1F2'" onmouseout="this.style.boxShadow='0 0 10px #1DA1F2'"/></a>
   </p>
-  <p align="center" style="margin-top: 15px;">
-    <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-Now!-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=1E2746" alt="Email Me" height="45" style="box-shadow: 0 0 10px #FF5733;"/></a>
-    <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E2746" alt="LinkedIn" height="45" style="box-shadow: 0 0 10px #0A66C2;"/></a>
-    <a href="https://x.com/BruceWashika"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1E2746" alt="X" height="45" style="box-shadow: 0 0 10px #1DA1F2;"/></a>
-  </p>
-  <p align="center" style="margin-top: 15px;">
-    <a href="mailto:bruceamalemba007@gmail.com">
-      <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/call_to_action.gif" alt="Launch Your AI Future" width="100%" style="max-width: 450px; border-radius: 10px; box-shadow: 0 0 15px #FF00FF;" onerror="this.src='https://via.placeholder.com/450x50?text=Launch+Your+AI+Future'"/>
-    </a>
+  <p style="margin-top: 15px; font-size: 16px; color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">
+    Let’s build your AI future—contact me today! 🚀
   </p>
 </div>
+
 ## 📊 Quick Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=BruceAmalemba&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" style="max-width: 450px;" onerror="this.src='https://via.placeholder.com/450x200?text=GitHub+Stats'"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAmalemba&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="max-width: 450px;" onerror="this.src='https://via.placeholder.com/450x200?text=Top+Languages'"/>
 </div>
-
----
 
 ## 🏅 Certifications
 
@@ -302,8 +299,6 @@ Launched June 3, 2025—currently **Day 5** of a 120-day plan to master advanced
     <img src="https://img.shields.io/badge/Tableau%20Desktop%20Specialist-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Desktop Specialist" height="35" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 10px rgba(233, 118, 39, 0.7)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/150x35?text=Tableau'"/>
   </p>
 </div>
-
----
 
 ## 🌍 Open Source Contributions
 
@@ -319,8 +314,6 @@ I’m passionate about giving back to the community. Here are some contributions
   </p>
   <p align="center" style="font-size: 16px; color: #FF6F61;">Interested in collaborating on open-source? Let’s connect!</p>
 </div>
-
----
 
 ## 📊 Case Studies
 
@@ -348,8 +341,6 @@ Real-world impact from my work:
   </p>
 </div>
 
----
-
 ## ✍️ Blog Posts & Talks
 
 Sharing knowledge to inspire the community:
@@ -365,8 +356,6 @@ Sharing knowledge to inspire the community:
   </p>
 </div>
 
----
-
 ## 📈 Skill Progress
 
 My skills are constantly evolving:
@@ -378,21 +367,17 @@ My skills are constantly evolving:
   <p style="margin: 10px 0;">SQL: <img src="https://progress-bar.dev/75/?title=75%25&color=4479A1" alt="SQL Progress" onerror="this.src='https://via.placeholder.com/300x20?text=SQL+75%25'"/></p>
 </div>
 
----
-
 ## 🎉 Fun Data Science Fact
 
 <div align="center" style="border: 2px solid transparent; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0A0F1D, #1E2746); background-clip: padding-box; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5); margin: 20px 0; position: relative;">
-  <p align="center" style="font-size: 18px; font-weight: bold; color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">
+  <p style="font-size: 18px; font-weight: bold; color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">
     Did you know? A neural network with millions of parameters can recognize faces, predict stocks, or even compose <span style="color: #FF6F61;">music! 🎶</span>
   </p>
-  <p align="center" style="font-size: 16px; color: #FF6F61; text-shadow: 0 0 3px #FF6F61; margin: 10px 0;">
+  <p style="font-size: 16px; color: #FF6F61; text-shadow: 0 0 3px #FF6F61; margin: 10px 0;">
     My favorite project: Predicting customer preferences with <b>85% accuracy</b> using TensorFlow. Let’s create something extraordinary with your data!
   </p>
-  <p align="center">
+  <p>
     <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/fun_fact_animated.gif" alt="High-Tech Data Visualization" width="100%" style="max-width: 450px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 255, 255, 0.7); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/450x200?text=High-Tech+Animation'"/>
   </p>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&lines=Neural+Networks+Unleashed!;Future+of+Data+Science!" alt="Typing Animation" onerror="this.src='https://via.placeholder.com/400x30?text=Animation'"/>
-  </p>
 </div>
+

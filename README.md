@@ -132,16 +132,6 @@ Custom solutions to elevate your business:
   <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/ambururu.gif" alt="Ambururu Dashboard" width="100%" style="max-width: 450px; border-radius: 10px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/450x200?text=Ambururu+Demo'"/>
 </div>
 
-### [Sentiment Analysis Tool](https://github.com/BruceAmalemba/Sentiment-Analysis-Demo)
-- **Description**: A real-time text analysis tool for social media and feedback, built with NLTK and Streamlit.
-- **Impact**: Analyzed 10,000+ texts with 85% accuracy, boosting client engagement in 2025.
-- **Tech**: Python, NLTK, Streamlit, Pandas
-- **Links**: [GitHub](https://github.com/BruceAmalemba/Sentiment-Analysis-Demo) | [Live Demo](https://sentiment-demo.streamlit.app)
-
-<div align="center" style="margin: 15px 0;">
-  <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/sentiment.gif" alt="Sentiment Analysis Demo" width="100%" style="max-width: 450px; border-radius: 10px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/450x200?text=Sentiment+Demo'"/>
-</div>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Machine-Learning-Models&theme=dracula&hide_border=true" alt="Machine-Learning-Models" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x100?text=ML+Models'"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=web-2&theme=dracula&hide_border=true" alt="Ambururu-Website" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x100?text=Ambururu'"/>
@@ -164,22 +154,21 @@ Custom solutions to elevate your business:
 > "The Ambururu dashboards drove growth beyond our expectations." – *Justice Anthony Ombwayo, Ambururu Waterfall Resort Owner* 
 
 ---
-
 ## 🧠 Neural Networks Demystified
 
-Neural networks power AI by mimicking the brain to uncover patterns. Here’s the breakdown:
+Neural networks power AI by mimicking the brain to uncover patterns with unparalleled precision. Here’s the breakdown:
 
-- **Input Layer**: Accepts raw data (e.g., text, images).
-- **Hidden Layers**: Process data with weights, biases, and activations (e.g., ReLU).
-- **Output Layer**: Delivers predictions (e.g., sentiment, classifications).
+- **Input Layer**: Accepts raw data (e.g., text, images, sensor streams) for real-time processing.
+- **Hidden Layers**: Leverage advanced weights, biases, and activation functions (e.g., ReLU, LSTM) for deep learning.
+- **Output Layer**: Delivers high-accuracy predictions (e.g., sentiment, classifications, demand forecasting).
 
-<div style="border: 2px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 15px rgba(255, 111, 97, 0.6); margin: 20px 0;">
+<div style="border: 2px solid transparent; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 255, 255, 0.7); margin: 20px 0; transition: all 0.3s ease;">
   <p align="center">
     <a href="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_animation.gif">
-      <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_animation.gif" alt="Neural Network Animation" width="100%" style="max-width: 650px; border-radius: 10px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_diagram.png'"/>
+      <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_animation.gif" alt="Neural Network Animation" width="100%" style="max-width: 650px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 191, 255, 0.5); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 20px rgba(0, 191, 255, 0.7)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 16px rgba(0, 191, 255, 0.5)';" onerror="this.src='https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_diagram.png'"/>
     </a>
   </p>
-  <p align="center" style="font-size: 16px; color: #FF6F61;">Watch a neural network learn in action! 🧠</p>
+  <p align="center" style="font-size: 18px; color: #00FFFF; font-weight: 600; text-shadow: 0 0 5px #00FFFF;">Witness a neural network evolve in real-time! 🚀</p>
 </div>
 
 **Why It Matters**: My expertise in neural networks delivers precise predictions, from sentiment analysis to demand forecasting.
@@ -247,41 +236,51 @@ Launched June 3, 2025—currently **Day 5** of a 120-day plan to master advanced
 
 ---
 
-## 💻 Code Snippet Spotlight
-
-Here’s a robust, real-world example of my ML skills—a **Customer Churn Prediction Model** using XGBoost, complete with data handling and evaluation:
 
 <div style="border: 2px solid transparent; border-radius: 12px; padding: 15px; background: linear-gradient(135deg, #1A2639, #2E3B55); background-clip: padding-box; box-shadow: 0 0 15px rgba(255, 111, 97, 0.6); margin: 20px 0;">
-
 ## 💼 Hire Me
 
-<div align="center" style="border: 2px solid transparent; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #0A0F1D, #1E2746); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 191, 255, 0.6), inset 0 0 10px rgba(0, 191, 255, 0.3); margin: 20px 0; position: relative; overflow: hidden;">
-  <p align="center" style="font-size: 22px; font-weight: bold; color: #00BFFF; text-shadow: 0 0 10px #00BFFF, 0 0 20px #00BFFF; margin-bottom: 15px;">
-    🚀 Ready to Transform Your Business with AI & Data?
+<div align="center" style="border: 2px solid transparent; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #0A0F1D, #1E2746); background-clip: padding-box; box-shadow: 0 0 20px rgba(0, 255, 255, 0.8), inset 0 0 15px rgba(0, 255, 255, 0.4); margin: 20px 0; position: relative; overflow: hidden; animation: pulseGlow 3s infinite alternate;">
+  <style>
+    @keyframes pulseGlow {
+      0% { box-shadow: 0 0 20px rgba(0, 255, 255, 0.8), inset 0 0 15px rgba(0, 255, 255, 0.4); }
+      100% { box-shadow: 0 0 30px rgba(0, 255, 255, 1), inset 0 0 20px rgba(0, 255, 255, 0.6); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+  </style>
+  <p align="center" style="font-size: 24px; font-weight: bold; color: #00FFFF; text-shadow: 0 0 15px #00FFFF, 0 0 25px #00FFFF; margin-bottom: 15px; animation: fadeIn 1s ease-in;">
+    🌌 Ready to Revolutionize Your Business with Next-Gen AI?
   </p>
-  <p align="center" style="font-size: 18px; color: #FF6F61; text-shadow: 0 0 5px #FF6F61; margin-bottom: 20px;">
-    I bring cutting-edge solutions to supercharge your success:
+  <p align="center" style="font-size: 18px; color: #FF69B4; text-shadow: 0 0 8px #FF69B4; margin-bottom: 20px; animation: fadeIn 1.5s ease-in;">
+    I deliver futuristic solutions to redefine your success:
   </p>
-  <ul style="list-style-type: none; padding: 0; text-align: center; color: #00BFFF; font-size: 16px; text-shadow: 0 0 3px #00BFFF;">
-    <li>🔮 Custom ML Models: Churn, Sales, Fraud Prediction</li>
-    <li>📊 Interactive Dashboards: Tableau & Streamlit Insights</li>
-    <li>⚙️ End-to-End Solutions: Pipelines to AI Apps</li>
-    <li>🧭 Consulting: Strategic Data Optimization</li>
+  <ul style="list-style-type: none; padding: 0; text-align: center; color: #00FFFF; font-size: 16px; text-shadow: 0 0 5px #00FFFF;">
+    <li>🧬 **Quantum-Inspired AI Models**: Real-time optimization, anomaly detection</li>
+    <li>🌐 **Dynamic Dashboards**: AI-powered 3D visuals with real-time streaming</li>
+    <li>🔋 **End-to-End Ecosystems**: Neural pipelines, edge AI deployment</li>
+    <li>💡 **Strategic Consulting**: Quantum data strategies, AI scalability</li>
   </ul>
   <p align="center">
-    <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/hire_me_glow.gif" alt="Hire Me Glow Effect" width="100%" style="max-width: 400px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 191, 255, 0.7); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x150?text=Hire+Me+Glow'"/>
+    <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/hire_me_glow.gif" alt="Hire Me Glow Effect" width="100%" style="max-width: 400px; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.9); transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)'" onerror="this.src='https://via.placeholder.com/400x150?text=Hire+Me+Glow'"/>
   </p>
   <p align="center" style="margin-top: 15px;">
-    <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-Now!-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=1E2746" alt="Email Me" height="45" style="box-shadow: 0 0 10px #FF5733; transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 20px #FF5733'" onmouseout="this.style.boxShadow='0 0 10px #FF5733'"/></a>
-    <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E2746" alt="LinkedIn" height="45" style="box-shadow: 0 0 10px #0A66C2; transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 20px #0A66C2'" onmouseout="this.style.boxShadow='0 0 10px #0A66C2'"/></a>
-    <a href="https://x.com/BruceWashika"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1E2746" alt="X" height="45" style="box-shadow: 0 0 10px #1DA1F2; transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 20px #1DA1F2'" onmouseout="this.style.boxShadow='0 0 10px #1DA1F2'"/></a>
+    <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-Now!-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=1E2746" alt="Email Me" height="45" style="box-shadow: 0 0 12px #FF5733; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 25px #FF5733';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 12px #FF5733'"/></a>
+    <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E2746" alt="LinkedIn" height="45" style="box-shadow: 0 0 12px #0A66C2; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 25px #0A66C2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 12px #0A66C2'"/></a>
+    <a href="https://x.com/BruceWashika"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1E2746" alt="X" height="45" style="box-shadow: 0 0 12px #1DA1F2; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 25px #1DA1F2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 12px #1DA1F2'"/></a>
   </p>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF¢er=true&vCenter=true&width=400&lines=Let%27s+Build+Your+AI+Future!;Transform+Data+into+Success!" alt="Typing Call to Action" onerror="this.src='https://via.placeholder.com/400x40?text=Call+to+Action'"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Let%27s+Forge+Your+AI+Empire!;Unleash+Data-Driven+Innovation!" alt="Typing Call to Action" style="animation: pulseText 2s infinite alternate;" onerror="this.src='https://via.placeholder.com/450x50?text=Call+to+Action'"/>
   </p>
+  <style>
+    @keyframes pulseText {
+      0% { text-shadow: 0 0 5px #00FFFF; }
+      100% { text-shadow: 0 0 15px #00FFFF, 0 0 20px #00FFFF; }
+    }
+  </style>
 </div>
-
-
 ---
 
 ## 📊 Quick Stats

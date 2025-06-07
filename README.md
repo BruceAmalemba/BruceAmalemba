@@ -1,48 +1,22 @@
-<div align="center" style="background: radial-gradient(circle, #1F2A44 0%, #3B4A6B 50%, #5A6B8A 100%); padding: 30px; border-radius: 20px; border: 3px solid #FF6F61; box-shadow: 0 0 30px rgba(255, 111, 97, 0.7), inset 0 0 20px rgba(255, 111, 97, 0.4); position: relative; overflow: hidden; animation: cosmicPulse 5s infinite alternate;">
+<div align="center" style="background: radial-gradient(circle, #1F2A44 0%, #3B4A6B 50%, #5A6B8A 100%); padding: 30px; border-radius: 20px; border: 3px solid #FF6F61; box-shadow: 0 0 30px rgba(255, 111, 97, 0.7), inset 0 0 20px rgba(255, 111, 97, 0.4); position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://www.transparenttextures.com/patterns/stardust.png'); opacity: 0.1; z-index: 0;"></div>
   <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/banner_animated.gif" alt="Bruce Amalemba - Cosmic Data Alchemist" width="100%" style="max-width: 900px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6); position: relative; z-index: 1; transition: all 0.5s ease;" onmouseover="this.style.transform='scale(1.05) rotate(2deg)'; this.style.boxShadow='0 15px 35px rgba(255, 111, 97, 0.9)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='0 10px 25px rgba(0, 0, 0, 0.6)'" onerror="this.src='https://via.placeholder.com/900x250?text=Bruce+Amalemba+-+Cosmic+Data+Alchemist'">
-  <h1 style="font-size: 36px; font-family: 'Orbitron', sans-serif; color: #FF6F61; text-shadow: 0 0 15px #FF6F61, 0 0 25px #FF6F61; margin-top: 15px; position: relative; z-index: 1; animation: starGlow 3s infinite alternate;">🌌 Bruce Amalemba - Cosmic Data Alchemist 🌠</h1>
+  <h1 style="font-size: 36px; font-family: 'Orbitron', sans-serif; color: #FF6F61; text-shadow: 0 0 15px #FF6F61, 0 0 25px #FF6F61; margin-top: 15px; position: relative; z-index: 1;">🌌 Bruce Amalemba - Cosmic Data Alchemist 🌠</h1>
   <p style="font-size: 18px; color: #A3BFFA; text-shadow: 0 0 10px #A3BFFA; margin-top: 10px; position: relative; z-index: 1;">Transforming raw data into interstellar insights with AI mastery.</p>
 </div>
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
-  @keyframes cosmicPulse {
-    from { box-shadow: 0 0 30px rgba(255, 111, 97, 0.7); }
-    to { box-shadow: 0 0 50px rgba(255, 111, 97, 1.0); }
-  }
-  @keyframes starGlow {
-    from { text-shadow: 0 0 15px #FF6F61, 0 0 25px #FF6F61; }
-    to { text-shadow: 0 0 25px #FF6F61, 0 0 35px #FF6F61; }
-  }
-</style>
-
-<div align="center" style="margin: 20px 0; display: flex; justify-content: center; gap: 20px; animation: orbitSpin 6s infinite linear;">
+<div align="center" style="margin: 20px 0; display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" style="transition: transform 0.4s ease; filter: drop-shadow(0 0 10px #0077B5);" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
   <a href="https://x.com/BruceWashika" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="50" style="transition: transform 0.4s ease; filter: drop-shadow(0 0 10px #1DA1F2);" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
   <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="50" style="transition: transform 0.4s ease; filter: drop-shadow(0 0 10px #000000);" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
   <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="50" style="transition: transform 0.4s ease; filter: drop-shadow(0 0 10px #D14836);" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
 </div>
 
-<style>
-  @keyframes orbitSpin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-</style>
-
-<div align="center" style="margin-bottom: 20px; display: flex; justify-content: center; gap: 15px; animation: pulseStats 2s infinite alternate;">
+<div align="center" style="margin-bottom: 20px; display: flex; justify-content: center; gap: 15px;">
   <img src="https://img.shields.io/github/followers/BruceAmalemba?label=Followers&style=for-the-badge&color=FF6F61" alt="Followers" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Followers'"/>
   <img src="https://img.shields.io/github/stars/BruceAmalemba?label=Stars&style=for-the-badge&color=FF6F61" alt="Stars" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Stars'"/>
   <img src="https://komarev.com/ghpvc/?username=BruceAmalemba&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Profile+Views'"/>
 </div>
-
-<style>
-  @keyframes pulseStats {
-    from { transform: scale(1); }
-    to { transform: scale(1.05); }
-  }
-</style>
 
 📑 Table of Contents  
 - [What I Bring](#-what-i-bring)  
@@ -79,8 +53,8 @@ Tailored solutions to supercharge your business:
 - AI-Powered Web Apps: Smart tools for engagement and analytics.  
 - Consulting: Expert guidance to optimize your data strategy.  
 
-<div align="center" style="border: 2px solid #FF6F61; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(255, 111, 97, 0.5), inset 0 0 15px rgba(255, 111, 97, 0.3);">
-  <p><b>Ready to unleash your data’s power? Let’s connect!</b></p>
+<div style="border: 2px solid #FF6F61; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(255, 111, 97, 0.5), inset 0 0 15px rgba(255, 111, 97, 0.3); text-align: center;">
+  <p style="font-weight: bold;">Ready to unleash your data’s power? Let’s connect!</p>
   <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Get%20Started-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Get Started" height="40" onerror="this.src='https://via.placeholder.com/150x40?text=Get+Started'"/></a>
 </div>
 
@@ -115,7 +89,7 @@ Tailored solutions to supercharge your business:
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6F61&center=true&vCenter=true&width=440&lines=Data+Science+Master;Machine+Learning+Guru;Visualization+Expert;Optimization+Pro" alt="Skills Typing SVG" onerror="this.src='https://via.placeholder.com/440x50?text=Skills'"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6F61¢er=true&vCenter=true&width=440&lines=Data+Science+Master;Machine+Learning+Guru;Visualization+Expert;Optimization+Pro" alt="Skills Typing SVG" onerror="this.src='https://via.placeholder.com/440x50?text=Skills'"/>
 </div>
 
 🚀 Featured Projects  
@@ -173,13 +147,11 @@ Neural networks power AI by mimicking the brain to uncover patterns. Here’s th
 - Hidden Layers: Process data with weights, biases, and activations (e.g., ReLU).  
 - Output Layer: Outputs predictions (e.g., sentiment, classifications).  
 
-<div style="border: 2px solid #FF6F61; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(255, 111, 97, 0.5), inset 0 0 15px rgba(255, 111, 97, 0.3);">
-  <p align="center">
-    <a href="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_animation.gif">
-      <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_animation.gif" alt="Neural Network Animation" width="100%" style="max-width: 600px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/600x300?text=Neural+Network'"/>
-    </a>
-  </p>
-  <p align="center">See a neural network learn in action! 🧠</p>
+<div style="border: 2px solid #FF6F61; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(255, 111, 97, 0.5), inset 0 0 15px rgba(255, 111, 97, 0.3); text-align: center;">
+  <a href="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_animation.gif">
+    <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/neural_animation.gif" alt="Neural Network Animation" width="100%" style="max-width: 600px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/600x300?text=Neural+Network'"/>
+  </a>
+  <p>See a neural network learn in action! 🧠</p>
 </div>
 
 Why It Matters: My neural network expertise drives precise predictions for clients, from sentiment analysis to demand forecasting.  
@@ -206,7 +178,7 @@ Started in 2022, I’m on a mission to master AI by 2027. Here’s my path:
     </tr>
     <tr>
       <td>2025</td>
-      <td>Launched Ambururu Website & Sentiment Tool 🌐 (as of 11:15 PM EAT, June 07, 2025)</td>
+      <td>Launched Ambururu Website & Sentiment Tool 🌐 (as of 11:32 PM EAT, June 07, 2025)</td>
     </tr>
     <tr>
       <td>2026</td>
@@ -219,25 +191,22 @@ Started in 2022, I’m on a mission to master AI by 2027. Here’s my path:
 </div>
 
 🗺️ Data Science Roadmap  
-Kicked off June 3, 2025—currently Day 5 of a 120-day plan to conquer advanced AI by 2027 (11:15 PM EAT, June 07, 2025).  
-<div style="border: 2px solid #264653; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(38, 70, 83, 0.5), inset 0 0 15px rgba(38, 70, 83, 0.3);">
-  <p align="center">
-    <a href="https://brucesportfolio.vercel.app/roadmap">
-      <img src="https://progress-bar.dev/4/?title=Roadmap%20Progress%20-%204%25%20Complete&color=FF6F61" alt="Roadmap Progress" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/300x20?text=4%25+Complete'"/>
-    </a>
+Kicked off June 3, 2025—currently Day 5 of a 120-day plan to conquer advanced AI by 2027 (11:32 PM EAT, June 07, 2025).  
+<div style="border: 2px solid #264653; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(38, 70, 83, 0.5), inset 0 0 15px rgba(38, 70, 83, 0.3); text-align: center;">
+  <a href="https://brucesportfolio.vercel.app/roadmap">
+    <img src="https://progress-bar.dev/4/?title=Roadmap%20Progress%20-%204%25%20Complete&color=FF6F61" alt="Roadmap Progress" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/300x20?text=4%25+Complete'"/>
+  </a>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=FF6F61¢er=true&vCenter=true&width=440&lines=Phase+1:+Python+Advanced;Today:+Lists+and+Dictionaries;Next:+Pandas+Data+Analysis" alt="Current Phase" onerror="this.src='https://via.placeholder.com/440x50?text=Roadmap+Phase'"/>
   </p>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=FF6F61&center=true&vCenter=true&width=440&lines=Phase+1:+Python+Advanced;Today:+Lists+and+Dictionaries;Next:+Pandas+Data+Analysis" alt="Current Phase" onerror="this.src='https://via.placeholder.com/440x50?text=Roadmap+Phase'"/>
-  </p>
-  <p align="center">
-    <span style="font-size: 14px;">
-      🟢 Start (June 3) ➡️ 🟡 Day 5 (June 7) ➡️ ⚡ Day 120 (End)
-    </span>
+  <p style="font-size: 14px;">
+    🟢 Start (June 3) ➡️ 🟡 Day 5 (June 7) ➡️ ⚡ Day 120 (End)
   </p>
 </div>
 
 Today’s Focus: Python lists and dictionaries for data manipulation.  
 Resource: [W3Schools Python Lists](https://www.w3schools.com/python/python_lists.asp).  
+
 ---
 
 ## 💼 Hire Me  
@@ -247,8 +216,8 @@ Ready to **revolutionize your business** with AI and data? I offer:
 - **End-to-End Solutions**: From pipelines to deployed AI apps.  
 - **Consulting**: Maximize your data strategy with expert advice.  
 
-<div align="center" style="border: 2px solid #FF6F61; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(255, 111, 97, 0.5), inset 0 0 15px rgba(255, 111, 97, 0.3);">
-  <p><b>Let’s bring your vision to life!</b></p>
+<div style="border: 2px solid #FF6F61; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(255, 111, 97, 0.5), inset 0 0 15px rgba(255, 111, 97, 0.3); text-align: center;">
+  <p style="font-weight: bold;">Let’s bring your vision to life!</p>
   <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" height="40" onerror="this.src='https://via.placeholder.com/150x40?text=Email+Me'"/></a>
   <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" onerror="this.src='https://via.placeholder.com/150x40?text=LinkedIn'"/></a>
   <a href="https://x.com/BruceWashika"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" height="40" onerror="this.src='https://via.placeholder.com/150x40?text=X'"/></a>
@@ -257,23 +226,16 @@ Ready to **revolutionize your business** with AI and data? I offer:
 ---
 
 ## 📊 Quick Stats  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0; animation: galaxySpin 3s infinite linear;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=BruceAmalemba&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" style="max-width: 450px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);" onerror="this.src='https://via.placeholder.com/450x225?text=GitHub+Stats'"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAmalemba&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="max-width: 450px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);" onerror="this.src='https://via.placeholder.com/450x225?text=Top+Languages'"/>
 </div>
 
-<style>
-  @keyframes galaxySpin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-</style>
-
 ---
 
 ## 🏅 Certifications  
-<div style="border: 2px solid #2A9D8F; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(42, 157, 143, 0.5), inset 0 0 15px rgba(42, 157, 143, 0.3);">
-  <p align="center">
+<div style="border: 2px solid #2A9D8F; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(42, 157, 143, 0.5), inset 0 0 15px rgba(42, 157, 143, 0.3); text-align: center;">
+  <p>
     <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics" height="35" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 15px rgba(66, 133, 244, 0.7)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/180x35?text=Google+Analytics'"/>
     <img src="https://img.shields.io/badge/TensorFlow%20Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Developer" height="35" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 15px rgba(255, 111, 0, 0.7)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/180x35?text=TensorFlow'"/>
     <img src="https://img.shields.io/badge/Tableau%20Desktop%20Specialist-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Desktop Specialist" height="35" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 15px rgba(233, 118, 39, 0.7)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/180x35?text=Tableau'"/>
@@ -288,11 +250,11 @@ I love giving back to the community. Here are some contributions (update with yo
 - **Streamlit**: Added a custom viz component ([PR #TBD](https://github.com/streamlit/streamlit)).  
 - **Pandas**: Fixed a merge bug ([PR #TBD](https://github.com/pandas-dev/pandas)).  
 
-<div style="border: 2px solid #F4A261; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(244, 162, 97, 0.5), inset 0 0 15px rgba(244, 162, 97, 0.3);">
-  <p align="center">
+<div style="border: 2px solid #F4A261; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(244, 162, 97, 0.5), inset 0 0 15px rgba(244, 162, 97, 0.3); text-align: center;">
+  <p>
     <img src="https://img.shields.io/badge/Open%20Source-Contributor-00A1D6?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" height="35" style="transition: box-shadow 0.3s;" onmouseover="this.style.boxShadow='0 0 15px rgba(0, 161, 214, 0.7)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/180x35?text=Open+Source'"/>
   </p>
-  <p align="center">Want to team up on open-source? Hit me up!</p>
+  <p>Want to team up on open-source? Hit me up!</p>
 </div>
 
 ---
@@ -314,12 +276,10 @@ Real results from my work:
   - **Tech**: Python, SQL, Tableau  
   - [Read More](https://brucesportfolio.vercel.app/case-studies/ambururu)  
 
-<div style="border: 2px solid #264653; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(38, 70, 83, 0.5), inset 0 0 15px rgba(38, 70, 83, 0.3);">
-  <p align="center">
-    <a href="https://brucesportfolio.vercel.app/case-studies">
-      <img src="https://img.shields.io/badge/View%20All%20Case%20Studies-FF6F61?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="View Case Studies" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Case+Studies'"/>
-    </a>
-  </p>
+<div style="border: 2px solid #264653; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(38, 70, 83, 0.5), inset 0 0 15px rgba(38, 70, 83, 0.3); text-align: center;">
+  <a href="https://brucesportfolio.vercel.app/case-studies">
+    <img src="https://img.shields.io/badge/View%20All%20Case%20Studies-FF6F61?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="View Case Studies" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Case+Studies'"/>
+  </a>
 </div>
 
 ---
@@ -330,11 +290,9 @@ Sharing knowledge to inspire:
 - **Talk**: ["Data Viz for Impact"](https://youtu.be/example) – Data Science Kenya 2025.  
 - **Blog**: ["AI with Streamlit"](https://brucesportfolio.vercel.app/blog/streamlit) – Build interactive apps.  
 
-<div style="border: 2px solid #2A9D8F; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(42, 157, 143, 0.5), inset 0 0 15px rgba(42, 157, 143, 0.3);">
-  <p align="center">
-    <a href="https://brucesportfolio.vercel.app/blog"><img src="https://img.shields.io/badge/Read%20My%20Blog-FF5733?style=for-the-badge&logo=blogger&logoColor=white" alt="Read Blog" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Blog'"/></a>
-    <a href="https://www.youtube.com/@BruceAmalemba"><img src="https://img.shields.io/badge/Watch%20Talks-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Talks" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Talks'"/></a>
-  </p>
+<div style="border: 2px solid #2A9D8F; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(42, 157, 143, 0.5), inset 0 0 15px rgba(42, 157, 143, 0.3); text-align: center;">
+  <a href="https://brucesportfolio.vercel.app/blog"><img src="https://img.shields.io/badge/Read%20My%20Blog-FF5733?style=for-the-badge&logo=blogger&logoColor=white" alt="Read Blog" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Blog'"/></a>
+  <a href="https://www.youtube.com/@BruceAmalemba"><img src="https://img.shields.io/badge/Watch%20Talks-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Talks" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Talks'"/></a>
 </div>
 
 ---
@@ -351,67 +309,22 @@ My skills are always leveling up:
 ---
 
 ## 🎉 Fun Data Science Fact  
-<div style="border: 2px solid #264653; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(38, 70, 83, 0.6), inset 0 0 20px rgba(38, 70, 83, 0.3); position: relative; overflow: hidden; animation: nebulaFlow 6s infinite alternate;">
+<div style="border: 2px solid #264653; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(38, 70, 83, 0.6), inset 0 0 20px rgba(38, 70, 83, 0.3); position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://www.transparenttextures.com/patterns/stardust.png'); opacity: 0.1; z-index: 0;"></div>
-  <h2 style="font-size: 24px; color: #FF6F61; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 15px #FF6F61; margin-bottom: 15px; cursor: pointer;" onclick="openFactModal()">🌠 Discover a Cosmic Data Feat! Click Me! ✨</h2>
+  <h2 style="font-size: 24px; color: #FF6F61; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 15px #FF6F61; margin-bottom: 15px;">🌠 Ambururu AI Music Breakthrough!</h2>
   <p style="font-size: 16px; color: #A3BFFA; text-shadow: 0 0 8px #A3BFFA; margin-bottom: 15px; line-height: 1.6;">On June 5, 2025, my TensorFlow model composed a hit track for Ambururu Resort, blending AI-generated melodies with real-time data trends. It racked up <b>120,000 streams</b> in 48 hours, boosting engagement by <b>45%</b>!</p>
   <div style="position: relative; text-align: center;">
     <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/ai_music_visual.gif" alt="AI Music Visualization" width="100%" style="max-width: 450px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4); transition: transform 0.4s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/450x225?text=AI+Music+Demo'">
-    <button style="margin-top: 10px; padding: 10px 20px; background: #FF6F61; color: #FFFFFF; border: none; border-radius: 8px; cursor: pointer; font-size: 16px; font-family: 'Orbitron', sans-serif; transition: all 0.4s ease; box-shadow: 0 0 10px #FF6F61;" onmouseover="this.style.transform='scale(1.1) rotate(5deg)'; this.style.boxShadow='0 0 15px #FF6F61'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='0 0 10px #FF6F61'" onclick="playAudioSample()">🎵 Hear the AI Track!</button>
+    <p style="margin-top: 10px; font-size: 14px; color: #FF6F61;">Audio sample not available here. Check out the <a href="https://brucesportfolio.vercel.app/ai-music-demo" target="_blank">live demo</a> for the track!</p>
   </div>
 </div>
-
-<!-- Modal for Interactive Fact -->
-<div id="factModal" style="display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.8);">
-  <div style="background: #1F2A44; margin: 5% auto; padding: 20px; border: 2px solid #FF6F61; border-radius: 15px; width: 70%; max-width: 600px; color: #A3BFFA; text-align: center; animation: fadeIn 0.5s;">
-    <h2 style="color: #FF6F61; text-shadow: 0 0 15px #FF6F61;">🌌 Ambururu AI Music Breakthrough!</h2>
-    <p>Created on June 5, 2025, this TensorFlow-powered track analyzed 50,000+ customer preferences to craft a melody that resonated globally. Streamed 120,000 times in 48 hours, it’s a testament to AI’s creative potential!</p>
-    <p><b>Tech Used:</b> TensorFlow, Python, Audio Signal Processing</p>
-    <button style="padding: 10px 20px; background: #FF6F61; color: #FFFFFF; border: none; border-radius: 8px; cursor: pointer; margin-top: 15px; transition: all 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onclick="closeFactModal()">Close 🌠</button>
-  </div>
-</div>
-
-<!-- Audio Sample (Placeholder) -->
-<audio id="audioSample" src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/ai_music_sample.mp3" style="display: none;"></audio>
-
-<style>
-  @keyframes nebulaFlow {
-    from { box-shadow: 0 0 25px rgba(38, 70, 83, 0.6); }
-    to { box-shadow: 0 0 35px rgba(38, 70, 83, 0.9); }
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  #factModal { display: none; }
-</style>
-
-<script>
-  function openFactModal() {
-    document.getElementById('factModal').style.display = 'block';
-  }
-  function closeFactModal() {
-    document.getElementById('factModal').style.display = 'none';
-  }
-  function playAudioSample() {
-    const audio = document.getElementById('audioSample');
-    audio.play().catch(error => alert('Audio sample not available. Check back later! 🎵'));
-  }
-  // Close modal if clicked outside
-  window.onclick = function(event) {
-    const modal = document.getElementById('factModal');
-    if (event.target == modal) {
-      modal.style.display = 'none';
-    }
-  }
-</script>
 
 ---
 
 ## 📝 Final Transmission  
-<div align="center" style="border: 2px solid #FF6F61; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(255, 111, 97, 0.5), inset 0 0 15px rgba(255, 111, 97, 0.3); margin: 20px 0; animation: finalGlow 3s infinite alternate;">
+<div style="border: 2px solid #FF6F61; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(255, 111, 97, 0.5), inset 0 0 15px rgba(255, 111, 97, 0.3); margin: 20px 0;">
   <h2 style="font-size: 24px; color: #FF6F61; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 15px #FF6F61; margin-bottom: 10px;">🌠 Thanks for Visiting My Nebula!</h2>
-  <p style="font-size: 16px; color: #A3BFFA; text-shadow: 0 0 8px #A3BFFA; margin-bottom: 15px; line-height: 1.6;">As of 11:22 PM EAT, June 07, 2025, I’m orbiting the data cosmos, ready to launch your next big mission. Let’s connect and conquer the universe together!</p>
+  <p style="font-size: 16px; color: #A3BFFA; text-shadow: 0 0 8px #A3BFFA; margin-bottom: 15px; line-height: 1.6;">As of 11:32 PM EAT, June 07, 2025, I’m orbiting the data cosmos, ready to launch your next big mission. Let’s connect and conquer the universe together!</p>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Launch%20Email-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me" height="40" onerror="this.src='https://via.placeholder.com/150x40?text=Email+Me'"/></a>
     <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" onerror="this.src='https://via.placeholder.com/150x40?text=LinkedIn'"/></a>
@@ -420,10 +333,3 @@ My skills are always leveling up:
   </div>
   <p style="margin-top: 15px; font-size: 14px; color: #FF6F61; text-shadow: 0 0 8px #FF6F61;">May your data journey be as epic as the stars! ✨</p>
 </div>
-
-<style>
-  @keyframes finalGlow {
-    from { box-shadow: 0 0 20px rgba(255, 111, 97, 0.5); }
-    to { box-shadow: 0 0 30px rgba(255, 111, 97, 0.8); }
-  }
-</style>

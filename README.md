@@ -95,7 +95,7 @@ Tailored solutions to supercharge your business:
 - **Description**: A collection of ML models (SVM, Random Forests, K-Means) for predictive analytics, built with Scikit-learn and TensorFlow.  
 - **Impact**: Achieved 90% churn prediction accuracy, saving clients $500K+ in 2025.  
 - **Tech**: Python, Scikit-learn, TensorFlow, Seaborn, Matplotlib  
-- **Links**: [GitHub](https://github.com/BruceAmalemba/Machine-Learning-Models) | [Demo](https://brucesportfolio.vercel.app/ml-demo)  
+- **Links**: [GitHub](https://github.com/BruceAmalemba/Machine-Learning-Models) | [Demo](https://brucesportfolio.vercel.app/)  
 <div align="center">
   <img src="https://github.com/BruceAmalemba/BruceAmalemba/raw/main/assets/ml_project.gif" alt="ML Models Visualization" width="100%" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x200?text=ML+Demo'"/>
 </div>
@@ -191,7 +191,7 @@ Started in 2022, I’m on a mission to master AI by 2027. Here’s my path:
 🗺️ Data Science Roadmap  
 Kicked off June 3, 2025—currently Day 5 of a 120-day plan to conquer advanced AI by 2027 (11:32 PM EAT, June 07, 2025).  
 <div style="border: 2px solid #264653; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(38, 70, 83, 0.5), inset 0 0 15px rgba(38, 70, 83, 0.3); text-align: center;">
-  <a href="https://brucesportfolio.vercel.app/roadmap">
+  <a href="https://brucesportfolio.vercel.app/">
     <img src="https://progress-bar.dev/4/?title=Roadmap%20Progress%20-%204%25%20Complete&color=FF6F61" alt="Roadmap Progress" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/300x20?text=4%25+Complete'"/>
   </a>
   <p>

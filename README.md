@@ -13,8 +13,6 @@
 </div>
 
 <div align="center" style="margin-bottom: 20px; display: flex; justify-content: center; gap: 15px;">
-  <img src="https://img.shields.io/github/followers/BruceAmalemba?label=Followers&style=for-the-badge&color=FF6F61" alt="Followers" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Followers'"/>
-  <img src="https://img.shields.io/github/stars/BruceAmalemba?label=Stars&style=for-the-badge&color=FF6F61" alt="Stars" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Stars'"/>
   <img src="https://komarev.com/ghpvc/?username=BruceAmalemba&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="35" onerror="this.src='https://via.placeholder.com/180x35?text=Profile+Views'"/>
 </div>
 

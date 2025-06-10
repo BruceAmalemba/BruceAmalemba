@@ -114,7 +114,7 @@ Tailored solutions to supercharge your business:
 - **Description**: A real-time text analysis tool for social media and feedback, built with NLTK and Streamlit.  
 - **Impact**: Analyzed 10,000+ texts with 85% accuracy, boosting client engagement in 2025.  
 - **Tech**: Python, NLTK, Streamlit, Pandas  
-- **Links**: [GitHub](https://github.com/BruceAmalemba/) | [Live Demo](https://brucesportfolio.vercel.app/)  
+- **Links**: [GitHub](https://github.com/BruceAmalemba) | [Live Demo](https://brucesportfolio.vercel.app/)  
 <div align="center">
   <img src="assets/sentiment.gif" alt="Sentiment Analysis Demo" width="100%" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x200?text=Sentiment+Demo'"/>
 </div>
@@ -122,7 +122,7 @@ Tailored solutions to supercharge your business:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 15px;">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Machine-Learning-Models&theme=dracula&hide_border=true" alt="Machine-Learning-Models" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x100?text=ML+Models'"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Official-Ambururu-Website&theme=dracula&hide_border=true" alt="Official-Ambururu-Website" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x100?text=Ambururu'"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Sentiment-Analysis-Demo&theme=dracula&hide_border=true" alt="Sentiment-Analysis-Demo" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x100?text=Sentiment'"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Ambururu-Waterfall-Resort&theme=dracula&hide_border=true" alt="Ambururu-Waterfall-Resort" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x100?text=Sentiment'"/>
 </div>
 
 🏆 **Client Success Stories**  

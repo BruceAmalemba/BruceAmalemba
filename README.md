@@ -101,11 +101,11 @@ Tailored solutions to supercharge your business:
   <img src="assets/ml_project.gif" alt="ML Models Visualization" width="100%" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x200?text=ML+Demo'"/>
 </div>
 
-### Ambururu Waterfall Resort Website  
+### Official Ambururu Resort Website  
 - **Description**: A web app with Tableau dashboards for customer analytics, booking trends, and revenue forecasting for a resort in Siaya, Kenya.  
 - **Impact**: Attracted 10K+ visitors and generated $1M+ in revenue in 2025.  
 - **Tech**: Python, SQL, Tableau, Streamlit  
-- **Links**: [GitHub](https://github.com/BruceAmalemba/web-2) | [Live Site](https://ambururu.vercel.app)  
+- **Links**: [GitHub](https://github.com/BruceAmalemba/Official-Ambururu-Website) | [Live Site](https://bruceamalemba.github.io/Official-Ambururu-Website/)  
 <div align="center">
   <img src="assets/ambururu.gif" alt="Ambururu Dashboard" width="100%" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x200?text=Ambururu+Demo'"/>
 </div>
@@ -114,14 +114,14 @@ Tailored solutions to supercharge your business:
 - **Description**: A real-time text analysis tool for social media and feedback, built with NLTK and Streamlit.  
 - **Impact**: Analyzed 10,000+ texts with 85% accuracy, boosting client engagement in 2025.  
 - **Tech**: Python, NLTK, Streamlit, Pandas  
-- **Links**: [GitHub](https://github.com/BruceAmalemba/Sentiment-Analysis-Demo) | [Live Demo](https://brucesportfolio.vercel.app/sentiment-demo)  
+- **Links**: [GitHub](https://github.com/BruceAmalemba/) | [Live Demo](https://brucesportfolio.vercel.app/)  
 <div align="center">
   <img src="assets/sentiment.gif" alt="Sentiment Analysis Demo" width="100%" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x200?text=Sentiment+Demo'"/>
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 15px;">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Machine-Learning-Models&theme=dracula&hide_border=true" alt="Machine-Learning-Models" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x100?text=ML+Models'"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=web-2&theme=dracula&hide_border=true" alt="Ambururu-Website" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x100?text=Ambururu'"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Official-Ambururu-Website&theme=dracula&hide_border=true" alt="Official-Ambururu-Website" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x100?text=Ambururu'"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Sentiment-Analysis-Demo&theme=dracula&hide_border=true" alt="Sentiment-Analysis-Demo" style="max-width: 400px;" onerror="this.src='https://via.placeholder.com/400x100?text=Sentiment'"/>
 </div>
 

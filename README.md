@@ -92,7 +92,7 @@ Tailored solutions to supercharge your business:
 </div>
 
 🚀 **Featured Projects**  
-### Machine Learning Models  
+### Machine-Learning-Models
 - **Description**: A collection of ML models (SVM, Random Forests, K-Means) for predictive analytics, built with Scikit-learn and TensorFlow.  
 - **Impact**: Achieved 90% churn prediction accuracy, saving clients $500K+ in 2025.  
 - **Tech**: Python, Scikit-learn, TensorFlow, Seaborn, Matplotlib  

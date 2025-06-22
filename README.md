@@ -2,7 +2,7 @@
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://www.transparenttextures.com/patterns/stardust.png'); opacity: 0.1; z-index: 0;"></div>
   <img src="assets/banner_animated.gif" alt="Bruce Amalemba -  Data Alchemist" width="100%" style="max-width: 900px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6); position: relative; z-index: 1; transition: all 0.5s ease;" onmouseover="this.style.transform='scale(1.05) rotate(2deg)'; this.style.boxShadow='0 15px 35px rgba(255, 111, 97, 0.9)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='0 10px 25px rgba(0, 0, 0, 0.6)'" onerror="this.src='https://via.placeholder.com/900x250?text=Bruce+Amalemba+-+Cosmic+Data+Alchemist'">
   <h1 style="font-size: 36px; font-family: 'Orbitron', sans-serif; color: #FF6F61; text-shadow: 0 0 15px #FF6F61, 0 0 25px #FF6F61; margin-top: 15px; position: relative; z-index: 1;">🌌 Bruce Amalemba -  Data Alchemist 🌠</h1>
-  <p style="font-size: 18px; color: #A3BFFA; text-shadow: 0 0 10px #A3BFFA; margin-top: 10px; position: relative; z-index: 1;">Transforming raw data into interstellar insights with AI mastery.</p>
+  <p style="font-size: 18px; color: #A3BFFA; text-shadow: 0 0 10px #A3BFFA; margin-top: 10px; position: relative; z-index: 1;">Transforming raw data into interstellar insights .</p>
 </div>
 
 <div align="center" style="margin: 20px 0; display: flex; justify-content: center; gap: 20px;">
@@ -137,7 +137,7 @@ Tailored solutions to supercharge your business:
   <p>✅ <b>E-Commerce Client</b>: Enhanced engagement with sentiment analysis, upping retention by 15%.</p>
 </div>
 
-> "Bruce’s ML models revolutionized our retention strategy, cutting costs dramatically." – Client Name, Tech Startup CEO  
+> "Bruce’s ML models revolutionized our retention strategy, cutting costs dramatically." – Brian Obware, Tech Startup CEO  
 > "The Ambururu dashboards fueled our growth beyond expectations." – Justice Anthony Ombwayo, Resort Manager  
 
 🧠 **Neural Networks Demystified**  

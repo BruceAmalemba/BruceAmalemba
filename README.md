@@ -132,13 +132,13 @@ Tailored solutions to supercharge your business:
     <img src="https://img.shields.io/badge/Ambururu%20Website-10K%2B%20Visitors-E97627?style=for-the-badge" alt="Website Visitors" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Visitors'"/>
     <img src="https://img.shields.io/badge/Revenue%20Impact-%241M%2B-00A1D6?style=for-the-badge" alt="Revenue Impact" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Revenue'"/>
   </p>
-  <p>✅ <b>Tech Startup</b>: Slashed churn by 30% with predictive ML, saving $500K yearly.</p>
-  <p>✅ <b>Ambururu Resort</b>: Boosted bookings by 25% with dashboards, hitting $1M+ revenue.</p>
+  <p>✅ <b>Tech Startup</b>: Slashed churn by 30% with predictive ML, saving 100K yearly.</p>
+  <p>✅ <b>Ambururu Resort</b>: Boosted bookings by 25% with dashboards, hitting 200k+ revenue.</p>
   <p>✅ <b>E-Commerce Client</b>: Enhanced engagement with sentiment analysis, upping retention by 15%.</p>
 </div>
 
 > "Bruce’s ML models revolutionized our retention strategy, cutting costs dramatically." – Client Name, Tech Startup CEO  
-> "The Ambururu dashboards fueled our growth beyond expectations." – Client Name, Resort Manager  
+> "The Ambururu dashboards fueled our growth beyond expectations." – Justice Anthony Ombwayo, Resort Manager  
 
 🧠 **Neural Networks Demystified**  
 Neural networks power AI by mimicking the brain to uncover patterns. Here’s the breakdown:  

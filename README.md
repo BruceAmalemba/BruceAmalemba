@@ -289,14 +289,25 @@ My skills are always leveling up:
   <p>SQL: <img src="https://progress-bar.dev/75/?title=75%25&color=4479A1" alt="SQL Progress" onerror="this.src='https://via.placeholder.com/300x20?text=SQL+75%25'"/></p>
 </div>
 
-## 🎉 Fun Data Science Fact  
-<div style="border: 2px solid #264653; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(38, 70, 83, 0.6), inset 0 0 20px rgba(38, 70, 83, 0.3); position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://www.transparenttextures.com/patterns/stardust.png'); opacity: 0.1; z-index: 0;"></div>
-  <h2 style="font-size: 24px; color: #FF6F61; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 15px #FF6F61; margin-bottom: 15px;">🌠 Ambururu AI Music Breakthrough!</h2>
-  <p style="font-size: 16px; color: #A3BFFA; text-shadow: 0 0 8px #A3BFFA; margin-bottom: 15px; line-height: 1.6;">On June 5, 2025, my TensorFlow model composed a hit track for Ambururu Resort, blending AI-generated melodies with real-time data trends. It racked up <b>120,000 streams</b> in 48 hours, boosting engagement by <b>45%</b>!</p>
-  <div style="position: relative; text-align: center;">
-    <img src="assets/ai_music_visual.gif" alt="AI Music Visualization" width="100%" style="max-width: 450px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4); transition: transform 0.4s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/450x225?text=AI+Music+Demo'">
-    <p style="margin-top: 10px; font-size: 14px; color: #FF6F61;">Audio sample not available here. Check out the <a href="https://brucesportfolio.vercel.app/ai-music-demo" target="_blank">live demo</a> for the track!</p>
+
+## 🎸 My Latest Data Science Win
+
+<div style="border: 1px solid #d1d5db; border-radius: 10px; padding: 20px; background: #f9fafb; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); margin: 25px 0; max-width: 650px; margin-left: auto; margin-right: auto; position: relative;">
+  <h2 style="font-size: 24px; color: #1f2937; font-family: 'Inter', 'Arial', sans-serif; font-weight: 700; text-align: center; margin-bottom: 12px;">Ambururu Resort’s AI-Powered Hit Track!</h2>
+  <p style="font-size: 16px; color: #4b5563; font-family: 'Inter', 'Arial', sans-serif; line-height: 1.6; text-align: center; margin-bottom: 20px;">
+    Hey there! On June 5, 2025, I built a TensorFlow model that composed a banger for Ambururu Resort, mixing AI-crafted melodies with real-time trend data. The result? <strong>120,000 streams</strong> in just 48 hours and a <strong>45% spike</strong> in engagement. This project’s open-source under MIT—dive in and remix it!
+  </p>
+  <div style="text-align: center;">
+    <img src="assets/ai_music_visual.gif" alt="AI Music Visualization" width="100%" style="max-width: 450px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/450x225?text=AI+Music+Demo'">
+    <p style="margin-top: 12px; font-size: 14px; color: #6b7280; font-family: 'Inter', 'Arial', sans-serif;">
+      Want to hear it? Check the <a href="https://brucesportfolio.vercel.app/ai-music-demo" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: 500;">live demo</a> or grab the code from my <a href="#license" style="color: #3b82f6; text-decoration: none; font-weight: 500;">MIT-licensed repo</a>!
+    </p>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
+    <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me" height="30" onerror="this.src='https://via.placeholder.com/100x30?text=Email+Me'"/></a>
+    <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" onerror="this.src='https://via.placeholder.com/100x30?text=LinkedIn'"/></a>
+    <a href="https://x.com/BruceWashika" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="30" onerror="this.src='https://via.placeholder.com/100x30?text=X'"/></a>
+    <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="30" onerror="this.src='https://via.placeholder.com/100x30?text=Portfolio'"/></a>
   </div>
 </div>
 
@@ -306,14 +317,20 @@ My skills are always leveling up:
 </div>
 
 ## 📝 Final Transmission  
-<div style="border: 2px solid #FF6F61; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(255, 111, 97, 0.5), inset 0 0 15px rgba(255, 111, 97, 0.3); margin: 20px 0;">
-  <h2 style="font-size: 24px; color: #FF6F61; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 15px #FF6F61; margin-bottom: 10px;">🌠 Thanks for Visiting My Nebula!</h2>
-  <p style="font-size: 16px; color: #A3BFFA; text-shadow: 0 0 8px #A3BFFA; margin-bottom: 15px; line-height: 1.6;">As of 11:48 AM EAT, June 10, 2025, I’m orbiting the data cosmos, ready to launch your next big mission. Let’s connect and conquer the universe together!</p>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Launch%20Email-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me" height="40" onerror="this.src='https://via.placeholder.com/150x40?text=Email+Me'"/></a>
-    <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" onerror="this.src='https://via.placeholder.com/150x40?text=LinkedIn'"/></a>
-    <a href="https://x.com/BruceWashika" target="_blank"><img src="https://img.shields.io/badge/Follow-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" height="40" onerror="this.src='https://via.placeholder.com/150x40?text=X'"/></a>
-    <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="40" onerror="this.src='https://via.placeholder.com/150x40?text=Portfolio'"/></a>
+## 📬 Let’s Build Something Great
+
+<div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; background: #ffffff; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); margin: 20px 0; max-width: 600px; margin-left: auto; margin-right: auto;">
+  <h2 style="font-size: 24px; color: #333; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: 600; text-align: center; margin-bottom: 12px;">Hey, thanks for stopping by!</h2>
+  <p style="font-size: 16px; color: #555; font-family: 'Helvetica', 'Arial', sans-serif; line-height: 1.6; text-align: center; margin-bottom: 20px;">
+    I’m Bruce Washika, a passionate developer crafting clean, impactful code as of June 29, 2025. Got a project in mind? Let’s team up to turn your ideas into reality.
+  </p>
+  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+    <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me" height="32" onerror="this.src='https://via.placeholder.com/100x32?text=Email+Me'"/></a>
+    <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" onerror="this.src='https://via.placeholder.com/100x32?text=LinkedIn'"/></a>
+    <a href="https://x.com/BruceWashika" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="32" onerror="this.src='https://via.placeholder.com/100x32?text=X'"/></a>
+    <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="32" onerror="this.src='https://via.placeholder.com/100x32?text=Portfolio'"/></a>
   </div>
-  <p style="margin-top: 15px; font-size: 14px; color: #FF6F61; text-shadow: 0 0 8px #FF6F61;">May your data journey be as epic as the stars! ✨</p>
+  <p style="margin-top: 20px; font-size: 14px; color: #888; font-family: 'Helvetica', 'Arial', sans-serif; text-align: center;">
+    Check out my work, licensed under MIT—open for collaboration! 🚀
+  </p>
 </div>

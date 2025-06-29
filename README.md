@@ -1,7 +1,7 @@
 <div align="center" style="background: radial-gradient(circle, #1F2A44 0%, #3B4A6B 50%, #5A6B8A 100%); padding: 30px; border-radius: 20px; border: 3px solid #FF6F61; box-shadow: 0 0 30px rgba(255, 111, 97, 0.7), inset 0 0 20px rgba(255, 111, 97, 0.4); position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://www.transparenttextures.com/patterns/stardust.png'); opacity: 0.1; z-index: 0;"></div>
-  <img src="assets/banner_animated.gif" alt="Bruce Amalemba -  Data Alchemist" width="100%" style="max-width: 900px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6); position: relative; z-index: 1; transition: all 0.5s ease;" onmouseover="this.style.transform='scale(1.05) rotate(2deg)'; this.style.boxShadow='0 15px 35px rgba(255, 111, 97, 0.9)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='0 10px 25px rgba(0, 0, 0, 0.6)'" onerror="this.src='https://via.placeholder.com/900x250?text=Bruce+Amalemba+-+Cosmic+Data+Alchemist'">
-  <h1 style="font-size: 36px; font-family: 'Orbitron', sans-serif; color: #FF6F61; text-shadow: 0 0 15px #FF6F61, 0 0 25px #FF6F61; margin-top: 15px; position: relative; z-index: 1;">🌌 Bruce Amalemba -  Data Alchemist 🌠</h1>
+  <img src="assets/banner_animated.gif" alt="Bruce Amalemba -  Data Alchemist" width="100%" style="max-width: 900px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6); position: relative; z-index: 1; transition: all 0.5s ease;" onmouseover="this.style.transform='scale(1.05) rotate(2deg)'; this.style.boxShadow='0 15px 35px rgba(255, 111, 97, 0.9)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='0 10px 25px rgba(0, 0, 0, 0.6)'" onerror="this.src='https://via.placeholder.com/900x250?text=Bruce+Amalemba+-+Data+scientist+Developer'">
+  <h1 style="font-size: 36px; font-family: 'Orbitron', sans-serif; color: #FF6F61; text-shadow: 0 0 15px #FF6F61, 0 0 25px #FF6F61; margin-top: 15px; position: relative; z-index: 1;">Bruce Amalemba -  Data Alchemist|Developer</h1>
   <p style="font-size: 18px; color: #A3BFFA; text-shadow: 0 0 10px #A3BFFA; margin-top: 10px; position: relative; z-index: 1;">Transforming raw data into interstellar insights .</p>
 </div>
 
@@ -101,11 +101,11 @@ Tailored solutions to supercharge your business:
   <img src="assets/ml_project.gif" alt="ML Models Visualization" width="100%" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x200?text=ML+Demo'"/>
 </div>
 
-### Official Ambururu Resort Website  
+### Official Ambururu Waterfalls Conservancy Website  
 - **Description**: A web app with Tableau dashboards for customer analytics, booking trends, and revenue forecasting for a resort in Siaya, Kenya.  
-- **Impact**: Attracted 10K+ visitors and generated $1M+ in revenue in 2025.  
+- **Impact**: Attracted 10K+ visitors and generated 100k+ in revenue in 2025.  
 - **Tech**: Python, SQL, Tableau, Streamlit  
-- **Links**: [GitHub](https://github.com/BruceAmalemba/Official-Ambururu-Website) | [Live Site](https://bruceamalemba.github.io/Official-Ambururu-Website/)  
+- **Links**: [GitHub](https://github.com/BruceAmalemba/Official Ambururu Waterfalls Conservancy Website) | [Live Site](ambururuwaterfallsconservancy.com)  
 <div align="center">
   <img src="assets/ambururu.gif" alt="Ambururu Dashboard" width="100%" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x200?text=Ambururu+Demo'"/>
 </div>

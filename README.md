@@ -1,6 +1,6 @@
 <div align="center" style="background: radial-gradient(circle, #1F2A44 0%, #3B4A6B 50%, #5A6B8A 100%); padding: 30px; border-radius: 20px; border: 3px solid #FF6F61; box-shadow: 0 0 30px rgba(255, 111, 97, 0.7), inset 0 0 20px rgba(255, 111, 97, 0.4); position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://www.transparenttextures.com/patterns/stardust.png'); opacity: 0.1; z-index: 0;"></div>
-  <img src="assets/banner_animated.gif" alt="Bruce Amalemba -  Data Alchemist" width="100%" style="max-width: 900px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6); position: relative; z-index: 1; transition: all 0.5s ease;" onmouseover="this.style.transform='scale(1.05) rotate(2deg)'; this.style.boxShadow='0 15px 35px rgba(255, 111, 97, 0.9)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='0 10px 25px rgba(0, 0, 0, 0.6)'" onerror="this.src='https://via.placeholder.com/900x250?text=Bruce+Amalemba+-+Data+scientist+Developer'">
+  <img src="assets/banner_animated.gif" alt="Bruce Amalemba -  Data Enthusiast" width="100%" style="max-width: 900px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6); position: relative; z-index: 1; transition: all 0.5s ease;" onmouseover="this.style.transform='scale(1.05) rotate(2deg)'; this.style.boxShadow='0 15px 35px rgba(255, 111, 97, 0.9)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='0 10px 25px rgba(0, 0, 0, 0.6)'" onerror="this.src='https://via.placeholder.com/900x250?text=Bruce+Amalemba+-+Data+scientist+Developer'">
   <h1 style="font-size: 36px; font-family: 'Orbitron', sans-serif; color: #FF6F61; text-shadow: 0 0 15px #FF6F61, 0 0 25px #FF6F61; margin-top: 15px; position: relative; z-index: 1;">Bruce Amalemba -  Data Scientist | Developer</h1>
   <p style="font-size: 18px; color: #A3BFFA; text-shadow: 0 0 10px #A3BFFA; margin-top: 10px; position: relative; z-index: 1;">Transforming raw data into interstellar insights .</p>
 </div>
@@ -321,7 +321,7 @@ My skills are always leveling up:
 <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; background: #ffffff; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); margin: 20px 0; max-width: 600px; margin-left: auto; margin-right: auto;">
   <h2 style="font-size: 24px; color: #333; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: 600; text-align: center; margin-bottom: 12px;">Hey, thanks for stopping by!</h2>
   <p style="font-size: 16px; color: #555; font-family: 'Helvetica', 'Arial', sans-serif; line-height: 1.6; text-align: center; margin-bottom: 20px;">
-    I’m Bruce Washika, a passionate developer crafting clean, impactful code as of June 29, 2025. Got a project in mind? Let’s team up to turn your ideas into reality.
+    I’m Bruce Amalemba, a passionate Data Scientist| Developer crafting clean, impactful code as of June 29, 2025. Got a project in mind? Let’s team up to turn your ideas into reality.
   </p>
   <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
     <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me" height="32" onerror="this.src='https://via.placeholder.com/100x32?text=Email+Me'"/></a>
@@ -330,6 +330,6 @@ My skills are always leveling up:
     <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="32" onerror="this.src='https://via.placeholder.com/100x32?text=Portfolio'"/></a>
   </div>
   <p style="margin-top: 20px; font-size: 14px; color: #888; font-family: 'Helvetica', 'Arial', sans-serif; text-align: center;">
-    Check out my work, licensed under MIT—open for collaboration! 🚀
+    Check out  some of my work, licensed under MIT—open for collaboration! 🚀
   </p>
 </div>

@@ -290,18 +290,7 @@ My skills are always leveling up:
 </div>
 
 
-## 🎸 My Latest Data Science Win
-
-<div style="border: 1px solid #d1d5db; border-radius: 10px; padding: 20px; background: #f9fafb; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); margin: 25px 0; max-width: 650px; margin-left: auto; margin-right: auto; position: relative;">
-  <h2 style="font-size: 24px; color: #1f2937; font-family: 'Inter', 'Arial', sans-serif; font-weight: 700; text-align: center; margin-bottom: 12px;">Ambururu Resort’s AI-Powered Hit Track!</h2>
-  <p style="font-size: 16px; color: #4b5563; font-family: 'Inter', 'Arial', sans-serif; line-height: 1.6; text-align: center; margin-bottom: 20px;">
-    Hey there! On June 5, 2025, I built a TensorFlow model that composed a banger for Ambururu Resort, mixing AI-crafted melodies with real-time trend data. The result? <strong>120,000 streams</strong> in just 48 hours and a <strong>45% spike</strong> in engagement. This project’s open-source under MIT—dive in and remix it!
-  </p>
-  <div style="text-align: center;">
-    <img src="assets/ai_music_visual.gif" alt="AI Music Visualization" width="100%" style="max-width: 450px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/450x225?text=AI+Music+Demo'">
-    <p style="margin-top: 12px; font-size: 14px; color: #6b7280; font-family: 'Inter', 'Arial', sans-serif;">
-      Want to hear it? Check the <a href="https://brucesportfolio.vercel.app/ai-music-demo" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: 500;">live demo</a> or grab the code from my <a href="#license" style="color: #3b82f6; text-decoration: none; font-weight: 500;">MIT-licensed repo</a>!
-    </p>
+## 
   </div>
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
     <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me" height="30" onerror="this.src='https://via.placeholder.com/100x30?text=Email+Me'"/></a>

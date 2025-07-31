@@ -204,7 +204,8 @@ Started June 3, 2025—currently Day 8 of a 120-day plan to conquer advanced AI 
 </div>
 
 **Today’s Focus**: Python data structures (lists, dictionaries, sets).  
-**Resource**: [W3Schools Python Data Structures](https://www.w3schools.com/python/python_lists.asp).  
+**Resource**: [W3Schools Python Data Structures](https://www.w3schools.com/python/python_lists.asp).
+ 
 ## 💼 Hire Me  
 Ready to **revolutionize your business** with AI and data? I offer:  
 - **Custom ML Models**: Predict churn, sales, or fraud with precision.  
@@ -310,7 +311,7 @@ My skills are always leveling up:
 <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; background: #ffffff; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); margin: 20px 0; max-width: 600px; margin-left: auto; margin-right: auto;">
   <h2 style="font-size: 24px; color: #333; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: 600; text-align: center; margin-bottom: 12px;">Hey, thanks for stopping by!</h2>
   <p style="font-size: 16px; color: #555; font-family: 'Helvetica', 'Arial', sans-serif; line-height: 1.6; text-align: center; margin-bottom: 20px;">
-    I’m Bruce Amalemba, a passionate Data Scientist| Developer crafting clean, impactful code as of June 29, 2025. Got a project in mind? Let’s team up to turn your ideas into reality.
+    I’m Bruce Amalemba, a passionate Data Scientist| Developer crafting clean, impactful code . Got a project in mind? Let’s team up to turn your ideas into reality.
   </p>
   <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
     <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me" height="32" onerror="this.src='https://via.placeholder.com/100x32?text=Email+Me'"/></a>
@@ -319,6 +320,6 @@ My skills are always leveling up:
     <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="32" onerror="this.src='https://via.placeholder.com/100x32?text=Portfolio'"/></a>
   </div>
   <p style="margin-top: 20px; font-size: 14px; color: #888; font-family: 'Helvetica', 'Arial', sans-serif; text-align: center;">
-    Check out  some of my work, licensed under MIT—open for collaboration! 🚀
+    Check out  some of my works, licensed under MIT—open for collaboration! 🚀
   </p>
 </div>

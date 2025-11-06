@@ -36,15 +36,15 @@
 - [Fun Data Science Fact](#-fun-data-science-fact)  
 - [Contribution Graph](#-contribution-graph)  
 
-🌟 **What I Bring**  
+ **What I Bring**  
 I deliver data-driven solutions that propel businesses forward. From predictive models to interactive dashboards, I combine precision and creativity for measurable impact.  
-- 🧠 **Machine Learning**: Deploy models for classification, regression, and clustering.  
-- 📊 **Data Visualization**: Build stunning, actionable dashboards with Tableau and Seaborn.  
-- ⚙️ **Optimization**: Streamline operations with AI and linear programming.  
-- 🌐 **Web Integration**: Fuse data science with web apps for seamless experiences.  
+-  **Machine Learning**: Deploy models for classification, regression, and clustering.  
+-  **Data Visualization**: Build stunning, actionable dashboards with Tableau and Seaborn.  
+-  **Optimization**: Streamline operations with AI and linear programming.  
+-  **Web Integration**: Fuse data science with web apps for seamless experiences.  
 **Why Me?** I pair technical prowess with a client-first approach, delivering projects that skyrocket revenue, efficiency, and insights. Let’s turbocharge your data! 💼  
 
-💼 **Services Offered**  
+ **Services Offered**  
 Tailored solutions to supercharge your business:  
 - **Predictive Analytics**: ML models for churn, sales, or fraud detection.  
 - **Interactive Dashboards**: Visualize complex data with Tableau or Streamlit.  
@@ -91,7 +91,7 @@ Tailored solutions to supercharge your business:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6F61&center=true&vCenter=true&width=440&lines=Data+Science+Master;Machine+Learning+Guru;Visualization+Expert;Cloud+AI+Pro" alt="Skills Typing SVG" onerror="this.src='https://via.placeholder.com/440x50?text=Skills'"/>
 </div>
 
-🚀 **Featured Projects**  
+ **Featured Projects**  
 ### Machine-Learning-Models
 - **Description**: A collection of ML models (SVM, Random Forests, K-Means) for predictive analytics, built with Scikit-learn and TensorFlow.  
 - **Impact**: Achieved 90% churn prediction accuracy, saving clients $500K+ in 2025.  
@@ -140,7 +140,7 @@ Tailored solutions to supercharge your business:
 > "Bruce’s ML models revolutionized our retention strategy, cutting costs dramatically." – Brian Obware, Tech Startup CEO  
 > "The Ambururu dashboards fueled our growth beyond expectations." – Justice Anthony Ombwayo, Resort Manager  
 
-🧠 **Neural Networks Demystified**  
+ **Neural Networks Demystified**  
 Neural networks power AI by mimicking the brain to uncover patterns. Here’s the breakdown:  
 - **Input Layer**: Takes raw data (e.g., text, images).  
 - **Hidden Layers**: Process data with weights, biases, and activations (e.g., ReLU).  
@@ -150,12 +150,12 @@ Neural networks power AI by mimicking the brain to uncover patterns. Here’s th
   <a href="assets/neural_animation.gif">
     <img src="assets/neural_animation.gif" alt="Neural Network Animation" width="100%" style="max-width: 600px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/600x300?text=Neural+Network'"/>
   </a>
-  <p>See a neural network learn in action! 🧠</p>
+  <p>See a neural network learn in action! </p>
 </div>
 
 **Why It Matters**: My neural network expertise drives precise predictions for clients, from sentiment analysis to demand forecasting.  
 
-📈 **Data Science Journey**  
+ **Data Science Journey**  
 Started in 2022, I’m on a mission to master AI by 2027. Here’s my path:  
 <div style="border: 2px solid #F4A261; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(244, 162, 97, 0.5), inset 0 0 15px rgba(244, 162, 97, 0.3);">
   <table align="center">
@@ -165,23 +165,23 @@ Started in 2022, I’m on a mission to master AI by 2027. Here’s my path:
     </tr>
     <tr>
       <td>2022</td>
-      <td>Mastered Python basics 🐍</td>
+      <td>Mastered Python basics </td>
     </tr>
     <tr>
       <td>2023</td>
-      <td>Built my first ML model with Scikit-learn 🤖</td>
+      <td>Built my first ML model with Scikit-learn </td>
     </tr>
     <tr>
       <td>2024</td>
-      <td>Created Tableau dashboards for analytics 📊</td>
+      <td>Created Tableau dashboards for analytics </td>
     </tr>
     <tr>
       <td>2025</td>
-      <td>Launched Ambururu Website & Sentiment Tool 🌐 (as of 11:15 AM EAT, June 10, 2025)</td>
+      <td>Launched Ambururu Website & Sentiment Tool  (as of 11:15 AM EAT, June 10, 2025)</td>
     </tr>
     <tr>
       <td>2026</td>
-      <td>Goal: Lead open-source AI projects 🔥</td>
+      <td>Goal: Lead open-source AI projects </td>
     </tr>
   </table>
   <p align="center">
@@ -189,7 +189,7 @@ Started in 2022, I’m on a mission to master AI by 2027. Here’s my path:
   </p>
 </div>
 
-🗺️ **Data Science Roadmap**  
+ **Data Science Roadmap**  
 Started June 3, 2025—currently Day 8 of a 120-day plan to conquer advanced AI by 2027 (11:15 AM EAT, June 10, 2025).  
 <div style="border: 2px solid #264653; border-radius: 10px; padding: 15px; background: linear-gradient(90deg, #1F2A44, #3B4A6B); box-shadow: 0 0 20px rgba(38, 70, 83, 0.5), inset 0 0 15px rgba(38, 70, 83, 0.3); text-align: center;">
   <a href="https://brucesportfolio.vercel.app/">
@@ -199,7 +199,7 @@ Started June 3, 2025—currently Day 8 of a 120-day plan to conquer advanced AI 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=FF6F61&center=true&vCenter=true&width=440&lines=Phase+1:+Python+Advanced;Today:+Data+Structures;Next:+NumPy+and+Pandas" alt="Current Phase" onerror="this.src='https://via.placeholder.com/440x50?text=Roadmap+Phase'"/>
   </p>
   <p style="font-size: 14px;">
-    🟢 Start (June 3) ➡️ 🟡 Day 8 (June 10) ➡️ ⚡ Day 120 (End)
+    🟢 Start (June 3) ➡️ 🟡 Day 8 (June 10) ➡️  Day 120 (End)
   </p>
 </div>
 
@@ -320,6 +320,7 @@ My skills are always leveling up:
     <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="32" onerror="this.src='https://via.placeholder.com/100x32?text=Portfolio'"/></a>
   </div>
   <p style="margin-top: 20px; font-size: 14px; color: #888; font-family: 'Helvetica', 'Arial', sans-serif; text-align: center;">
-    Check out  some of my works, licensed under MIT—open for collaboration! 🚀
+    Check out  some of my works, licensed under MIT—open for collaboration! �
   </p>
 </div>
+

@@ -7,10 +7,21 @@
 </div>
 
 <div align="center" style="margin: 30px 0; display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #0077B5);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
-  <a href="https://x.com/BruceWashika" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #1DA1F2);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
-  <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #000000);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
-  <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #D14836);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
+  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #0077B5);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+  </a>
+  <a href="https://x.com/BruceWashika" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #1DA1F2);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+  </a>
+  
+  <!-- PERSONAL PORTFOLIO – New Icon & Link -->
+  <a href="https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=briefcase&logoColor=white" alt="Personal Portfolio" height="55" style="border-radius: 12px; transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #FF6F61);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+  </a>
+  
+  <a href="mailto:bruceamalemba007@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #D14836);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+  </a>
 </div>
 
 <div align="center" style="margin-bottom: 30px;">
@@ -192,7 +203,7 @@ Curious about the machinery? My repositories are portals to innovation—where m
 Knowledge multiplies when shared. Dive into my writings on scaling ML or crafting visual epics, or catch my talks on data's untapped potential.
 
 <div style="border: 3px solid #2A9D8F; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(42, 157, 143, 0.6), inset 0 0 20px rgba(42, 157, 143, 0.4); text-align: center; max-width: 600px; margin: 30px auto;">
-  <a href="https://brucesportfolio.vercel.app/blog" style="margin-right: 15px;"><img src="https://img.shields.io/badge/Explore%20Writings-FF5733?style=for-the-badge&logo=blogger&logoColor=white" alt="Writings" height="40" style="transition: box-shadow 0.4s; border-radius: 5px;" onmouseover="this.style.boxShadow='0 0 20px rgba(255, 87, 51, 0.8)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/200x40?text=Writings'"/></a>
+  <a href="https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba" style="margin-right: 15px;"><img src="https://img.shields.io/badge/Explore%20Writings-FF5733?style=for-the-badge&logo=blogger&logoColor=white" alt="Writings" height="40" style="transition: box-shadow 0.4s; border-radius: 5px;" onmouseover="this.style.boxShadow='0 0 20px rgba(255, 87, 51, 0.8)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/200x40?text=Writings'"/></a>
   <a href="https://www.youtube.com/@BruceAmalemba"><img src="https://img.shields.io/badge/View%20Talks-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Talks" height="40" style="transition: box-shadow 0.4s; border-radius: 5px;" onmouseover="this.style.boxShadow='0 0 20px rgba(255, 0, 0, 0.8)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/200x40?text=Talks'"/></a>
 </div>
 
@@ -221,7 +232,7 @@ Consistency is the algorithm of success.
     <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Reach%20Out-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Reach Out" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Reach+Out'"/></a>
     <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Connect'"/></a>
     <a href="https://x.com/BruceWashika" target="_blank"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Follow'"/></a>
-    <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Portfolio'"/></a>
+    <a href="https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Portfolio'"/></a>
   </div>
   <p style="margin-top: 25px; font-size: 15px; color: #888; font-family: 'Helvetica', 'Arial', sans-serif;">
     All under MIT license—open for exploration and synergy.

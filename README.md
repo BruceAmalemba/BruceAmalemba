@@ -27,15 +27,15 @@ Picture this: A kid in Kenya, scribbling differential equations on scrap paper, 
 ### My Arsenal: Tools Forged for Precision
 Grounded in a love for math, my skills blend rigorous analysis with creative problem-solving. I don't just use tools—I wield them to dissect complexity and build scalable solutions.
 
-- **Core Programming**: Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, statsmodels—my go-tos for data magic), R (tidyverse, ggplot2, caret for statistical depth), SQL for querying vast datasets, Excel/Power BI/Tableau for rapid prototyping, Git/GitHub for collaborative evolution, and Spark for when data gets massive.
+- *Core Programming*: Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, statsmodels—my go-tos for data magic), R (tidyverse, ggplot2, caret for statistical depth), SQL for querying vast datasets, Excel/Power BI/Tableau for rapid prototyping, Git/GitHub for collaborative evolution, and Spark for when data gets massive.
   
-- **AI & Machine Learning**: Supervised/unsupervised models, regression/classification, clustering, deep learning via TensorFlow/PyTorch, NLP for textual enigmas, time series forecasting, and reinforcement learning for dynamic environments.
+- *AI & Machine Learning*: Supervised/unsupervised models, regression/classification, clustering, deep learning via TensorFlow/PyTorch, NLP for textual enigmas, time series forecasting, and reinforcement learning for dynamic environments.
   
-- **Data Mastery**: Wrangling messy inputs into clean gold, visualizing with matplotlib/seaborn/ggplot2/plotly/Tableau to tell compelling stories, and turning insights into strategies that stick.
+- *Data Mastery*: Wrangling messy inputs into clean gold, visualizing with matplotlib/seaborn/ggplot2/plotly/Tableau to tell compelling stories, and turning insights into strategies that stick.
   
-- **Analytical Edge**: Hypothesis testing, A/B trials, probabilistic modeling, regression suites, Bayesian inference, predictive analytics, and optimization like linear programming to maximize efficiency.
+- *Analytical Edge*: Hypothesis testing, A/B trials, probabilistic modeling, regression suites, Bayesian inference, predictive analytics, and optimization like linear programming to maximize efficiency.
   
-- **The Human Touch**: Sharp problem-solving, critical dissection of assumptions, clear communication of complex ideas, and a portfolio of projects that prove impact. Plus, a dash of curiosity that keeps me learning—recently diving into quantum-inspired algorithms.
+- *The Human Touch*: Sharp problem-solving, critical dissection of assumptions, clear communication of complex ideas, and a portfolio of projects that prove impact. Plus, a dash of curiosity that keeps me learning—recently diving into quantum-inspired algorithms.
 
 <div style="border: 3px solid #F4A261; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(244, 162, 97, 0.6), inset 0 0 20px rgba(244, 162, 97, 0.4); max-width: 800px; margin: 30px auto;">
   <table align="center" style="width: 100%; border-collapse: collapse;">
@@ -73,11 +73,11 @@ Grounded in a love for math, my skills blend rigorous analysis with creative pro
 ### Unlocking Value: Services That Transform
 Imagine harnessing data to not just react, but anticipate. That's what I deliver—tailored solutions rooted in mathematical rigor and engineered for scale.
 
-- **Predictive Powerhouses**: Models that forecast churn, sales, or risks with uncanny accuracy, blending stats and ML.
-- **Visual Narratives**: Dashboards that turn datasets into intuitive stories, empowering decisions at a glance.
-- **Efficient Pipelines**: ETL flows that handle big data seamlessly, ensuring your insights are always fresh.
-- **Intelligent Apps**: AI-integrated web tools that engage users and automate the mundane.
-- **Strategic Consulting**: Guiding your data journey with Bayesian wisdom and optimization strategies.
+- *Predictive Powerhouses*: Models that forecast churn, sales, or risks with uncanny accuracy, blending stats and ML.
+- *Visual Narratives*: Dashboards that turn datasets into intuitive stories, empowering decisions at a glance.
+- *Efficient Pipelines*: ETL flows that handle big data seamlessly, ensuring your insights are always fresh.
+- *Intelligent Apps*: AI-integrated web tools that engage users and automate the mundane.
+- *Strategic Consulting*: Guiding your data journey with Bayesian wisdom and optimization strategies.
 
 <div style="border: 3px solid #FF6F61; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(255, 111, 97, 0.6), inset 0 0 20px rgba(255, 111, 97, 0.4); text-align: center; max-width: 600px; margin: 30px auto;">
   <p style="font-size: 18px; font-weight: bold; color: #E0E0E0; margin-bottom: 15px;">Ready to decode your data's secrets? Let's collaborate.</p>

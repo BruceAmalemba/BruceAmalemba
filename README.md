@@ -3,61 +3,46 @@
   <img src="assets/banner_animated.gif" alt="Bruce Amalemba - Data Scientist & Developer" width="100%" style="max-width: 850px; border-radius: 20px; box-shadow: 0 15px 30px rgba(0, 0, 0, 0.7); position: relative; z-index: 1; transition: all 0.6s ease;" onmouseover="this.style.transform='scale(1.03) rotate(1.5deg)'; this.style.boxShadow='0 20px 40px rgba(255, 111, 97, 1)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='0 15px 30px rgba(0, 0, 0, 0.7)'" onerror="this.src='https://via.placeholder.com/850x220?text=Bruce+Amalemba+-+Unlocking+Data+Stories'">
   <h1 style="font-size: 42px; font-family: 'Orbitron', sans-serif; color: #FF6F61; text-shadow: 0 0 20px #FF6F61, 0 0 30px #FF6F61; margin-top: 20px; position: relative; z-index: 1;">Bruce Amalemba</h1>
   <h2 style="font-size: 28px; font-family: 'Orbitron', sans-serif; color: #A3BFFA; text-shadow: 0 0 15px #A3BFFA; margin-top: 5px; position: relative; z-index: 1;">Data Scientist | Developer | Math Enthusiast</h2>
-  <p style="font-size: 20px; color: #E0E0E0; text-shadow: 0 0 10px #A3BFFA; margin-top: 15px; max-width: 700px; line-height: 1.6; position: relative; z-index: 1;">In a world overflowing with data, I focus on turning the noise into meaningful stories. My background in math keeps me grounded, helping me design systems that blend algorithms with practical results—like spotting trends before they happen or streamlining processes to cut waste.</p>
+  <p style="font-size: 20px; color: #E0E0E0; text-shadow: 0 0 10px #A3BFFA; margin-top: 15px; max-width: 700px; line-height: 1.6; position: relative; z-index: 1;">In a world drowning in data, I build bridges from chaos to clarity. With a foundation in mathematics that sparks my curiosity, I craft solutions where algorithms meet real-world impact—predicting trends, optimizing paths, and revealing hidden patterns that drive decisions.</p>
 </div>
 
 <div align="center" style="margin: 30px 0; display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #0077B5);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
-  </a>
-  <a href="https://x.com/BruceWashika" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #1DA1F2);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
-  </a>
-  
-  <!-- PERSONAL PORTFOLIO – New Icon & Link -->
-  <a href="https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=briefcase&logoColor=white" alt="Personal Portfolio" height="55" style="border-radius: 12px; transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #FF6F61);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
-  </a>
-  
-  <a href="mailto:bruceamalemba007@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #D14836);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
-  </a>
+  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #0077B5);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
+  <a href="https://x.com/BruceWashika" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #1DA1F2);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
+  <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #000000);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
+  <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #D14836);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
 </div>
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://komarev.com/ghpvc/?username=BruceAmalemba&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="40" style="border-radius: 5px;" onerror="this.src='https://via.placeholder.com/200x40?text=Profile+Views'"/>
 </div>
 
-### How It All Started: From Math Scribbles to Data Insights
-It began back in Kenya, where I'd fill notebooks with differential equations, fascinated by how they could model everything from population growth to electrical circuits. One day, solving a simple system like \( \dot{x} = ax + by \), I saw the potential for predicting real-world changes. That spark led me to data science—merging math with code to uncover stories in numbers. From my first regression model in 2022 to deploying full-scale forecasts by 2025, it's been about asking the right questions: Why does this correlation exist? How can we quantify uncertainty? These days, I use tools like probability distributions to make sense of chaos, always chasing that next insight.
-
-I've learned that data work isn't just algorithms; it's logic rooted in math. Take linear regression: fitting \( y = \beta_0 + \beta_1 x + \epsilon \) isn't mechanical—it's about understanding assumptions like homoscedasticity and using diagnostics to ensure reliability. Those early scribbles taught me resilience, turning dead ends into breakthroughs.
+### The Spark: From Equations to Insights
+Picture this: A kid in Kenya, scribbling differential equations on scrap paper, mesmerized by how math unravels the universe's secrets. That was me. Fast-forward through late-night coding sessions and eureka moments in probability theory—I've turned that passion into a career where data isn't just numbers; it's narratives waiting to unfold. By 2022, I was building my first models; by 2025, those models were saving businesses fortunes and forecasting futures. But it's not about the tech—it's about the "why." Why does this pattern emerge? Why does this prediction matter? Join me in exploring these questions through code that's as elegant as the math behind it.
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF6F61&center=true&vCenter=true&width=500&lines=Data+as+Poetry;Algorithms+as+Symphonies;Insights+as+Revelations;Math+as+the+Compass" alt="Typing SVG" style="max-width: 500px;" onerror="this.src='https://via.placeholder.com/500x60?text=Data+Journey'"/>
 </div>
 
-### My Go-To Skills and Tools
-My work builds on a solid mix of programming, analysis, and that mathematical intuition I've honed over years. I pick tools based on the problem—nothing fancy for its own sake, just what gets the job done efficiently.
+### My Arsenal: Tools Forged for Precision
+Grounded in a love for math, my skills blend rigorous analysis with creative problem-solving. I don't just use tools—I wield them to dissect complexity and build scalable solutions.
 
-- **Programming Basics**: Python's my mainstay, with libraries like pandas for data manipulation, NumPy for array ops, scikit-learn for quick models, and statsmodels for deeper stats. R comes in for tidyverse workflows or ggplot2 visuals. SQL handles database queries, while Git keeps everything versioned. For big data, Spark scales things up without hassle.
+- **Core Programming**: Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, statsmodels—my go-tos for data magic), R (tidyverse, ggplot2, caret for statistical depth), SQL for querying vast datasets, Excel/Power BI/Tableau for rapid prototyping, Git/GitHub for collaborative evolution, and Spark for when data gets massive.
   
-- **Machine Learning and AI**: I handle everything from supervised learning (like logistic regression for classification) to unsupervised (K-means clustering). Deep learning? TensorFlow or PyTorch for neural nets. NLP parses text, time series uses ARIMA or LSTMs for forecasts. Reinforcement learning tackles sequential decisions, like in optimization scenarios.
+- **AI & Machine Learning**: Supervised/unsupervised models, regression/classification, clustering, deep learning via TensorFlow/PyTorch, NLP for textual enigmas, time series forecasting, and reinforcement learning for dynamic environments.
   
-- **Data Handling and Viz**: Cleaning data is half the battle—preprocessing to fix outliers or impute missing values. Then, visuals: matplotlib/seaborn for plots, Tableau for interactive dashboards that make insights pop. It's all about storytelling, turning raw numbers into actionable narratives.
+- **Data Mastery**: Wrangling messy inputs into clean gold, visualizing with matplotlib/seaborn/ggplot2/plotly/Tableau to tell compelling stories, and turning insights into strategies that stick.
   
-- **Analytical Thinking**: Hypothesis testing checks assumptions, A/B tests validate changes. Probability and stats guide me—Bayesian methods update beliefs with new data via \( P(\theta|D) \propto P(D|\theta) P(\theta) \). Regression analysis uncovers relationships, while optimization like linear programming solves resource allocation: maximize \( c^T x \) subject to \( Ax \leq b \).
+- **Analytical Edge**: Hypothesis testing, A/B trials, probabilistic modeling, regression suites, Bayesian inference, predictive analytics, and optimization like linear programming to maximize efficiency.
   
-- **The Practical Side**: Problem-solving means breaking down issues logically, communicating findings clearly (no jargon overload), and delivering projects that matter. Lately, I've been exploring quantum algorithms, like variational quantum eigensolvers for complex simulations, blending math with emerging tech.
-
-This toolkit isn't static—it's evolved through trial and error, always anchored in math's precision. For instance, dimensionality reduction via PCA relies on eigenvectors to capture variance, reducing noise while preserving info.
+- **The Human Touch**: Sharp problem-solving, critical dissection of assumptions, clear communication of complex ideas, and a portfolio of projects that prove impact. Plus, a dash of curiosity that keeps me learning—recently diving into quantum-inspired algorithms.
 
 <div style="border: 3px solid #F4A261; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(244, 162, 97, 0.6), inset 0 0 20px rgba(244, 162, 97, 0.4); max-width: 800px; margin: 30px auto;">
   <table align="center" style="width: 100%; border-collapse: collapse;">
     <thead>
       <tr>
-        <th style="padding: 10px; text-align: left; color: #FF6F61; font-size: 18px;">Area</th>
-        <th style="padding: 10px; text-align: left; color: #FF6F61; font-size: 18px;">Key Tools</th>
+        <th style="padding: 10px; text-align: left; color: #FF6F61; font-size: 18px;">Domain</th>
+        <th style="padding: 10px; text-align: left; color: #FF6F61; font-size: 18px;">Essentials</th>
       </tr>
     </thead>
     <tbody>
@@ -78,108 +63,102 @@ This toolkit isn't static—it's evolved through trial and error, always anchore
         <td style="padding: 10px; border-top: 1px solid #A3BFFA;"><img src="https://skillicons.dev/icons?i=matplotlib,seaborn,tableau,plotly,powerbi" alt="Viz" height="45"/></td>
       </tr>
       <tr>
-        <td style="padding: 10px; border-top: 1px solid #A3BFFA;"><b>DevOps & More</b></td>
+        <td style="padding: 10px; border-top: 1px solid #A3BFFA;"><b>DevOps & Tools</b></td>
         <td style="padding: 10px; border-top: 1px solid #A3BFFA;"><img src="https://skillicons.dev/icons?i=jupyter,git,docker,streamlit,aws" alt="Tools" height="45"/></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-### What I Can Do for You
-Data isn't about collecting—it's about using it smartly. I create custom setups that help you see ahead, save time, and make better calls, all backed by solid math.
+### Unlocking Value: Services That Transform
+Imagine harnessing data to not just react, but anticipate. That's what I deliver—tailored solutions rooted in mathematical rigor and engineered for scale.
 
-- **Forecasting Models**: Build systems for predicting customer drop-off or sales spikes, using techniques like time series analysis with ARIMA or exponential smoothing.
-- **Interactive Dashboards**: Create views that let you drill down into data, spotting trends via heatmaps or scatter plots.
-- **Data Pipelines**: Set up automated flows to clean and process info, ensuring it's ready when you need it.
-- **AI-Driven Apps**: Develop tools that learn from user behavior, like recommendation engines based on collaborative filtering.
-- **Consulting Advice**: Help refine your approach, applying logic like decision trees or Monte Carlo simulations for risk assessment.
-
-I've seen how a well-tuned model can shift a business—it's rewarding to watch math turn into real gains.
+- **Predictive Powerhouses**: Models that forecast churn, sales, or risks with uncanny accuracy, blending stats and ML.
+- **Visual Narratives**: Dashboards that turn datasets into intuitive stories, empowering decisions at a glance.
+- **Efficient Pipelines**: ETL flows that handle big data seamlessly, ensuring your insights are always fresh.
+- **Intelligent Apps**: AI-integrated web tools that engage users and automate the mundane.
+- **Strategic Consulting**: Guiding your data journey with Bayesian wisdom and optimization strategies.
 
 <div style="border: 3px solid #FF6F61; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(255, 111, 97, 0.6), inset 0 0 20px rgba(255, 111, 97, 0.4); text-align: center; max-width: 600px; margin: 30px auto;">
-  <p style="font-size: 18px; font-weight: bold; color: #E0E0E0; margin-bottom: 15px;">Got a data challenge? Let's tackle it together.</p>
+  <p style="font-size: 18px; font-weight: bold; color: #E0E0E0; margin-bottom: 15px;">Ready to decode your data's secrets? Let's collaborate.</p>
   <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Connect%20Now-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Connect Now" height="45" style="transition: transform 0.4s; border-radius: 5px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/180x45?text=Connect+Now'"/></a>
 </div>
 
-### My Journey So Far
-Think of my career as solving a complex equation—full of variables, iterations, and refinements. Kicked off with Python basics in 2022, built working models by 2023, crafted visuals that told stories in 2024, and rolled out impactful systems in 2025. Looking ahead, I'm eyeing quantum computing for even tougher problems. Each step builds on the last, like accumulating knowledge in a Markov chain.
-
-Along the way, I've faced hurdles—like overfitting models—and learned to regularize with L1/L2 penalties. It's kept me sharp.
+### The Evolution: Milestones in Motion
+My path? A nonlinear optimization problem—full of gradients, local minima, and breakthroughs. Started with Python in 2022, mastered ML by 2023, visualized empires in 2024, and by late 2025, deployed systems that redefined efficiency. Next? Quantum ML and beyond. It's a journey of continuous integration, where each commit builds on the last.
 
 <div style="border: 3px solid #2A9D8F; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(42, 157, 143, 0.6), inset 0 0 20px rgba(42, 157, 143, 0.4); max-width: 700px; margin: 30px auto;">
   <table align="center" style="width: 100%; border-collapse: collapse;">
     <thead>
       <tr>
-        <th style="padding: 10px; text-align: left; color: #FF6F61; font-size: 18px;">Year</th>
-        <th style="padding: 10px; text-align: left; color: #FF6F61; font-size: 18px;">Key Step</th>
+        <th style="padding: 10px; text-align: left; color: #FF6F61; font-size: 18px;">Phase</th>
+        <th style="padding: 10px; text-align: left; color: #FF6F61; font-size: 18px;">Breakthrough</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">2022</td>
-        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">Got the basics down with Python and simple stats</td>
+        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">2022: Foundations</td>
+        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">Python mastery & first data dives</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">2023</td>
-        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">Built and tested ML models on real datasets</td>
+        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">2023: Modeling</td>
+        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">ML prototypes that predicted real outcomes</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">2024</td>
-        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">Focused on visuals and dashboards for clarity</td>
+        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">2024: Visualization</td>
+        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">Dashboards that spoke volumes</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">2025</td>
-        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">Delivered projects that drove business results</td>
+        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">2025: Impact</td>
+        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">Deployed solutions saving costs & boosting revenue</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">2026+</td>
-        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">Pushing into advanced AI and community leads</td>
+        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">2026+: Horizon</td>
+        <td style="padding: 10px; border-top: 1px solid #A3BFFA;">AI leadership & open-source revolutions</td>
       </tr>
     </tbody>
   </table>
   <p align="center" style="margin-top: 15px;">
-    <img src="https://progress-bar.dev/85/?title=Path%20Progress%20(2022-2027)&width=300&color=FF6F61" alt="Path Progress" onerror="this.src='https://via.placeholder.com/300x25?text=85%25+Along+the+Way'"/>
+    <img src="https://progress-bar.dev/85/?title=Evolution%20Trajectory%20(2022-2027)&width=300&color=FF6F61" alt="Evolution Progress" onerror="this.src='https://via.placeholder.com/300x25?text=85%25+Toward+Mastery'"/>
   </p>
 </div>
 
-### Diving into Neural Networks
-Neural networks are central to what I do—layers of nodes mimicking how our brains process info, with weights adjusted via backpropagation. Start with inputs, pass through hidden layers with activations like ReLU to handle non-linearity, and output predictions. The math? It's gradient descent minimizing loss: \( \theta = \theta - \eta \nabla J(\theta) \). I've used them for tasks like classifying images or predicting stock moves, always tuning hyperparameters to avoid vanishing gradients.
-
-Here's a glimpse of one training—fascinating how patterns emerge from data.
+### Neural Nets: The Brain Behind the Magic
+At the heart of my work? Neural networks—elegant mimics of cognition, where inputs weave through weighted synapses, activated by functions like ReLU, emerging as profound predictions. They're not tools; they're extensions of thought, solving from sentiment puzzles to forecasting riddles. Witness one in action:
 
 <div style="border: 3px solid #FF6F61; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(255, 111, 97, 0.6), inset 0 0 20px rgba(255, 111, 97, 0.4); text-align: center; max-width: 700px; margin: 30px auto;">
   <a href="assets/neural_animation.gif">
     <img src="assets/neural_animation.gif" alt="Neural Network in Action" width="100%" style="max-width: 550px; border-radius: 10px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4); transition: transform 0.4s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/550x275?text=Neural+Synapses'"/>
   </a>
-  <p style="font-size: 16px; color: #E0E0E0; margin-top: 10px;">Nodes firing as the network learns—echoes my own problem-solving process.</p>
+  <p style="font-size: 16px; color: #E0E0E0; margin-top: 10px;">A symphony of nodes learning patterns—much like how I approach every challenge.</p>
 </div>
 
-### Real-World Wins and Stories
-I've helped light up data for clients: Cut churn 30% at a startup with targeted models, saving $100K yearly; boosted a resort's visibility to 10K+ visitors and $200K revenue through analytics; raised engagement 15% with sentiment tools. These are more than numbers—they're tales of turning insights into action.
+### Echoes of Impact: Client Tales
+In the shadows of data, I've illuminated paths: Reduced churn by 30% for a startup, unlocking $100K in savings; amplified a resort's reach to 10K visitors and $200K revenue; elevated engagement 15% via sentiment insights. These aren't stats—they're stories of transformation.
 
-> "Bruce's work gave us the edge we needed." – Brian Obware, CEO  
-> "The dashboards changed how we operate." – Justice Anthony Ombwayo, Manager
+> "Bruce's models didn't just predict; they propelled us forward." – Brian Obware, CEO  
+> "His dashboards turned our vision into velocity." – Justice Anthony Ombwayo, Manager
 
 <div style="border: 3px solid #264653; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(38, 70, 83, 0.6), inset 0 0 20px rgba(38, 70, 83, 0.4); text-align: center; max-width: 600px; margin: 30px auto;">
   <p align="center">
-    <img src="https://img.shields.io/badge/Churn%20Cut-30%25-FF6F00?style=for-the-badge" alt="Churn Cut" height="40" onerror="this.src='https://via.placeholder.com/200x40?text=Churn+Cut'"/>
-    <img src="https://img.shields.io/badge/Revenue%20Boost-%24200K-E97627?style=for-the-badge" alt="Revenue Boost" height="40" onerror="this.src='https://via.placeholder.com/200x40?text=Revenue+Boost'"/>
-    <img src="https://img.shields.io/badge/Engagement%20Up-15%25-00A1D6?style=for-the-badge" alt="Engagement Up" height="40" onerror="this.src='https://via.placeholder.com/200x40?text=Engagement+Up'"/>
+    <img src="https://img.shields.io/badge/Impact%20Metrics-Churn%20↓30%25-FF6F00?style=for-the-badge" alt="Churn Down" height="40" onerror="this.src='https://via.placeholder.com/200x40?text=Churn+Down'"/>
+    <img src="https://img.shields.io/badge/Revenue%20Surge-%24200K%2B-E97627?style=for-the-badge" alt="Revenue Up" height="40" onerror="this.src='https://via.placeholder.com/200x40?text=Revenue+Up'"/>
+    <img src="https://img.shields.io/badge/Engagement%20Lift-↑15%25-00A1D6?style=for-the-badge" alt="Engagement Up" height="40" onerror="this.src='https://via.placeholder.com/200x40?text=Engagement+Up'"/>
   </p>
 </div>
 
-### Where My Skills Stand
-I track my growth like metrics in a dashboard—always improving. Here's a snapshot:
+### Proficiency Pulse: Always Ascending
+Skills aren't static—they evolve. Here's my current vector:
 
 <div style="border: 3px solid #F4A261; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(244, 162, 97, 0.6), inset 0 0 20px rgba(244, 162, 97, 0.4); max-width: 600px; margin: 30px auto;">
-  <p style="margin-bottom: 10px;">Python Skills: <img src="https://progress-bar.dev/95/?title=95%25&width=250&color=3776AB" alt="Python" onerror="this.src='https://via.placeholder.com/250x20?text=Python+95%25'"/></p>
-  <p style="margin-bottom: 10px;">ML Knowledge: <img src="https://progress-bar.dev/90/?title=90%25&width=250&color=FF6F00" alt="ML" onerror="this.src='https://via.placeholder.com/250x20?text=ML+90%25'"/></p>
-  <p style="margin-bottom: 10px;">Data Viz: <img src="https://progress-bar.dev/88/?title=88%25&width=250&color=E97627" alt="Viz" onerror="this.src='https://via.placeholder.com/250x20?text=Viz+88%25'"/></p>
-  <p>Stats Proficiency: <img src="https://progress-bar.dev/85/?title=85%25&width=250&color=4479A1" alt="Stats" onerror="this.src='https://via.placeholder.com/250x20?text=Stats+85%25'"/></p>
+  <p style="margin-bottom: 10px;">Python Mastery: <img src="https://progress-bar.dev/95/?title=95%25&width=250&color=3776AB" alt="Python" onerror="this.src='https://via.placeholder.com/250x20?text=Python+95%25'"/></p>
+  <p style="margin-bottom: 10px;">ML Expertise: <img src="https://progress-bar.dev/90/?title=90%25&width=250&color=FF6F00" alt="ML" onerror="this.src='https://via.placeholder.com/250x20?text=ML+90%25'"/></p>
+  <p style="margin-bottom: 10px;">Data Storytelling: <img src="https://progress-bar.dev/88/?title=88%25&width=250&color=E97627" alt="Viz" onerror="this.src='https://via.placeholder.com/250x20?text=Viz+88%25'"/></p>
+  <p>Statistical Depth: <img src="https://progress-bar.dev/85/?title=85%25&width=250&color=4479A1" alt="Stats" onerror="this.src='https://via.placeholder.com/250x20?text=Stats+85%25'"/></p>
 </div>
 
-### Certifications I've Earned
-These have sharpened my edge:
+### Credentials: Badges of Battle
+Validated by the best:
 
 <div style="border: 3px solid #2A9D8F; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(42, 157, 143, 0.6), inset 0 0 20px rgba(42, 157, 143, 0.4); text-align: center; max-width: 700px; margin: 30px auto;">
   <p style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
@@ -189,16 +168,16 @@ These have sharpened my edge:
   </p>
 </div>
 
-### Giving Back Through Open Source
-I believe in sharing code—it's how we all get better. Contributed fixes to scikit-learn, custom bits for Streamlit, and bug hunts in pandas. It's satisfying to see your work help others, and I'm always open to teaming up.
+### Community Forge: Open Source Odyssey
+Code thrives in the open. I've contributed to scikit-learn docs, Streamlit components, and pandas fixes—small sparks in a larger fire. Eager for more collaborations that push boundaries.
 
 <div style="border: 3px solid #264653; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(38, 70, 83, 0.6), inset 0 0 20px rgba(38, 70, 83, 0.4); text-align: center; max-width: 600px; margin: 30px auto;">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-00A1D6?style=for-the-badge&logo=github&logoColor=white" alt="OS Contributor" height="40" style="transition: box-shadow 0.4s; border-radius: 5px;" onmouseover="this.style.boxShadow='0 0 20px rgba(0, 161, 214, 0.8)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/200x40?text=Open+Source'"/>
-  <p style="font-size: 16px; color: #E0E0E0; margin-top: 10px;">Interested in collaborating? Reach out!</p>
+  <img src="https://img.shields.io/badge/Open%20Source%20Warrior-00A1D6?style=for-the-badge&logo=github&logoColor=white" alt="OS Warrior" height="40" style="transition: box-shadow 0.4s; border-radius: 5px;" onmouseover="this.style.boxShadow='0 0 20px rgba(0, 161, 214, 0.8)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/200x40?text=Open+Source'"/>
+  <p style="font-size: 16px; color: #E0E0E0; margin-top: 10px;">Let's co-create—ideas welcome!</p>
 </div>
 
-### Check Out My Projects
-Want to see the code? My repos are where ideas come alive—math and logic in action. From models tackling prediction problems to apps visualizing complex data, they're open for you to explore, use, or improve.
+### Dive Deeper: Explore the Code Labyrinth
+Curious about the machinery? My repositories are portals to innovation—where math meets code in elegant dances. From ML ensembles solving riddles to dashboards painting futures, each one a theorem proven in practice. Venture in, fork, star, or collaborate; the proofs are in the commits.
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Machine-Learning-Models&theme=dracula&hide_border=true&bg_color=1F2A44&title_color=FF6F61&text_color=A3BFFA&icon_color=FF6F61" alt="ML Models" style="max-width: 45%; border-radius: 10px; box-shadow: 0 5px 15px rgba(255, 111, 97, 0.5); transition: transform 0.4s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x120?text=ML+Models'"/>
@@ -207,18 +186,18 @@ Want to see the code? My repos are where ideas come alive—math and logic in ac
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Ambururu-Waterfall-Resort&theme=dracula&hide_border=true&bg_color=1F2A44&title_color=FF6F61&text_color=A3BFFA&icon_color=FF6F61" alt="Resort App" style="max-width: 45%; border-radius: 10px; box-shadow: 0 5px 15px rgba(255, 111, 97, 0.5); transition: transform 0.4s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/400x120?text=Resort+App'"/>
 </div>
 
-<p align="center" style="font-size: 18px; color: #A3BFFA; margin: 20px 0;">Just a taste—dive into the full list. <a href="https://github.com/BruceAmalemba?tab=repositories" style="color: #FF6F61; text-decoration: none; font-weight: bold;">See all my repos here.</a></p>
+<p align="center" style="font-size: 18px; color: #A3BFFA; margin: 20px 0;">These are gateways—step through to see the full spectrum. <a href="https://github.com/BruceAmalemba?tab=repositories" style="color: #FF6F61; text-decoration: none; font-weight: bold;">Unlock all repositories here.</a></p>
 
-### Sharing Knowledge: Blogs and Talks
-I enjoy passing on what I've picked up. Check my posts on practical ML scaling or making visuals that stick, plus talks on tapping data's potential.
+### Insights Shared: Blogs & Discourses
+Knowledge multiplies when shared. Dive into my writings on scaling ML or crafting visual epics, or catch my talks on data's untapped potential.
 
 <div style="border: 3px solid #2A9D8F; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(42, 157, 143, 0.6), inset 0 0 20px rgba(42, 157, 143, 0.4); text-align: center; max-width: 600px; margin: 30px auto;">
-  <a href="https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba" style="margin-right: 15px;"><img src="https://img.shields.io/badge/Read%20My%20Posts-FF5733?style=for-the-badge&logo=blogger&logoColor=white" alt="Posts" height="40" style="transition: box-shadow 0.4s; border-radius: 5px;" onmouseover="this.style.boxShadow='0 0 20px rgba(255, 87, 51, 0.8)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/200x40?text=Posts'"/></a>
-  <a href="https://www.youtube.com/@BruceAmalemba"><img src="https://img.shields.io/badge/Watch%20My%20Talks-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Talks" height="40" style="transition: box-shadow 0.4s; border-radius: 5px;" onmouseover="this.style.boxShadow='0 0 20px rgba(255, 0, 0, 0.8)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/200x40?text=Talks'"/></a>
+  <a href="https://brucesportfolio.vercel.app/blog" style="margin-right: 15px;"><img src="https://img.shields.io/badge/Explore%20Writings-FF5733?style=for-the-badge&logo=blogger&logoColor=white" alt="Writings" height="40" style="transition: box-shadow 0.4s; border-radius: 5px;" onmouseover="this.style.boxShadow='0 0 20px rgba(255, 87, 51, 0.8)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/200x40?text=Writings'"/></a>
+  <a href="https://www.youtube.com/@BruceAmalemba"><img src="https://img.shields.io/badge/View%20Talks-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Talks" height="40" style="transition: box-shadow 0.4s; border-radius: 5px;" onmouseover="this.style.boxShadow='0 0 20px rgba(255, 0, 0, 0.8)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/200x40?text=Talks'"/></a>
 </div>
 
-### My GitHub Activity
-Staying consistent is key—here's how I've been contributing.
+### Pulse Check: Activity & Momentum
+Consistency is the algorithm of success.
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=BruceAmalemba&show_icons=true&theme=dracula&hide_border=true&bg_color=1F2A44&title_color=FF6F61&text_color=A3BFFA&icon_color=FF6F61" alt="Stats" style="max-width: 48%; border-radius: 15px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);" onerror="this.src='https://via.placeholder.com/500x250?text=GitHub+Stats'"/>
@@ -230,21 +209,21 @@ Staying consistent is key—here's how I've been contributing.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceAmalemba&theme=dracula&hide_border=true&bg_color=1F2A44&color=A3BFFA&line=FF6F61&point=FF6F61" alt="Activity Graph" style="max-width: 100%; border-radius: 10px;" onerror="this.src='https://via.placeholder.com/900x300?text=Activity+Graph'"/>
 </div>
 
-### A Fun Fact About Data
-Over 90% of the world's data has been generated in just the past couple of years—I'm geared up to make sense of that explosion, model by model.
+### Fun Datum: The Data Deluge
+90% of global data emerged in the last two years—I'm here to navigate the flood, one insightful model at a time.
 
 <div style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 25px; background: linear-gradient(135deg, #ffffff, #f0f0f0); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); margin: 40px 0; max-width: 700px; margin-left: auto; margin-right: auto; text-align: center;">
-  <h2 style="font-size: 28px; color: #333; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: 700; margin-bottom: 15px;">Thanks for Stopping By!</h2>
+  <h2 style="font-size: 28px; color: #333; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: 700; margin-bottom: 15px;">Grateful for Your Visit!</h2>
   <p style="font-size: 18px; color: #555; font-family: 'Helvetica', 'Arial', sans-serif; line-height: 1.7; margin-bottom: 25px;">
-    I'm Bruce, piecing together data puzzles every day. If something here clicks, let's connect and see what we can build.
+    I'm Bruce, architect of data symphonies. If my story resonates, let's compose the next chapter together—whether solving puzzles or sparking innovations.
   </p>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Reach%20Out-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Reach Out" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Reach+Out'"/></a>
     <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Connect'"/></a>
     <a href="https://x.com/BruceWashika" target="_blank"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Follow'"/></a>
-    <a href="https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Portfolio'"/></a>
+    <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Portfolio'"/></a>
   </div>
   <p style="margin-top: 25px; font-size: 15px; color: #888; font-family: 'Helvetica', 'Arial', sans-serif;">
-    Everything here's MIT-licensed—feel free to use and build on it.
+    All under MIT license—open for exploration and synergy.
   </p>
 </div>

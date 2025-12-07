@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=BruceAmalemba&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="40" style="border-radius: 5px;" onerror="this.src='https://via.placeholder.com/200x40?text=Profile+Views'"/>
 </div>
 
-The Spark: From Equations to Insights
+### The Spark: From Equations to Insights
 Imagine a young student in Kenya, diligently working through differential equations on scrap paper, captivated by the potential of mathematics to reveal the universe's underlying principles. That student was me. Over the years, through persistent coding and significant breakthroughs in probability theory, I transformed this passion into a career where data represents more than mere numbers; it becomes a narrative to be interpreted. By 2022, I was developing my first predictive models, and by 2025, these models were contributing to substantial business savings and accurate forecasting. However, my focus extends beyond technological advancement to the underlying rationale: Why do certain patterns emerge? Why are these predictions significant? I invite you to join me in examining these questions through code that aspires to the same elegance as the mathematics that inspires it.
 
 <div align="center" style="margin: 30px 0;">
@@ -70,7 +70,7 @@ Soft Skills: I solve problems, question assumptions, and explain ideas clearly. 
   </table>
 </div>
 
-Services That Transform
+### Services That Transform
 Envision leveraging data not only to respond, but to anticipate future trends. I provide tailored solutions grounded in mathematical rigor and designed for scalability.
 
 - *Predictive Powerhouses*: Models that forecast churn, sales, or risks with high accuracy by integrating statistical methods and machine learning.
@@ -84,7 +84,7 @@ Envision leveraging data not only to respond, but to anticipate future trends. I
   <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Connect%20Now-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Connect Now" height="45" style="transition: transform 0.4s; border-radius: 5px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/180x45?text=Connect+Now'"/></a>
 </div>
 
-The Evolution
+### The Evolution
 My path resembles a nonlinear optimization problem, characterized by gradients, local minima, and significant breakthroughs. I began with Python in 2022, achieved proficiency in machine learning by 2023, developed advanced data visualizations in 2024, and by late 2025, deployed systems that significantly improved efficiency. Looking ahead, I aim to explore quantum machine learning and related fields. This journey represents continuous integration, with each accomplishment building upon the previous one.
 
 <div style="border: 3px solid #2A9D8F; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(42, 157, 143, 0.6), inset 0 0 20px rgba(42, 157, 143, 0.4); max-width: 700px; margin: 30px auto;">
@@ -123,7 +123,7 @@ My path resembles a nonlinear optimization problem, characterized by gradients, 
   </p>
 </div>
 
-Neural Networks: Understanding the Mechanisms Underlying Their Function
+### Neural Networks: Understanding the Mechanisms Underlying Their Function
 
 Neural networks are a central focus of my current studies and exploration, including the mechanisms by which weighted inputs propagate through layers and the influence of activation functions such as ReLU on learning and prediction. I am developing a comprehensive understanding of both the conceptual and mathematical foundations of these models through practical engagement in experiments, simulations, and coursework.
 
@@ -137,7 +137,7 @@ These concepts are not merely theoretical; I am actively working to develop a de
   <p style="font-size: 16px; color: #E0E0E0; margin-top: 10px;">A symphony of nodes learning patterns—much like how I approach every challenge.</p>
 </div>
 
-Client Success Stories: Early Achievements and Tangible Impact
+### Client Success Stories: Early Achievements and Tangible Impact
 
 Early in my career, my work has shown measurable value. I helped a small startup identify customer behavior patterns, reducing churn by 15% and saving KES 350,000–500,000 within months. For a local resort, my traffic analysis increased online visibility, bringing in KES 700,000–1,200,000 in peak-season bookings.
 
@@ -156,7 +156,7 @@ These results demonstrate my ability to drive measurable value early in my caree
   </p>
 </div>
 
-Continuous Growth
+### Continuous Growth
 Skills are dynamic and continually develop. The following represents my current trajectory:
 
 
@@ -206,7 +206,7 @@ I believe that knowledge grows through sharing. Explore my writings on scaling m
   <a href="https://www.youtube.com/@BruceAmalemba"><img src="https://img.shields.io/badge/View%20Talks-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Talks" height="40" style="transition: box-shadow 0.4s; border-radius: 5px;" onmouseover="this.style.boxShadow='0 0 20px rgba(255, 0, 0, 0.8)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/200x40?text=Talks'"/></a>
 </div>
 
-Activity and Momentum
+### Activity and Momentum
 Consistency serves as a fundamental principle for achieving success.
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
@@ -219,7 +219,7 @@ Consistency serves as a fundamental principle for achieving success.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceAmalemba&theme=dracula&hide_border=true&bg_color=1F2A44&color=A3BFFA&line=FF6F61&point=FF6F61" alt="Activity Graph" style="max-width: 100%; border-radius: 10px;" onerror="this.src='https://via.placeholder.com/900x300?text=Activity+Graph'"/>
 </div>
 
-Key Fact: The Proliferation of Data
+### Key Fact: The Proliferation of Data
 Ninety percent of global data has been generated within the past two years. I am dedicated to addressing this unprecedented growth by developing robust analytical models.
 
 <div style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 25px; background: linear-gradient(135deg, #ffffff, #f0f0f0); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); margin: 40px 0; max-width: 700px; margin-left: auto; margin-right: auto; text-align: center;">
@@ -230,7 +230,7 @@ My name is Bruce, and I am a data architect. If my professional background align
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Reach%20Out-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Reach Out" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Reach+Out'"/></a>
     <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Connect'"/></a>
-    <a href="https://x.com/BruceWashika" target="_blank"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Follow'"/></a>
+    <a href="https://x.com/BruceAmalemba" target="_blank"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Follow'"/></a>
     <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="35" onerror="this.src='https://via.placeholder.com/150x35?text=Portfolio'"/></a>
   </div>
   <p style="margin-top: 25px; font-size: 15px; color: #888; font-family: 'Helvetica', 'Arial', sans-serif;">

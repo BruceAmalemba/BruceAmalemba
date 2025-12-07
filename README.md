@@ -2,13 +2,13 @@
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://www.transparenttextures.com/patterns/stardust.png'); opacity: 0.15; z-index: 0;"></div>
   <img src="assets/banner_animated.gif" alt="Bruce Amalemba - Data Scientist & Developer" width="100%" style="max-width: 850px; border-radius: 20px; box-shadow: 0 15px 30px rgba(0, 0, 0, 0.7); position: relative; z-index: 1; transition: all 0.6s ease;" onmouseover="this.style.transform='scale(1.03) rotate(1.5deg)'; this.style.boxShadow='0 20px 40px rgba(255, 111, 97, 1)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='0 15px 30px rgba(0, 0, 0, 0.7)'" onerror="this.src='https://via.placeholder.com/850x220?text=Bruce+Amalemba+-+Unlocking+Data+Stories'">
   <h1 style="font-size: 42px; font-family: 'Orbitron', sans-serif; color: #FF6F61; text-shadow: 0 0 20px #FF6F61, 0 0 30px #FF6F61; margin-top: 20px; position: relative; z-index: 1;">Bruce Amalemba</h1>
-  <h2 style="font-size: 28px; font-family: 'Orbitron', sans-serif; color: #A3BFFA; text-shadow: 0 0 15px #A3BFFA; margin-top: 5px; position: relative; z-index: 1;">Data Scientist | Developer | Math Enthusiast</h2>
+  <h2 style="font-size: 28px; font-family: 'Orbitron', sans-serif; color: #A3BFFA; text-shadow: 0 0 15px #A3BFFA; margin-top: 5px; position: relative; z-index: 1;">Data Scientist | Developer | Statistician</h2>
   <p style="font-size: 20px; color: #E0E0E0; text-shadow: 0 0 10px #A3BFFA; margin-top: 15px; max-width: 700px; line-height: 1.6; position: relative; z-index: 1;">In a world drowning in data, I build bridges from chaos to clarity. With a foundation in mathematics that sparks my curiosity, I craft solutions where algorithms meet real-world impact—predicting trends, optimizing paths, and revealing hidden patterns that drive decisions.</p>
 </div>
 
 <div align="center" style="margin: 30px 0; display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #0077B5);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
-  <a href="https://x.com/BruceWashika" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #1DA1F2);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
+  <a href="https://x.com/BruceAmalemba" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #1DA1F2);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
   <a href="https://brucesportfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #000000);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
   <a href="mailto:bruceamalemba007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="55" style="transition: transform 0.5s ease; filter: drop-shadow(0 0 12px #D14836);" onmouseover="this.style.transform='scale(1.15) rotate(8deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/></a>
 </div>
@@ -24,7 +24,7 @@ Picture this: A kid in Kenya, scribbling differential equations on scrap paper, 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF6F61&center=true&vCenter=true&width=500&lines=Data+as+Poetry;Algorithms+as+Symphonies;Insights+as+Revelations;Math+as+the+Compass" alt="Typing SVG" style="max-width: 500px;" onerror="this.src='https://via.placeholder.com/500x60?text=Data+Journey'"/>
 </div>
 
-### My Arsenal: Tools Forged for Precision
+### My Tools
 Grounded in a love for math, my skills blend rigorous analysis with creative problem-solving. I don't just use tools—I wield them to dissect complexity and build scalable solutions.
 
 - *Core Programming*: Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, statsmodels—my go-tos for data magic), R (tidyverse, ggplot2, caret for statistical depth), SQL for querying vast datasets, Excel/Power BI/Tableau for rapid prototyping, Git/GitHub for collaborative evolution, and Spark for when data gets massive.
@@ -35,7 +35,7 @@ Grounded in a love for math, my skills blend rigorous analysis with creative pro
   
 - *Analytical Edge*: Hypothesis testing, A/B trials, probabilistic modeling, regression suites, Bayesian inference, predictive analytics, and optimization like linear programming to maximize efficiency.
   
-- *The Human Touch*: Sharp problem-solving, critical dissection of assumptions, clear communication of complex ideas, and a portfolio of projects that prove impact. Plus, a dash of curiosity that keeps me learning—recently diving into quantum-inspired algorithms.
+- *Soft Skills*: Sharp problem-solving, critical dissection of assumptions, clear communication of complex ideas, and a portfolio of projects that prove impact. Plus, a dash of curiosity that keeps me learning—recently diving into quantum-inspired algorithms.
 
 <div style="border: 3px solid #F4A261; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(244, 162, 97, 0.6), inset 0 0 20px rgba(244, 162, 97, 0.4); max-width: 800px; margin: 30px auto;">
   <table align="center" style="width: 100%; border-collapse: collapse;">
@@ -70,7 +70,7 @@ Grounded in a love for math, my skills blend rigorous analysis with creative pro
   </table>
 </div>
 
-### Unlocking Value: Services That Transform
+### Services That Transform
 Imagine harnessing data to not just react, but anticipate. That's what I deliver—tailored solutions rooted in mathematical rigor and engineered for scale.
 
 - *Predictive Powerhouses*: Models that forecast churn, sales, or risks with uncanny accuracy, blending stats and ML.
@@ -84,7 +84,7 @@ Imagine harnessing data to not just react, but anticipate. That's what I deliver
   <a href="mailto:bruceamalemba007@gmail.com"><img src="https://img.shields.io/badge/Connect%20Now-FF5733?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Connect Now" height="45" style="transition: transform 0.4s; border-radius: 5px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" onerror="this.src='https://via.placeholder.com/180x45?text=Connect+Now'"/></a>
 </div>
 
-### The Evolution: Milestones in Motion
+### The Evolution
 My path? A nonlinear optimization problem—full of gradients, local minima, and breakthroughs. Started with Python in 2022, mastered ML by 2023, visualized empires in 2024, and by late 2025, deployed systems that redefined efficiency. Next? Quantum ML and beyond. It's a journey of continuous integration, where each commit builds on the last.
 
 <div style="border: 3px solid #2A9D8F; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(42, 157, 143, 0.6), inset 0 0 20px rgba(42, 157, 143, 0.4); max-width: 700px; margin: 30px auto;">
@@ -133,7 +133,7 @@ At the heart of my work? Neural networks—elegant mimics of cognition, where in
   <p style="font-size: 16px; color: #E0E0E0; margin-top: 10px;">A symphony of nodes learning patterns—much like how I approach every challenge.</p>
 </div>
 
-### Echoes of Impact: Client Tales
+### Client Tales
 In the shadows of data, I've illuminated paths: Reduced churn by 30% for a startup, unlocking $100K in savings; amplified a resort's reach to 10K visitors and $200K revenue; elevated engagement 15% via sentiment insights. These aren't stats—they're stories of transformation.
 
 > "Bruce's models didn't just predict; they propelled us forward." – Brian Obware, CEO  
@@ -147,7 +147,7 @@ In the shadows of data, I've illuminated paths: Reduced churn by 30% for a start
   </p>
 </div>
 
-### Proficiency Pulse: Always Ascending
+### Always Ascending
 Skills aren't static—they evolve. Here's my current vector:
 
 <div style="border: 3px solid #F4A261; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(244, 162, 97, 0.6), inset 0 0 20px rgba(244, 162, 97, 0.4); max-width: 600px; margin: 30px auto;">
@@ -157,7 +157,7 @@ Skills aren't static—they evolve. Here's my current vector:
   <p>Statistical Depth: <img src="https://progress-bar.dev/85/?title=85%25&width=250&color=4479A1" alt="Stats" onerror="this.src='https://via.placeholder.com/250x20?text=Stats+85%25'"/></p>
 </div>
 
-### Credentials: Badges of Battle
+### Badges of Battle
 Validated by the best:
 
 <div style="border: 3px solid #2A9D8F; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(42, 157, 143, 0.6), inset 0 0 20px rgba(42, 157, 143, 0.4); text-align: center; max-width: 700px; margin: 30px auto;">
@@ -168,7 +168,7 @@ Validated by the best:
   </p>
 </div>
 
-### Community Forge: Open Source Odyssey
+### Community
 Code thrives in the open. I've contributed to scikit-learn docs, Streamlit components, and pandas fixes—small sparks in a larger fire. Eager for more collaborations that push boundaries.
 
 <div style="border: 3px solid #264653; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(38, 70, 83, 0.6), inset 0 0 20px rgba(38, 70, 83, 0.4); text-align: center; max-width: 600px; margin: 30px auto;">
@@ -176,7 +176,7 @@ Code thrives in the open. I've contributed to scikit-learn docs, Streamlit compo
   <p style="font-size: 16px; color: #E0E0E0; margin-top: 10px;">Let's co-create—ideas welcome!</p>
 </div>
 
-### Dive Deeper: Explore the Code Labyrinth
+### Exploration
 Curious about the machinery? My repositories are portals to innovation—where math meets code in elegant dances. From ML ensembles solving riddles to dashboards painting futures, each one a theorem proven in practice. Venture in, fork, star, or collaborate; the proofs are in the commits.
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
@@ -188,7 +188,7 @@ Curious about the machinery? My repositories are portals to innovation—where m
 
 <p align="center" style="font-size: 18px; color: #A3BFFA; margin: 20px 0;">These are gateways—step through to see the full spectrum. <a href="https://github.com/BruceAmalemba?tab=repositories" style="color: #FF6F61; text-decoration: none; font-weight: bold;">Unlock all repositories here.</a></p>
 
-### Insights Shared: Blogs & Discourses
+### Insights Shared
 Knowledge multiplies when shared. Dive into my writings on scaling ML or crafting visual epics, or catch my talks on data's untapped potential.
 
 <div style="border: 3px solid #2A9D8F; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1F2A44, #3B4A6B); box-shadow: 0 0 25px rgba(42, 157, 143, 0.6), inset 0 0 20px rgba(42, 157, 143, 0.4); text-align: center; max-width: 600px; margin: 30px auto;">
@@ -196,7 +196,7 @@ Knowledge multiplies when shared. Dive into my writings on scaling ML or craftin
   <a href="https://www.youtube.com/@BruceAmalemba"><img src="https://img.shields.io/badge/View%20Talks-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Talks" height="40" style="transition: box-shadow 0.4s; border-radius: 5px;" onmouseover="this.style.boxShadow='0 0 20px rgba(255, 0, 0, 0.8)'" onmouseout="this.style.boxShadow='none'" onerror="this.src='https://via.placeholder.com/200x40?text=Talks'"/></a>
 </div>
 
-### Pulse Check: Activity & Momentum
+### Activity & Momentum
 Consistency is the algorithm of success.
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
@@ -227,3 +227,4 @@ Consistency is the algorithm of success.
     All under MIT license—open for exploration and synergy.
   </p>
 </div>
+

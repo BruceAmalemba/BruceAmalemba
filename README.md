@@ -30,12 +30,26 @@ I build BI dashboards, clean and structure data, and develop reliable systems th
 <br/>
 <img src="https://komarev.com/ghpvc/?username=BruceAmalemba&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
+<p>
+  <a href="https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba"><b>Portfolio</b></a> ·
+  <a href="https://github.com/BruceAmalemba?tab=repositories"><b>Repositories</b></a> ·
+  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><b>LinkedIn</b></a> ·
+  <a href="mailto:bruceamalemba007@gmail.com"><b>Email</b></a>
+</p>
+
 </div>
 
 ---
 
+## Profile
+- Based in Kenya (EAT, UTC+3)
+- Maseno University — Applied Statistics
+- Interests: BI systems, data quality, forecasting, ML, and practical analytics
+
+---
+
 ## Core Strengths
-- **Business Intelligence:** Power BI dashboards, KPI design, data models, DAX, Power Query  
+- **Business Intelligence:** Power BI dashboards, KPI design, data modeling, DAX, Power Query  
 - **Data Cleaning & Structuring:** Excel/CSV → tidy tables → consistent schemas (SQL / Python / R)  
 - **Analytics & Statistics:** forecasting, inference, experiments, and decision support  
 - **Backend for Data Products:** Django/DRF APIs, Postgres, validation, testing, automation
@@ -67,14 +81,31 @@ I build BI dashboards, clean and structure data, and develop reliable systems th
 ---
 
 ## Work I Deliver
-- **Dashboards:** executive KPIs, operational dashboards, drill-down analysis, refresh-ready models  
+- **Dashboards:** executive KPIs, operational reporting, drill-down analysis, refresh-ready models  
 - **Data Pipelines:** cleaning rules, validation, transformations, and repeatable refresh flows  
 - **Analytics:** trend analysis, forecasting, segmentation, and statistical testing  
-- **Systems:** lightweight web tools and APIs that keep data accurate and usable
+- **Systems:** lightweight tools and APIs that keep data accurate and usable
 
 ---
 
-## Featured Projects
+## Selected Projects
+| Project | Focus | Links |
+|---|---|---|
+| Machine Learning Models | ML experiments and implementations | [Repo](https://github.com/BruceAmalemba/Machine-Learning-Models) |
+| Official Ambururu Website | Public website delivery | [Repo](https://github.com/BruceAmalemba/Official-Ambururu-Website) · [Live](https://ambururuwaterfallsconservancy.com/) |
+| Sentiment Analysis Tool | NLP + sentiment workflow | [Repo](https://github.com/BruceAmalemba/Sentiment-Analysis-Tool) |
+| Ambururu Waterfall Resort | Web product build | [Repo](https://github.com/BruceAmalemba/Ambururu-Waterfall-Resort) |
+
+<div align="center">
+
+**All repositories:** <a href="https://github.com/BruceAmalemba?tab=repositories"><b>Open</b></a>  
+**Portfolio:** <a href="https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba"><b>Open</b></a>
+
+</div>
+
+<details>
+<summary><b>Project Cards</b></summary>
+<br/>
 <div align="center">
 
 <a href="https://github.com/BruceAmalemba/Machine-Learning-Models">
@@ -94,24 +125,34 @@ I build BI dashboards, clean and structure data, and develop reliable systems th
 </a>
 
 </div>
+</details>
 
-<div align="center">
+---
 
-**All repositories:** https://github.com/BruceAmalemba?tab=repositories  
-**Portfolio:** https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba
+## Current Builds
+- **PenyPilot** — finance tracking system (Django/DRF + Postgres + React), built around a month-ledger workflow and clean validation  
+- **Kenya Price Tracker** — structured market price collection + tracking with an emphasis on reliable updates and usable outputs  
+- **TenderPulse KE** — tender aggregation + search + deadline alerts for SMEs
 
-</div>
+---
+
+## AI & Machine Learning
+I’ve been drawn to machine learning because it sits at the intersection of statistics, optimization, and computation. The current pace of AI progress is remarkable, and I’m grateful to be building in this era.
+
+I also advocate for AI literacy: learning how to use AI tools responsibly to move faster while maintaining strong judgment, verification, and clear thinking.
 
 ---
 
 ## Current Build Focus
 - BI dashboards and reusable templates for common SME reporting needs  
-- Data-first web products that combine structured data + simple UX  
+- Data-first products that combine structured data + simple UX  
 - API-backed workflows for tracking, reporting, and alerts
 
 ---
 
-## GitHub Activity
+<details>
+<summary><b>GitHub Activity</b></summary>
+<br/>
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=BruceAmalemba&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
@@ -123,6 +164,7 @@ I build BI dashboards, clean and structure data, and develop reliable systems th
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceAmalemba&theme=dracula&hide_border=true" alt="Activity Graph" />
 
 </div>
+</details>
 
 ---
 

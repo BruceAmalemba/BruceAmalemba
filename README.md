@@ -7,7 +7,7 @@
 # Bruce Amalemba  
 ### Business Intelligence • Data • Software | Statistician
 
-I build BI dashboards, structure data for accuracy, and develop reliable systems that turn data into decisions.
+I build BI dashboards, clean and structure data, and develop reliable systems that turn data into decisions.
 
 <br/>
 
@@ -33,10 +33,18 @@ I build BI dashboards, structure data for accuracy, and develop reliable systems
 <p>
   <a href="https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba"><b>Portfolio</b></a> ·
   <a href="https://github.com/BruceAmalemba?tab=repositories"><b>Repositories</b></a> ·
+  <a href="https://www.linkedin.com/in/bruce-washika-1aaa56310"><b>LinkedIn</b></a> ·
   <a href="mailto:bruceamalemba007@gmail.com"><b>Email</b></a>
 </p>
 
 </div>
+
+---
+
+## Profile
+- Based in Kenya (EAT, UTC+3)
+- Maseno University — Applied Statistics
+- Interests: BI systems, data quality, forecasting, ML, and practical analytics
 
 ---
 
@@ -49,16 +57,14 @@ I build BI dashboards, structure data for accuracy, and develop reliable systems
 ---
 
 ## Tech Stack
-**BI & Analytics**
-- Power BI (DAX, Power Query, modeling) • SQL  
-- Python (pandas, NumPy, scikit-learn, statsmodels, matplotlib)  
-- R (tidyverse, ggplot2)  
-- Spreadsheets (basic)
+**BI & Analysis**
+- Power BI • Excel • SQL  
+- pandas • NumPy • scikit-learn • statsmodels  
+- tidyverse • ggplot2  
 
-**Engineering**
+**Backend & Data Systems**
 - Django • DRF • Postgres  
-- Git/GitHub • Linux  
-- React (for data tools when a UI is needed)
+- Git/GitHub • Linux • Docker (when needed)
 
 <div align="center">
 
@@ -67,31 +73,34 @@ I build BI dashboards, structure data for accuracy, and develop reliable systems
 <br/>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
-<img src="https://img.shields.io/badge/SQL-2F6FED?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 
 </div>
 
 ---
 
 ## Work I Deliver
-- **Dashboards:** executive KPIs, operational dashboards, drill-down analysis, refresh-ready models  
+- **Dashboards:** executive KPIs, operational reporting, drill-down analysis, refresh-ready models  
 - **Data Pipelines:** cleaning rules, validation, transformations, and repeatable refresh flows  
 - **Analytics:** trend analysis, forecasting, segmentation, and statistical testing  
-- **Systems:** lightweight web tools and APIs that keep data accurate and usable
+- **Systems:** lightweight tools and APIs that keep data accurate and usable
 
 ---
 
-## Featured Projects
-**Public work**
-- **Machine Learning Models** — [Repository](https://github.com/BruceAmalemba/Machine-Learning-Models)
-- **Official Ambururu Website** — [Repository](https://github.com/BruceAmalemba/Official-Ambururu-Website)
-- **Sentiment Analysis Tool** — [Repository](https://github.com/BruceAmalemba/Sentiment-Analysis-Tool)
-- **Ambururu Waterfall Resort** — [Repository](https://github.com/BruceAmalemba/Ambururu-Waterfall-Resort)
+## Selected Projects
+| Project | Focus | Links |
+|---|---|---|
+| Machine Learning Models | ML experiments and implementations | [Repo](https://github.com/BruceAmalemba/Machine-Learning-Models) |
+| Official Ambururu Website | Public website delivery | [Repo](https://github.com/BruceAmalemba/Official-Ambururu-Website) · [Live](https://ambururuwaterfallsconservancy.com/) |
+| Sentiment Analysis Tool | NLP + sentiment workflow | [Repo](https://github.com/BruceAmalemba/Sentiment-Analysis-Tool) |
+| Ambururu Waterfall Resort | Web product build | [Repo](https://github.com/BruceAmalemba/Ambururu-Waterfall-Resort) |
 
 <div align="center">
-  <a href="https://github.com/BruceAmalemba?tab=repositories"><b>All repositories</b></a> ·
-  <a href="https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba"><b>Portfolio</b></a>
+
+**All repositories:** <a href="https://github.com/BruceAmalemba?tab=repositories"><b>Open</b></a>  
+**Portfolio:** <a href="https://ambururuwaterfallsconservancy.com/Bruce%20Amalemba"><b>Open</b></a>
+
 </div>
 
 <details>
@@ -100,19 +109,19 @@ I build BI dashboards, structure data for accuracy, and develop reliable systems
 <div align="center">
 
 <a href="https://github.com/BruceAmalemba/Machine-Learning-Models">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Machine-Learning-Models&theme=dracula&hide_border=true&cache_seconds=86400" alt="Machine Learning Models" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Machine-Learning-Models&theme=dracula&hide_border=true" alt="Machine Learning Models" />
 </a>
 
 <a href="https://github.com/BruceAmalemba/Official-Ambururu-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Official-Ambururu-Website&theme=dracula&hide_border=true&cache_seconds=86400" alt="Official Ambururu Website" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Official-Ambururu-Website&theme=dracula&hide_border=true" alt="Official Ambururu Website" />
 </a>
 
 <a href="https://github.com/BruceAmalemba/Sentiment-Analysis-Tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Sentiment-Analysis-Tool&theme=dracula&hide_border=true&cache_seconds=86400" alt="Sentiment Analysis Tool" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Sentiment-Analysis-Tool&theme=dracula&hide_border=true" alt="Sentiment Analysis Tool" />
 </a>
 
 <a href="https://github.com/BruceAmalemba/Ambururu-Waterfall-Resort">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Ambururu-Waterfall-Resort&theme=dracula&hide_border=true&cache_seconds=86400" alt="Ambururu Waterfall Resort" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BruceAmalemba&repo=Ambururu-Waterfall-Resort&theme=dracula&hide_border=true" alt="Ambururu Waterfall Resort" />
 </a>
 
 </div>
@@ -121,47 +130,41 @@ I build BI dashboards, structure data for accuracy, and develop reliable systems
 ---
 
 ## Current Builds
-**Active**
-- **PenyPilot** — finance tracking system with an API-first ledger workflow (private during build)
-- **Kenya Price Tracker** — market price collection and tracking (active)
-
-**Private builds (in progress / not public yet)**
-- **CVBuilder**
-- **CampusGigs**
-- **MamaPay**
-- **DawaCheck**
-- **Chama Society system** (current)
+- **PenyPilot** — finance tracking system (Django/DRF + Postgres + React), built around a month-ledger workflow and clean validation  
+- **Kenya Price Tracker** — structured market price collection + tracking with an emphasis on reliable updates and usable outputs  
+- **TenderPulse KE** — tender aggregation + search + deadline alerts for SMEs
 
 ---
 
 ## AI & Machine Learning
-Machine learning has been my interest long before the current AI surge — because it’s where **statistics, optimization, and computation** meet.
+I’ve been drawn to machine learning because it sits at the intersection of statistics, optimization, and computation. The current pace of AI progress is remarkable, and I’m grateful to be building in this era.
 
-I use AI tools to accelerate research, drafting, debugging, and iteration — but I don’t outsource judgment. My default is: verify, measure, and document.
-
-I also advocate for **AI fluency**: learning how to use modern AI responsibly so people can move faster without losing clarity, accuracy, or ownership of the final work.
+I also advocate for AI literacy: learning how to use AI tools responsibly to move faster while maintaining strong judgment, verification, and clear thinking.
 
 ---
 
 ## Current Build Focus
-- BI dashboards and reusable templates for common reporting needs  
+- BI dashboards and reusable templates for common SME reporting needs  
 - Data-first products that combine structured data + simple UX  
 - API-backed workflows for tracking, reporting, and alerts
 
 ---
 
-## GitHub Activity
+<details>
+<summary><b>GitHub Activity</b></summary>
+<br/>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BruceAmalemba&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=BruceAmalemba&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruceAmalemba&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAmalemba&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceAmalemba&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceAmalemba&theme=dracula&hide_border=true" alt="Activity Graph" />
 
 </div>
+</details>
 
 ---
 

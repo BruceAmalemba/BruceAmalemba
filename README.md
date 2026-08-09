@@ -6,7 +6,7 @@
 </a>
 
 # Bruce I. Amalemba  
-### Co-Founder  @ Kaldrix | Applied Statistician | Data | Software
+### Co-Founder & Technical Architect @ Kaldrix | Applied Statistician
 
 *Translating rigorous statistical models and data science theory into practical, high-impact enterprise solutions.*
 
@@ -32,14 +32,14 @@
 
 ---
 
-## 🏛 Profile
+## 🏛 Executive Profile
 I am a Nairobi-based tech entrepreneur and data professional. With a deep background in Applied Statistics and Information Technology from Maseno University, I provide the mathematical and architectural foundation for highly complex operations. 
 
 As the **Co-Founder and Technical Architect at [Kaldrix](https://www.kaldrix.org)**, I oversee the high-performance infrastructure that powers our global data solutions. I partner directly with enterprise stakeholders to align complex technical deployments—ranging from predictive analytics pipelines to cloud infrastructure—with high-level strategic business objectives.
 
 ---
 
-##  Architecting at Kaldrix
+## 🌍 Architecting at Kaldrix
 At Kaldrix, we are a premier global syndicate of data scientists, enterprise architects, and consultants powering Africa's digital infrastructure. We combine rigorous academic theory with elite technical execution to serve academic researchers, small businesses, and startups. 
 
 My current architectural focus includes:
@@ -50,7 +50,7 @@ My current architectural focus includes:
 
 ---
 
-## Technical Consulting Services
+## 🧠 Technical Consulting Services
 
 | Service | Execution & Deliverables |
 | :--- | :--- |
@@ -62,7 +62,7 @@ My current architectural focus includes:
 
 ---
 
-## ⚙️ Tools
+## ⚙️ Technical Arsenal
 
 <div align="center">
 
@@ -78,7 +78,7 @@ My current architectural focus includes:
 
 ---
 
-## Open-Source Initiatives
+## 📈 Selected Open-Source Initiatives
 
 <div align="center">
 
@@ -93,18 +93,19 @@ My current architectural focus includes:
 
 ---
 
-## 🏅
+## 🏅 Professional Certifications
 *Instant verification of advanced humanitarian data management and monitoring frameworks.*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Field_Adaptive_Management-111827?style=for-the-badge&logo=credly&logoColor=F2C811" alt="Field Adaptive Management" />
-  <img src="https://img.shields.io/badge/Field_Data_Standards-111827?style=for-the-badge&logo=credly&logoColor=F2C811" alt="Field Data Standards" />
-  <img src="https://img.shields.io/badge/Field_Logic_Models-111827?style=for-the-badge&logo=credly&logoColor=F2C811" alt="Field Logic Models" />
-  <img src="https://img.shields.io/badge/Introduction_to_MEAL-111827?style=for-the-badge&logo=credly&logoColor=F2C811" alt="Introduction to MEAL" />
+  <img src="2026-08-06_field-adaptive-management.png" alt="Field Adaptive Management" height="150" />
+  <img src="2026-08-06_field-data-standards.png" alt="Field Data Standards" height="150" />
+  <img src="2026-08-06_field-logic-models.png" alt="Field Logic Models" height="150" />
+  <img src="2026-08-07_field-introduction-to-meal.png" alt="Introduction to MEAL" height="150" />
 </div>
 
 ---
 
+## 📊 Analytics Profile
 *Consistent execution and contribution to the global open-source community.*
 
 <div align="center">

@@ -39,7 +39,7 @@ As the **Co-Founder and Technical Architect at [Kaldrix](https://www.kaldrix.org
 
 ---
 
-## 🌍 Architecting at Kaldrix
+##  Architecting at Kaldrix
 At Kaldrix, we are a premier global syndicate of data scientists, enterprise architects, and consultants powering Africa's digital infrastructure. We combine rigorous academic theory with elite technical execution to serve academic researchers, small businesses, and startups. 
 
 My current architectural focus includes:
@@ -50,7 +50,7 @@ My current architectural focus includes:
 
 ---
 
-## 🧠 Technical Consulting Services
+## Technical Consulting Services
 
 | Service | Execution & Deliverables |
 | :--- | :--- |
@@ -62,7 +62,7 @@ My current architectural focus includes:
 
 ---
 
-## ⚙️ Technical Arsenal
+## ⚙️ Tools
 
 <div align="center">
 
@@ -105,7 +105,7 @@ My current architectural focus includes:
 
 ---
 
-## 📊 Analytics Profile
+## Analytics Profile
 *Consistent execution and contribution to the global open-source community.*
 
 <div align="center">

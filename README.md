@@ -1,24 +1,25 @@
 <div align="center">
 
 <a href="https://www.kaldrix.org/BruceAmalemba">
-  <img src="assets/banner_animated.gif" alt="Bruce Amalemba — Portfolio" width="100%" />
+  <!-- Replace the src below with your actual banner if you have one, or leave this to use the Kaldrix default style -->
+  <img src="https://img.shields.io/badge/KALDRIX-Global_Strategy,_Technology_&_Data_Consulting-111827?style=for-the-badge" alt="Kaldrix" width="100%" />
 </a>
 
 # Bruce I. Amalemba  
-### Co-Founder @ Kaldrix | Applied Statistician | Data Infrastructure Architect
+### Co-Founder  @ Kaldrix | Applied Statistician | Data | Software
 
-*Bridging the gap between advanced statistical theory and scalable, enterprise-grade technology.*
+*Translating rigorous statistical models and data science theory into practical, high-impact enterprise solutions.*
 
 <br/>
 
 <a href="https://www.kaldrix.org/BruceAmalemba">
-  <img src="https://img.shields.io/badge/Official_Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/bruce-amalemba-1aaa56310">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:bruceamalemba007@gmail.com">
-  <img src="https://img.shields.io/badge/Executive_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:bruce@kaldrix.org">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://x.com/BruceAmalemba">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
@@ -31,33 +32,37 @@
 
 ---
 
-## 🏛 Executive Profile
-I am a Nairobi-based tech entrepreneur and data professional specializing in **Business Intelligence, Machine Learning, and Humanitarian Data Systems**. With a rigorous foundation in Applied Statistics, I don't just build dashboards—I architect end-to-end data pipelines that empower SMEs, NGOs, and global organizations to make high-stakes decisions with absolute confidence.
+## 🏛 Profile
+I am a Nairobi-based tech entrepreneur and data professional. With a deep background in Applied Statistics and Information Technology from Maseno University, I provide the mathematical and architectural foundation for highly complex operations. 
 
-Currently, I lead strategic data initiatives as the Co-Founder of **[Kaldrix](https://www.kaldrix.org)**, a premier tech and data consultancy firm.
-
----
-
-##  Founder & Consultant @ Kaldrix
-At **Kaldrix**, we deliver state-of-the-art data analytics and cloud infrastructure to early-stage enterprises. As Co-Founder, my primary focuses include:
-*   **Enterprise BI Solutions:** Designing executive-level KPIs, drill-down analytics, and real-time dashboards for corporate clients.
-*   **Kaldrix Academy:** Architecting our educational platform to foster elite tech talent across East Africa.
-*   **Field Research & MEAL Frameworks:** Designing robust, offline-capable digital data collection pipelines for NGOs and academic institutions.
+As the **Co-Founder and Technical Architect at [Kaldrix](https://www.kaldrix.org)**, I oversee the high-performance infrastructure that powers our global data solutions. I partner directly with enterprise stakeholders to align complex technical deployments—ranging from predictive analytics pipelines to cloud infrastructure—with high-level strategic business objectives.
 
 ---
 
-##  Core Capabilities & Consulting Services
+##  Architecting at Kaldrix
+At Kaldrix, we are a premier global syndicate of data scientists, enterprise architects, and consultants powering Africa's digital infrastructure. We combine rigorous academic theory with elite technical execution to serve academic researchers, small businesses, and startups. 
 
-| Area of Expertise | Execution & Deliverables |
+My current architectural focus includes:
+*   **PennyPilot:** An enterprise-grade financial management platform powered by AI, designed to help users navigate their wealth and control spending velocity.
+*   **Automated SME Data Pipelines:** Lightweight, automated pipelines designed to help local SMEs process daily sales data, apply validation rules, and output analytics-ready datasets.
+*   **Sales & Demand Forecasting (SARIMA):** Utilizing advanced statistical models to help local retailers forecast product demand and capture seasonal trends.
+*   **Reign Autospares Partnership:** Deploying custom inventory dashboards and digital presence solutions to digitize local retail.
+
+---
+
+## Technical Consulting Services
+
+| Service | Execution & Deliverables |
 | :--- | :--- |
-| **Statistical Modeling & ML** | Predictive analytics, Time Series Forecasting, Bayesian Inference, and Multivariate modeling for complex datasets. |
-| **Data Engineering & APIs** | End-to-end pipelines (SQL/Python/R), data cleaning protocols, and Django/DRF backends for robust data products. |
-| **Humanitarian Data (MEAL)** | Survey design, KoBoToolbox/ODK deployment, qualitative/quantitative management, and demographic research. |
-| **Business Intelligence** | High-fidelity Power BI and Tableau dashboards engineered for C-suite reporting and operational tracking. |
+| **Statistical Consulting** | Rigorous statistical modeling, data cleaning, and hypothesis testing for complex research datasets. |
+| **Field Research Design** | Survey design, sampling methodology, and offline digital data collection for academic and NGO research. |
+| **Process Automation** | Replacing manual spreadsheets with automated workflows to save time and reduce human error. |
+| **Data Analytics & BI** | Custom dashboards and analytics frameworks that help small businesses make data-driven decisions. |
+| **Custom Web Apps** | Affordable, scalable web applications and MVPs built for local startups and early-stage companies. |
 
 ---
 
-## ⚙️ Technical Arsenal
+## ⚙️ Tools
 
 <div align="center">
 
@@ -73,9 +78,7 @@ At **Kaldrix**, we deliver state-of-the-art data analytics and cloud infrastruct
 
 ---
 
-## Selected Technical Initiatives
-
-I believe in building products that solve actual market problems. Below are selected initiatives highlighting my technical capabilities:
+## Open-Source Initiatives
 
 <div align="center">
 
@@ -88,31 +91,20 @@ I believe in building products that solve actual market problems. Below are sele
 
 </div>
 
-*   **Temporal Analysis of Super Petrol Prices (Academic Thesis):** A comprehensive economic time-series model forecasting pricing behaviors across a 19-year dataset, directly informing macroeconomic evaluation.
-*   **Kenya Price Tracker (In Development):** A robust market price collection platform emphasizing reliable updates, structured data aggregation, and usable market outputs.
-*   **PenyPilot (In Development):** A scalable finance tracking system built on Django/DRF and Postgres, engineered around a month-ledger workflow with stringent data validation.
-
 ---
 
-## ⚖️ Ethics in Artificial Intelligence
-The rapid pace of AI advancement requires equally rigorous oversight. I am a strong advocate for **AI Literacy and Responsible Data Management**. 
-Holding advanced certifications in **Ethical AI in Humanitarian Work** and **Data Rights**, I prioritize building systems that are not only computationally powerful, but verifiable, unbiased, and socially responsible.
-
----
-
-## 🏅 Professional Certifications & Badges
-I hold advanced certifications in humanitarian data management and monitoring frameworks.
+## 🏅
+*Instant verification of advanced humanitarian data management and monitoring frameworks.*
 
 <div align="center">
-  <img src="assets/2026-08-06_field-adaptive-management.png" width="120" alt="Field Adaptive Management" />
-  <img src="assets/2026-08-06_field-data-standards.png" width="120" alt="Field Data Standards" />
-  <img src="assets/2026-08-06_field-logic-models.png" width="120" alt="Field Logic Models" />
-  <img src="assets/2026-08-07_field-introduction-to-meal.png" width="120" alt="Introduction to MEAL" />
+  <img src="https://img.shields.io/badge/Field_Adaptive_Management-111827?style=for-the-badge&logo=credly&logoColor=F2C811" alt="Field Adaptive Management" />
+  <img src="https://img.shields.io/badge/Field_Data_Standards-111827?style=for-the-badge&logo=credly&logoColor=F2C811" alt="Field Data Standards" />
+  <img src="https://img.shields.io/badge/Field_Logic_Models-111827?style=for-the-badge&logo=credly&logoColor=F2C811" alt="Field Logic Models" />
+  <img src="https://img.shields.io/badge/Introduction_to_MEAL-111827?style=for-the-badge&logo=credly&logoColor=F2C811" alt="Introduction to MEAL" />
 </div>
 
 ---
 
-## Analytics Profile
 *Consistent execution and contribution to the global open-source community.*
 
 <div align="center">

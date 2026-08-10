@@ -6,7 +6,7 @@
 </a>
 
 # Bruce I. Amalemba  
-### Co-Founder & Technical Architect @ Kaldrix | Applied Statistician
+### Co-Founder  @ Kaldrix | Applied Statistician | Data | Software 
 
 *Translating rigorous statistical models and data science theory into practical, high-impact enterprise solutions.*
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🏛 Executive Profile
+## 🏛 Profile
 I am a Nairobi-based tech entrepreneur and data professional. With a deep background in Applied Statistics and Information Technology from Maseno University, I provide the mathematical and architectural foundation for highly complex operations. 
 
 As the **Co-Founder and Technical Architect at [Kaldrix](https://www.kaldrix.org)**, I oversee the high-performance infrastructure that powers our global data solutions. I partner directly with enterprise stakeholders to align complex technical deployments—ranging from predictive analytics pipelines to cloud infrastructure—with high-level strategic business objectives.
@@ -50,7 +50,7 @@ My current architectural focus includes:
 
 ---
 
-## Technical Consulting Services
+## Consulting Services
 
 | Service | Execution & Deliverables |
 | :--- | :--- |
@@ -78,7 +78,7 @@ My current architectural focus includes:
 
 ---
 
-## 📈 Selected Open-Source Initiatives
+##Open-Source Initiatives
 
 <div align="center">
 
@@ -93,7 +93,7 @@ My current architectural focus includes:
 
 ---
 
-## 🏅 Professional Certifications
+## 🏅Certifications
 *Instant verification of advanced humanitarian data management and monitoring frameworks.*
 
 <div align="center">

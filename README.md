@@ -6,7 +6,7 @@
 </a>
 
 # Bruce I. Amalemba  
-### Co-Founder  @ Kaldrix | Applied Statistician | Data | Software 
+### Entrepreneur| Co-Founder | Applied Statistician | Data | Software 
 
 *Translating rigorous statistical models and data science theory into practical, high-impact enterprise solutions.*
 
